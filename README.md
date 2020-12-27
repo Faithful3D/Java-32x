@@ -1,7 +1,10 @@
-![RepoSize](https://img.shields.io/github/repo-size/Compliance-Addons/Compliance-3D?style=flat-square)
-![Issues](https://img.shields.io/github/issues/Compliance-Addons/Compliance-3D?style=flat-square)
-![PullRequests](https://img.shields.io/github/issues-pr/Compliance-Addons/Compliance-3D?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Compliance-Addons/Compliance-3D?style=flat-square)
+<p align="center">
+  <h1 align="center">Compliance 3D</h1>
+  <div align="center">
+    ![RepoSize](https://img.shields.io/github/repo-size/Compliance-Addons/Compliance-3D?style=flat-square)
+    ![Issues](https://img.shields.io/github/issues/Compliance-Addons/Compliance-3D?style=flat-square)
+    ![PullRequests](https://img.shields.io/github/issues-pr/Compliance-Addons/Compliance-3D?style=flat-square)
+    ![Stars](https://img.shields.io/github/stars/Compliance-Addons/Compliance-3D?style=flat-square)
   </div>
 </p>
 
