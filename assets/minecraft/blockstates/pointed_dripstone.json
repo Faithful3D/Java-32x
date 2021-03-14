@@ -1,0 +1,19 @@
+{
+	"comment": "Designed by Juknum",
+	"variants": {
+		"thickness=base,vertical_direction=down":      { "model": "block/pointed_dripstone/pointed_dripstone_base",      "x": 180 },
+		"thickness=base,vertical_direction=up":        { "model": "block/pointed_dripstone/pointed_dripstone_base"                },
+
+		"thickness=frustum,vertical_direction=down":   { "model": "block/pointed_dripstone/pointed_dripstone_frustum",   "x": 180 },
+		"thickness=frustum,vertical_direction=up":     { "model": "block/pointed_dripstone/pointed_dripstone_frustum"             },
+
+		"thickness=middle,vertical_direction=down":    { "model": "block/pointed_dripstone/pointed_dripstone_middle",    "x": 180 },
+		"thickness=middle,vertical_direction=up":      { "model": "block/pointed_dripstone/pointed_dripstone_middle"              },
+
+		"thickness=tip,vertical_direction=down":       { "model": "block/pointed_dripstone/pointed_dripstone_tip",       "x": 180 },
+		"thickness=tip,vertical_direction=up":         { "model": "block/pointed_dripstone/pointed_dripstone_tip"                 },
+		
+		"thickness=tip_merge,vertical_direction=down": { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge", "x": 180 },
+		"thickness=tip_merge,vertical_direction=up":   { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge"           }
+	}
+}
