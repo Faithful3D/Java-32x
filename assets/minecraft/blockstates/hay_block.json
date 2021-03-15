@@ -1,0 +1,8 @@
+{
+	"comment": "Designed by Juknum",
+	"variants": {
+		"axis=x": { "model": "block/hay_bale/hay_bale", "x": 90, "y": 90  },
+		"axis=y": { "model": "block/hay_bale/hay_bale"                    },
+		"axis=z": { "model": "block/hay_bale/hay_bale", "x": 90           }
+	}
+}

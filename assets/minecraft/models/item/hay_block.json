@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "block/hay_bale/hay_bale",
+	"textures": {
+		"0": "block/hay_block_side",
+		"1": "block/hay_block_top",
+		"2": "block/red_wool",
+		"particle": "block/hay_block_side"
+	}
+}
