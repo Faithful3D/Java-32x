@@ -1,20 +1,107 @@
 {
 	"comment": "Designed by Juknum",
-	"variants": {
-		"powered=false,shape=north_south":     { "model": "block/rail/powered_rail/powered_rail"                     },
-		"powered=false,shape=east_west":       { "model": "block/rail/powered_rail/powered_rail",           "y":  90 },
+	"multipart": [
+		{	
+			"when": { "shape": "north_south", "waterlogged": false  },
+			"apply": { "model": "block/rail/rail" }
+		},
+		{	
+			"when": { "shape": "east_west", "waterlogged": false  },
+			"apply": { "model": "block/rail/rail", "y": 90 }
+		},
+		{	
+			"when": { "shape": "north_south", "waterlogged": true  },
+			"apply": { "model": "block/rail/rail_waterlogged" }
+		},
+		{	
+			"when": { "shape": "east_west", "waterlogged": true  },
+			"apply": { "model": "block/rail/rail_waterlogged", "y": 90 }
+		},
 
-		"powered=false,shape=ascending_north": { "model": "block/rail/powered_rail/powered_rail_raised"              },
-		"powered=false,shape=ascending_east":  { "model": "block/rail/powered_rail/powered_rail_raised",    "y":  90 },
-		"powered=false,shape=ascending_west":  { "model": "block/rail/powered_rail/powered_rail_raised",    "y": -90 },
-		"powered=false,shape=ascending_south": { "model": "block/rail/powered_rail/powered_rail_raised",    "y": 180 },
+		{
+			"when": { "powered": true, "shape": "north_south" },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_on" }
+		},
+		{
+			"when": { "powered": false, "shape": "north_south" },
+			"apply": { "model": "block/rail/powered_rail/powered_rail" }
+		},
+		{
+			"when": { "powered": true, "shape": "east_west" },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_on", "y": 90 }
+		},
+		{
+			"when": { "powered": false, "shape": "east_west" },
+			"apply": { "model": "block/rail/powered_rail/powered_rail", "y": 90 }
+		},
 
-		"powered=true,shape=north_south":      { "model": "block/rail/powered_rail/powered_rail_on"               },
-		"powered=true,shape=east_west":        { "model": "block/rail/powered_rail/powered_rail_on",        "y":  90 },
+		{
+			"when": { "shape": "ascending_north", "waterlogged": false },
+			"apply": { "model": "block/rail/rail_raised" }
+		},
+		{
+			"when": { "shape": "ascending_south", "waterlogged": false },
+			"apply": { "model": "block/rail/rail_raised", "y": 180 }
+		},
+		{
+			"when": { "shape": "ascending_east", "waterlogged": false },
+			"apply": { "model": "block/rail/rail_raised", "y": 90 }
+		},
+		{
+			"when": { "shape": "ascending_west", "waterlogged": false },
+			"apply": { "model": "block/rail/rail_raised", "y": -90 }
+		},
 
-		"powered=true,shape=ascending_north":  { "model": "block/rail/powered_rail/powered_rail_on_raised"           },
-		"powered=true,shape=ascending_east":   { "model": "block/rail/powered_rail/powered_rail_on_raised", "y":  90 },
-		"powered=true,shape=ascending_west":   { "model": "block/rail/powered_rail/powered_rail_on_raised", "y": -90 },
-		"powered=true,shape=ascending_south":  { "model": "block/rail/powered_rail/powered_rail_on_raised", "y": 180 }
-	}
+		{
+			"when": { "shape": "ascending_north", "waterlogged": true },
+			"apply": { "model": "block/rail/rail_raised_waterlogged" }
+		},
+		{
+			"when": { "shape": "ascending_south", "waterlogged": true },
+			"apply": { "model": "block/rail/rail_raised_waterlogged", "y": 180 }
+		},
+		{
+			"when": { "shape": "ascending_east", "waterlogged": true },
+			"apply": { "model": "block/rail/rail_raised_waterlogged", "y": 90 }
+		},
+		{
+			"when": { "shape": "ascending_west", "waterlogged": true },
+			"apply": { "model": "block/rail/rail_raised_waterlogged", "y": -90 }
+		},
+
+		{
+			"when": { "shape": "ascending_north", "powered": true },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised_on" }
+		},
+		{
+			"when": { "shape": "ascending_south", "powered": true },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised_on", "y": 180 }
+		},
+		{
+			"when": { "shape": "ascending_east", "powered": true },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised_on", "y": 90 }
+		},
+		{
+			"when": { "shape": "ascending_west", "powered": true },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised_on", "y": -90 }
+		},
+
+		{
+			"when": { "shape": "ascending_north", "powered": false },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised" }
+		},
+		{
+			"when": { "shape": "ascending_south", "powered": false },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised", "y": 180 }
+		},
+		{
+			"when": { "shape": "ascending_east", "powered": false },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised", "y": 90 }
+		},
+		{
+			"when": { "shape": "ascending_west", "powered": false },
+			"apply": { "model": "block/rail/powered_rail/powered_rail_raised", "y": -90 }
+		}
+
+	]
 }

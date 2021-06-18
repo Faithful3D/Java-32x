@@ -1,19 +1,35 @@
 {
 	"comment": "Designed by Juknum",
 	"variants": {
-		"thickness=base,vertical_direction=down":      { "model": "block/pointed_dripstone/pointed_dripstone_base",      "x": 180 },
-		"thickness=base,vertical_direction=up":        { "model": "block/pointed_dripstone/pointed_dripstone_base"                },
+		"thickness=base,vertical_direction=down,waterlogged=false":      { "model": "block/pointed_dripstone/pointed_dripstone_base",      "x": 180 },
+		"thickness=base,vertical_direction=up,waterlogged=false":        { "model": "block/pointed_dripstone/pointed_dripstone_base"                },
 
-		"thickness=frustum,vertical_direction=down":   { "model": "block/pointed_dripstone/pointed_dripstone_frustum",   "x": 180 },
-		"thickness=frustum,vertical_direction=up":     { "model": "block/pointed_dripstone/pointed_dripstone_frustum"             },
+		"thickness=frustum,vertical_direction=down,waterlogged=false":   { "model": "block/pointed_dripstone/pointed_dripstone_frustum",   "x": 180 },
+		"thickness=frustum,vertical_direction=up,waterlogged=false":     { "model": "block/pointed_dripstone/pointed_dripstone_frustum"             },
 
-		"thickness=middle,vertical_direction=down":    { "model": "block/pointed_dripstone/pointed_dripstone_middle",    "x": 180 },
-		"thickness=middle,vertical_direction=up":      { "model": "block/pointed_dripstone/pointed_dripstone_middle"              },
+		"thickness=middle,vertical_direction=down,waterlogged=false":    { "model": "block/pointed_dripstone/pointed_dripstone_middle",    "x": 180 },
+		"thickness=middle,vertical_direction=up,waterlogged=false":      { "model": "block/pointed_dripstone/pointed_dripstone_middle"              },
 
-		"thickness=tip,vertical_direction=down":       { "model": "block/pointed_dripstone/pointed_dripstone_tip",       "x": 180 },
-		"thickness=tip,vertical_direction=up":         { "model": "block/pointed_dripstone/pointed_dripstone_tip"                 },
+		"thickness=tip,vertical_direction=down,waterlogged=false":       { "model": "block/pointed_dripstone/pointed_dripstone_tip",       "x": 180 },
+		"thickness=tip,vertical_direction=up,waterlogged=false":         { "model": "block/pointed_dripstone/pointed_dripstone_tip"                 },
 		
-		"thickness=tip_merge,vertical_direction=down": { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge", "x": 180 },
-		"thickness=tip_merge,vertical_direction=up":   { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge"           }
+		"thickness=tip_merge,vertical_direction=down,waterlogged=false": { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge", "x": 180 },
+		"thickness=tip_merge,vertical_direction=up,waterlogged=false":   { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge"           },
+
+
+		"thickness=base,vertical_direction=down,waterlogged=true":      { "model": "block/pointed_dripstone/pointed_dripstone_base_waterlogged",      "x": 180 },
+		"thickness=base,vertical_direction=up,waterlogged=true":        { "model": "block/pointed_dripstone/pointed_dripstone_base_waterlogged"                },
+
+		"thickness=frustum,vertical_direction=down,waterlogged=true":   { "model": "block/pointed_dripstone/pointed_dripstone_frustum_waterlogged",   "x": 180 },
+		"thickness=frustum,vertical_direction=up,waterlogged=true":     { "model": "block/pointed_dripstone/pointed_dripstone_frustum_waterlogged"             },
+
+		"thickness=middle,vertical_direction=down,waterlogged=true":    { "model": "block/pointed_dripstone/pointed_dripstone_middle_waterlogged",    "x": 180 },
+		"thickness=middle,vertical_direction=up,waterlogged=true":      { "model": "block/pointed_dripstone/pointed_dripstone_middle_waterlogged"              },
+
+		"thickness=tip,vertical_direction=down,waterlogged=true":       { "model": "block/pointed_dripstone/pointed_dripstone_tip_waterlogged",       "x": 180 },
+		"thickness=tip,vertical_direction=up,waterlogged=true":         { "model": "block/pointed_dripstone/pointed_dripstone_tip_waterlogged"                 },
+		
+		"thickness=tip_merge,vertical_direction=down,waterlogged=true": { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge_waterlogged", "x": 180 },
+		"thickness=tip_merge,vertical_direction=up,waterlogged=true":   { "model": "block/pointed_dripstone/pointed_dripstone_tip_merge_waterlogged"           }
 	}
 }
