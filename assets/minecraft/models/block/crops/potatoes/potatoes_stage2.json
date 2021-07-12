@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/potatoes_stage2",
-		"particle": "block/potatoes_stage2"
+		"0": "minecraft:block/potatoes_stage2",
+		"particle": "minecraft:block/potatoes_stage2"
 	},
 	"elements": [
 		{

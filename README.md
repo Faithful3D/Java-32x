@@ -10,8 +10,12 @@
 - Fixed:
     - chain
 - Added:
-    - crops (beetroots, carrots, potatoes)
+    - crops (beetroots, carrots, potatoes, cocoa)
+    - cake
+    - candle_cake
     - nether_sprout
+- Changed:
+    - added `minecraft:` before each path
 
 ## June
 

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/beetroots_stage3",
-		"particle": "block/beetroots_stage3"
+		"1": "minecraft:block/beetroots_stage3",
+		"particle": "minecraft:block/beetroots_stage3"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/carrots_stage0",
-		"particle": "block/carrots_stage0"
+		"0": "minecraft:block/carrots_stage0",
+		"particle": "minecraft:block/carrots_stage0"
 	},
 	"elements": [
 		{

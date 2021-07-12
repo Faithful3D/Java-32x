@@ -1,8 +1,8 @@
 {
 	"credit": "Designed by Progical",
-	"parent": "block/rail/rail_raised",
+	"parent": "minecraft:block/rail/rail_raised",
 	"textures": {
-		"2": "block/rail_special",
-		"particle": "block/rail"
+		"2": "minecraft:block/rail_special",
+		"particle": "minecraft:block/rail"
 	}
 }

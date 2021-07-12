@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/cocoa_stage0",
-		"particle": "block/cocoa_stage0"
+		"1": "minecraft:block/cocoa_stage0",
+		"particle": "minecraft:block/cocoa_stage0"
 	},
 	"elements": [
 		{

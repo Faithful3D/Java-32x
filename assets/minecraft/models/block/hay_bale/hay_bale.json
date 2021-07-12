@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"textures": {
-		"0": "block/hay_block_side",
-		"1": "block/hay_block_top",
-		"particle": "block/hay_block_side"
+		"0": "minecraft:block/hay_block_side",
+		"1": "minecraft:block/hay_block_top",
+		"particle": "minecraft:block/hay_block_side"
 	},
 	"elements": [
 		{

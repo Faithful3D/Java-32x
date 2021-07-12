@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "block/crops/nether_sprouts"
+      "model": "minecraft:block/crops/nether_sprouts"
     }
   }
 }

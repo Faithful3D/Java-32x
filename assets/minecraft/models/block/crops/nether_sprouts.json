@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"parent":"block/crops/wheat/wheat_stage3",
 	"textures": {
-		"0": "block/nether_sprouts",
-		"particle": "block/nether_sprouts"
+		"0": "minecraft:block/nether_sprouts",
+		"particle": "minecraft:block/nether_sprouts"
 	}
 }

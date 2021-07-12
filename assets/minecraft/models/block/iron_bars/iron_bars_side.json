@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"0": "block/iron_bars",
-		"particle": "block/iron_bars"
+		"0": "minecraft:block/iron_bars",
+		"particle": "minecraft:block/iron_bars"
 	},
 	"elements": [
 		{

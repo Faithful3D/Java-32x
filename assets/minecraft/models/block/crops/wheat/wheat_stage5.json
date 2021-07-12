@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/wheat_stage5",
-		"particle": "block/wheat_stage5"
+		"0": "minecraft:block/wheat_stage5",
+		"particle": "minecraft:block/wheat_stage5"
 	},
 	"elements": [
 		{

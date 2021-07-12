@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/carrots_stage2",
-		"particle": "block/carrots_stage2"
+		"0": "minecraft:block/carrots_stage2",
+		"particle": "minecraft:block/carrots_stage2"
 	},
 	"elements": [
 		{

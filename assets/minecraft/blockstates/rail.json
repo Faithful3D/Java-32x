@@ -1,31 +1,31 @@
 {
 	"comment": "Designed by Juknum",
 	"variants": {
-		"shape=north_south,waterlogged=false":     { "model": "block/rail/rail"                  },
-		"shape=east_west,waterlogged=false":       { "model": "block/rail/rail",        "y":  90 },
+		"shape=north_south,waterlogged=false":     { "model": "minecraft:block/rail/rail"                  },
+		"shape=east_west,waterlogged=false":       { "model": "minecraft:block/rail/rail",        "y":  90 },
 
-		"shape=ascending_east,waterlogged=false":  { "model": "block/rail/rail_raised", "y":  90 },
-		"shape=ascending_west,waterlogged=false":  { "model": "block/rail/rail_raised", "y": -90 },
-		"shape=ascending_north,waterlogged=false": { "model": "block/rail/rail_raised"           },
-		"shape=ascending_south,waterlogged=false": { "model": "block/rail/rail_raised", "y": 180 },
+		"shape=ascending_east,waterlogged=false":  { "model": "minecraft:block/rail/rail_raised", "y":  90 },
+		"shape=ascending_west,waterlogged=false":  { "model": "minecraft:block/rail/rail_raised", "y": -90 },
+		"shape=ascending_north,waterlogged=false": { "model": "minecraft:block/rail/rail_raised"           },
+		"shape=ascending_south,waterlogged=false": { "model": "minecraft:block/rail/rail_raised", "y": 180 },
 
-		"shape=south_east,waterlogged=false":      { "model": "block/rail/rail_corner"           },
-		"shape=south_west,waterlogged=false":      { "model": "block/rail/rail_corner", "y":  90 },
-		"shape=north_west,waterlogged=false":      { "model": "block/rail/rail_corner", "y": 180 },
-		"shape=north_east,waterlogged=false":      { "model": "block/rail/rail_corner", "y": 270 },
+		"shape=south_east,waterlogged=false":      { "model": "minecraft:block/rail/rail_corner"           },
+		"shape=south_west,waterlogged=false":      { "model": "minecraft:block/rail/rail_corner", "y":  90 },
+		"shape=north_west,waterlogged=false":      { "model": "minecraft:block/rail/rail_corner", "y": 180 },
+		"shape=north_east,waterlogged=false":      { "model": "minecraft:block/rail/rail_corner", "y": 270 },
 
 
-		"shape=north_south,waterlogged=true":     { "model": "block/rail/rail_waterlogged"                  },
-		"shape=east_west,waterlogged=true":       { "model": "block/rail/rail_waterlogged",        "y":  90 },
+		"shape=north_south,waterlogged=true":     { "model": "minecraft:block/rail/rail_waterlogged"                  },
+		"shape=east_west,waterlogged=true":       { "model": "minecraft:block/rail/rail_waterlogged",        "y":  90 },
 
-		"shape=ascending_east,waterlogged=true":  { "model": "block/rail/rail_raised_waterlogged", "y":  90 },
-		"shape=ascending_west,waterlogged=true":  { "model": "block/rail/rail_raised_waterlogged", "y": -90 },
-		"shape=ascending_north,waterlogged=true": { "model": "block/rail/rail_raised_waterlogged"           },
-		"shape=ascending_south,waterlogged=true": { "model": "block/rail/rail_raised_waterlogged", "y": 180 },
+		"shape=ascending_east,waterlogged=true":  { "model": "minecraft:block/rail/rail_raised_waterlogged", "y":  90 },
+		"shape=ascending_west,waterlogged=true":  { "model": "minecraft:block/rail/rail_raised_waterlogged", "y": -90 },
+		"shape=ascending_north,waterlogged=true": { "model": "minecraft:block/rail/rail_raised_waterlogged"           },
+		"shape=ascending_south,waterlogged=true": { "model": "minecraft:block/rail/rail_raised_waterlogged", "y": 180 },
 
-		"shape=south_east,waterlogged=true":      { "model": "block/rail/rail_corner_waterlogged"           },
-		"shape=south_west,waterlogged=true":      { "model": "block/rail/rail_corner_waterlogged", "y":  90 },
-		"shape=north_west,waterlogged=true":      { "model": "block/rail/rail_corner_waterlogged", "y": 180 },
-		"shape=north_east,waterlogged=true":      { "model": "block/rail/rail_corner_waterlogged", "y": 270 }
+		"shape=south_east,waterlogged=true":      { "model": "minecraft:block/rail/rail_corner_waterlogged"           },
+		"shape=south_west,waterlogged=true":      { "model": "minecraft:block/rail/rail_corner_waterlogged", "y":  90 },
+		"shape=north_west,waterlogged=true":      { "model": "minecraft:block/rail/rail_corner_waterlogged", "y": 180 },
+		"shape=north_east,waterlogged=true":      { "model": "minecraft:block/rail/rail_corner_waterlogged", "y": 270 }
 	}
 }

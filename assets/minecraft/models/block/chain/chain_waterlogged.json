@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "block/chain/chain",
+	"parent": "minecraft:block/chain/chain",
 	"textures": {
-		"0": "block/chain",
-		"particle": "block/chain"
+		"0": "minecraft:block/chain",
+		"particle": "minecraft:block/chain"
 	}
 }
