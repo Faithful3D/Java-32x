@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/daylight_detector",
+	"textures": {
+		"particle": "block/daylight_detector_inverted_top",
+		"top": "block/daylight_detector_inverted_top",
+		"side": "block/daylight_detector_side"
+	}
+}

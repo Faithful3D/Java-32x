@@ -1,0 +1,10 @@
+{
+    "__comment": "Designed by Juknum",
+    "parent": "blockstates/jukebox",
+    "multipart": [
+        {   "apply": { "model": "block/jukebox" }},
+        {   "when": { "has_record": true },
+            "apply": { "model": "block/jukebox_record" }
+        }
+    ]
+}
