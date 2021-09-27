@@ -1,0 +1,7 @@
+{
+    "parent": "item/wooden_axe",
+    "textures": {
+        "layer0": "items/stone_axe",
+		"particle": "items/stone_axe"
+    }
+}

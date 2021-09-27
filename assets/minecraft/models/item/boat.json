@@ -1,0 +1,90 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"textures": {
+		"texture": "blocks/boat_oak"
+	},
+	"elements": [
+		{
+			"name": "BoatBase",
+			"from": [-6, 0, 0],
+			"to": [22, 3, 16],
+			"faces": {
+				"north": {"uv": [0.375, 0, 3.875, 0.375], "texture": "#texture"},
+				"east": {"uv": [3.875, 0.375, 4.25, 2.375], "rotation": 90, "texture": "#texture"},
+				"south": {"uv": [3.875, 0, 7.375, 0.375], "texture": "#texture"},
+				"west": {"uv": [0, 0.375, 0.375, 2.375], "rotation": 270, "texture": "#texture"},
+				"up": {"uv": [4.25, 0.375, 7.75, 2.375], "texture": "#texture"},
+				"down": {"uv": [0.5, 0.375, 4, 2.375], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "BoatWest",
+			"from": [-8, 3, -1],
+			"to": [-6, 9, 17],
+			"faces": {
+				"north": {"uv": [2.5, 2.625, 2.75, 3.375], "texture": "#texture"},
+				"east": {"uv": [0.375, 2.625, 2.625, 3.375], "texture": "#texture"},
+				"south": {"uv": [0, 2.625, 0.25, 3.375], "texture": "#texture"},
+				"west": {"uv": [2.75, 2.625, 5, 3.375], "texture": "#texture"},
+				"up": {"uv": [0.25, 2.375, 2.5, 2.625], "rotation": 270, "texture": "#texture"},
+				"down": {"uv": [1.25, 3.25, 3.5, 3.5], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "BoatEast",
+			"from": [22, 3, 0],
+			"to": [24, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 2.625, 0.25, 3.375], "texture": "#texture"},
+				"east": {"uv": [2.75, 2.625, 4.75, 3.375], "texture": "#texture"},
+				"south": {"uv": [2.5, 2.625, 2.75, 3.375], "texture": "#texture"},
+				"west": {"uv": [0.125, 2.625, 2.125, 3.375], "texture": "#texture"},
+				"up": {"uv": [0.25, 2.375, 2.5, 2.625], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [1.25, 3.25, 3.5, 3.5], "rotation": 270, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "BoatNorth",
+			"from": [-6, 3, -2],
+			"to": [22, 9, 0],
+			"faces": {
+				"north": {"uv": [4.125, 4.625, 7.5, 5.375], "texture": "#texture"},
+				"east": {"uv": [0, 4.625, 0.25, 5.375], "texture": "#texture"},
+				"south": {"uv": [0.375, 4.625, 3.75, 5.375], "texture": "#texture"},
+				"west": {"uv": [0, 4.625, 0.25, 5.375], "texture": "#texture"},
+				"up": {"uv": [0.25, 4.375, 3.625, 4.625], "texture": "#texture"},
+				"down": {"uv": [0.25, 4.375, 3.625, 4.625], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "BoatSouth",
+			"from": [-6, 3, 16],
+			"to": [22, 9, 18],
+			"faces": {
+				"north": {"uv": [0.375, 4.625, 3.75, 5.375], "texture": "#texture"},
+				"east": {"uv": [0, 4.625, 0.25, 5.375], "texture": "#texture"},
+				"south": {"uv": [4.125, 4.625, 7.5, 5.375], "texture": "#texture"},
+				"west": {"uv": [0, 4.625, 0.25, 5.375], "texture": "#texture"},
+				"up": {"uv": [0.25, 4.375, 3.625, 4.625], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [0.25, 4.375, 3.625, 4.625], "rotation": 180, "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson": {
+			"translation": [0, 1, -4],
+			"rotation": [0,90,180],
+			"scale": [0.3,0.3,0.3]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

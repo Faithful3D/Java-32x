@@ -1,0 +1,21 @@
+{
+	"__comment": "Designed by Progical, rewrote by Juknum - v1.1",
+	"textures": {
+		"0": "blocks/iron_trapdoor",
+		"1": "ctm/trapdoors/iron/front",
+		"2": "ctm/trapdoors/iron/side",
+		"particle": "blocks/iron_trapdoor"
+	},
+	"parent":"block/trapdoors/iron_trapdoor",
+	"display": {
+		"thirdperson": {
+			"rotation": [ 180, 86, 310 ],
+			"translation": [ 0.15, 0.75, -3.75 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson": {
+			"translation": [ 0, 4, 0 ],
+			"scale": [0.7,0.7,0.7]
+		}
+	}
+}

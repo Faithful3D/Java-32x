@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cactus", "weight": 25},
+            { "model": "cactus", "y":  90, "weight": 25},
+            { "model": "cactus", "y": 180, "weight": 25},
+            { "model": "cactus", "y": 270, "weight": 25}
+        ]
+    }
+}
