@@ -1,0 +1,10 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "block/furnace_on",
+	"textures": {
+		"0": "block/furnace_front",
+		"2": "block/furnace_side",
+		"3": "block/furnace_top",
+		"particle": "block/furnace_front"
+	}
+}
