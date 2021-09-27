@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "item/piston",
+	"textures": {
+		"3": "blocks/furnace_top",
+		"platform": "blocks/piston_top_sticky",
+		"side": "blocks/piston_side",
+		"particle": "blocks/piston_side",
+		"unsticky": "blocks/piston_top_sticky"
+	}
+}
