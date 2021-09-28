@@ -16,6 +16,7 @@
 - Added:
   - candles (blocks & items)
   - pointed_dripstone (item)
+  - cake (item)
 
 ## July
 
