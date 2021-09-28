@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench by Juknum, original idea from xalixilax",
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 32],
 	"textures": {
-		"0": "minecraft:block/dripstone_block",
-		"particle": "minecraft:block/dripstone_block"
+		"0": "block/pointed_dripstone",
+		"particle": "block/pointed_dripstone"
 	},
 	"elements": [
 		{
@@ -10,12 +11,12 @@
 			"to": [12, 16, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
 			"faces": {
-				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
-				"south": {"uv": [0, 0, 8, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 8, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
-				"down": {"uv": [0, 0, 8, 8], "texture": "#0", "cullface": "down"}
+				"north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 4], "texture": "#0", "cullface": "down"}
 			}
 		}
 	]

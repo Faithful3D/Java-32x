@@ -1,49 +1,61 @@
 # Compliance 3D - 1.17 Changelog
 
 ## Known issue
+
 - powered_rail does not apply multipart on solid blocks [see this report](https://bugs.mojang.com/browse/MC-231792)
 
 # 2021
+
+## September
+
+### September 28th
+
+- Fixed:
+  - Tiling issue with pointed dripstone
+
 ## July
+
 ### July 12th
 
 - Fixed:
-    - chain
+  - chain
 - Added:
-    - crops (beetroots, carrots, potatoes, cocoa)
-    - cake
-    - candle_cake
-    - nether_sprout
+  - crops (beetroots, carrots, potatoes, cocoa)
+  - cake
+  - candle_cake
+  - nether_sprout
 - Changed:
-    - added `minecraft:` before each path
+  - added `minecraft:` before each path
 
 ## June
 
 ### June 18
 
 - Fixed:
-    - rails
+  - rails
 - Added:
-    - chain
-    - waterlogged files for each model (easier for future sub-addons)
+  - chain
+  - waterlogged files for each model (easier for future sub-addons)
 
 ## March
 
 ### March 15th
 
 - Added:
-    - ladder
-    - hay_bale
+  - ladder
+  - hay_bale
 
 ### March 14th
 
 - Added:
-    - pointed_dripstone
-    - rails (activator, detector, powered & normal)
+  - pointed_dripstone
+  - rails (activator, detector, powered & normal)
 
-# 2020
+# 2020 
+
 ## December
+
 ### December 27th
 
 - Added:
-    - iron_bars
+  - iron_bars
