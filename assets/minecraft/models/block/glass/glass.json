@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_inverted",
+  "textures": {
+    "all": "minecraft:block/glass"
+  }
+}

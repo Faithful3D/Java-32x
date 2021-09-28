@@ -19,6 +19,7 @@
   - candles (blocks & items)
   - pointed_dripstone (item)
   - stonecutter (block & item)
+  - glass (block) - double faced (more consistent)
 
 ## July
 

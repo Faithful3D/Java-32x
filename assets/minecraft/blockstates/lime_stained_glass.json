@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/glass/lime_stained_glass"
+    }
+  }
+}
