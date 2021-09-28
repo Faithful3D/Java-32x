@@ -20,6 +20,9 @@
   - pointed_dripstone (item)
   - stonecutter (block & item)
   - glass (block) - double faced (more consistent)
+  - glass_panes (blocks) - same as glass blocks
+  - leaves - double faced (more dense)
+  - azalea_leaves (normal & flowering) - same as leaves
 
 ## July
 
