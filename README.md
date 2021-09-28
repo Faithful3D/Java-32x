@@ -14,9 +14,10 @@
 - Fixed:
   - tiling issue with pointed dripstone
 - Added:
+  - cake (item)
+  - campfire (item) + add more flames to the block itself
   - candles (blocks & items)
   - pointed_dripstone (item)
-  - cake (item)
   - stonecutter (block & item)
 
 ## July
