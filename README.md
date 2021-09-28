@@ -12,9 +12,10 @@
 ### September 28th
 
 - Fixed:
-  - Tiling issue with pointed dripstone
+  - tiling issue with pointed dripstone
 - Added:
-  - Candles (blocks & items)
+  - candles (blocks & items)
+  - pointed_dripstone (item)
 
 ## July
 
