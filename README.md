@@ -17,6 +17,7 @@
   - candles (blocks & items)
   - pointed_dripstone (item)
   - cake (item)
+  - stonecutter (block & item)
 
 ## July
 
