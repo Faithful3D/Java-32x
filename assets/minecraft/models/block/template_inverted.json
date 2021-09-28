@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "#all",
+		"all": "#all"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [16, 16, 16],
+			"to": [0, 0, 0],
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#all", "cullface": "south"},
+				"east": {"uv": [0, 16, 16, 0], "texture": "#all", "cullface": "west"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#all", "cullface": "north"},
+				"west": {"uv": [0, 16, 16, 0], "texture": "#all", "cullface": "east"},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "down"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "up"}
+			}
+		}
+	]
+}
