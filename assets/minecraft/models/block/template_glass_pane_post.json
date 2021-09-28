@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#edge"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"up": {"uv": [7, 7, 9, 9], "texture": "#edge"},
+				"down": {"uv": [7, 7, 9, 9], "texture": "#edge"}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [9, 16, 9],
+			"to": [7, 0, 7],
+			"faces": {
+				"up": {"uv": [9, 7, 7, 9], "texture": "#edge", "cullface": "down"},
+				"down": {"uv": [9, 7, 7, 9], "texture": "#edge", "cullface": "up"}
+			}
+		}
+	]
+}

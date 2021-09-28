@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#pane"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [9, 0, 7, 16], "texture": "#pane"}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [9, 16, 9],
+			"to": [7, 0, 7],
+			"faces": {
+				"south": {"uv": [9, 16, 7, 0], "texture": "#pane"}
+			}
+		}
+	]
+}
