@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:block/template_candle",
+	"textures": {
+		"all": "minecraft:block/blue_candle"
+	}
+}

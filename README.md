@@ -3,6 +3,7 @@
 ## Known issue
 
 - powered_rail does not apply multipart on solid blocks [see this report](https://bugs.mojang.com/browse/MC-231792)
+- candles (items) doesn't render the string part (wtf)
 
 # 2021
 
@@ -12,6 +13,8 @@
 
 - Fixed:
   - Tiling issue with pointed dripstone
+- Added:
+  - Candles (blocks & items)
 
 ## July
 
