@@ -9,6 +9,13 @@
 
 ## September
 
+### September 29th
+
+- Fixed:
+  - invisible strings of candle (item)
+- Added:
+  - beacon (like other glass, ice blocks)
+
 ### September 28th
 
 - Fixed:

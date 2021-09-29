@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench by Juknum & Alkatreize",
 	"parent": "minecraft:block/block",
 	"textures": {
 		"all": "minecraft:block/candle"
@@ -22,46 +22,110 @@
 			"to": [8.25, 7, 8.25],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6, 8]},
 			"faces": {
-				"north": {"uv": [0, 5, 0.5, 6], "texture": "#all"},
-				"east": {"uv": [0, 5, 0.5, 6], "texture": "#all"},
-				"south": {"uv": [0, 5, 0.5, 6], "texture": "#all"},
-				"west": {"uv": [0, 5, 0.5, 6], "texture": "#all"},
-				"up": {"uv": [0, 5, 0.5, 5.5], "texture": "#all"}
+				"north": {"uv": [0.5, 5, 1, 6], "texture": "#all"},
+				"east": {"uv": [0.5, 5, 1, 6], "texture": "#all"},
+				"south": {"uv": [0.5, 5, 1, 6], "texture": "#all"},
+				"west": {"uv": [0.5, 5, 1, 6], "texture": "#all"},
+				"up": {"uv": [0.5, 5, 1, 5.5], "rotation": 90, "texture": "#all"}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 4, 1],
-			"scale": [0.55, 0.55, 0.55]
+			"translation": [
+				0,
+				4,
+				1
+			],
+			"scale": [
+				0.55,
+				0.55,
+				0.55
+			]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 4, 1],
-			"scale": [0.55, 0.55, 0.55]
+			"translation": [
+				0,
+				4,
+				1
+			],
+			"scale": [
+				0.55,
+				0.55,
+				0.55
+			]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 45, 0],
-			"translation": [2.75, 4.5, 0]
+			"rotation": [
+				0,
+				45,
+				0
+			],
+			"translation": [
+				2.75,
+				4.5,
+				0
+			]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 45, 0],
-			"translation": [2.75, 4.5, 0]
+			"rotation": [
+				0,
+				45,
+				0
+			],
+			"translation": [
+				2.75,
+				4.5,
+				0
+			]
 		},
 		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [
+				0,
+				3,
+				0
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
-			"translation": [0, 6, 0],
-			"scale": [1.7, 1.7, 1.7]
+			"rotation": [
+				30,
+				225,
+				0
+			],
+			"translation": [
+				0,
+				6,
+				0
+			],
+			"scale": [
+				1.7,
+				1.7,
+				1.7
+			]
 		},
 		"head": {
-			"translation": [0, 14.5, 0]
+			"translation": [
+				0,
+				14.5,
+				0
+			]
 		},
 		"fixed": {
-			"translation": [0, 1, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"translation": [
+				0,
+				1,
+				0
+			],
+			"scale": [
+				1.2,
+				1.2,
+				1.2
+			]
 		}
 	}
 }
