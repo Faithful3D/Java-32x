@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:item/arrow",
+	"textures": {
+		"layer0": "minecraft:item/spectral_arrow"
+	}
+}
