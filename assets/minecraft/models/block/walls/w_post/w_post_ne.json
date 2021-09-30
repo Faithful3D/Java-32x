@@ -1,0 +1,20 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "minecraft:block/walls_template",
+		"particle": "minecraft:block/walls_particles"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 14, 11],
+			"faces": {
+				"south": {"uv": [4.625, 4.25, 5.375, 6], "texture": "#0"},
+				"west": {"uv": [2.625, 4.25, 3.375, 6], "texture": "#0"},
+				"up": {"uv": [10.625, 4.625, 11.375, 5.375], "texture": "#0"},
+				"down": {"uv": [15.375, 4.625, 14.625, 5.375], "texture": "#0"}
+			}
+		}
+	]
+}

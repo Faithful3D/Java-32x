@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:block/walls/special/n_low_e_tall",
+	"textures": {
+		"0": "minecraft:block/walls_red_sandstone",
+		"particle": "minecraft:block/red_sandstone"
+	}
+}
