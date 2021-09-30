@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:block/block",
+	"ambientocclusion": false,
+	"texture_size": [128, 128],
+	"textures": {
+		"particle": "minecraft:block/walls_template",
+		"wall": "minecraft:block/walls_template"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [0.5, 0, 1.5, 2], "texture": "#wall"},
+				"east": {"uv": [0.5, 0, 1.5, 2], "texture": "#wall"},
+				"south": {"uv": [0.5, 0, 1.5, 2], "texture": "#wall"},
+				"west": {"uv": [0.5, 0, 1.5, 2], "texture": "#wall"},
+				"up": {"uv": [12.5, 0.5, 13.5, 1.5], "texture": "#wall"},
+				"down": {"uv": [5.5, 2.5, 4.5, 3.5], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Side",
+			"from": [5, 0, 12],
+			"to": [11, 14, 16],
+			"faces": {
+				"east": {"uv": [10, 2.25, 10.5, 4], "texture": "#wall"},
+				"south": {"uv": [10.625, 2.25, 11.375, 4], "texture": "#wall", "cullface": "north"},
+				"west": {"uv": [11.5, 2.25, 12, 4], "texture": "#wall"},
+				"up": {"uv": [14.625, 2, 15.375, 2.5], "texture": "#wall"},
+				"down": {"uv": [4.625, 1.5, 5.375, 2], "rotation": 180, "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Side",
+			"from": [5, 0, 0],
+			"to": [11, 14, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [10.625, 2.25, 11.375, 4], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [11.5, 2.25, 12, 4], "texture": "#wall"},
+				"west": {"uv": [10, 2.25, 10.5, 4], "texture": "#wall"},
+				"up": {"uv": [14.625, 2, 15.375, 2.5], "rotation": 180, "texture": "#wall"},
+				"down": {"uv": [4.625, 1.5, 5.375, 2], "texture": "#wall", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

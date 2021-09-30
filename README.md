@@ -14,8 +14,8 @@
 - Added:
   - bow (all states)
   - arrows (classic, spectral & tipped)
-  - sandstone walls (block)
-  - red_sanstone walls (block)
+  - sandstone walls (blocks & item)
+  - red_sanstone walls (blocks & item)
 
 ### September 29th
 
