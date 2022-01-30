@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench",
 	"texture_size": [16, 32],
 	"textures": {
-		"0": "minecraft:block/pointed_dripstone",
-		"particle": "minecraft:block/pointed_dripstone"
+		"0": "block/pointed_dripstone",
+		"particle": "block/pointed_dripstone"
 	},
 	"elements": [
 		{

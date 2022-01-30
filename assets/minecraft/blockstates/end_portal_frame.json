@@ -1,0 +1,39 @@
+{
+  "commment": "Designed by Juknum",
+  "multipart": [
+    {
+      "when": { "facing": "east" },
+      "apply": { "model": "minecraft:block/end_portal_frame/end_portal_frame", "y": 270 }
+    },
+    {
+      "when": { "facing": "north" },
+      "apply": { "model": "minecraft:block/end_portal_frame/end_portal_frame", "y": 180 }
+    },
+    {
+      "when": { "facing": "south" },
+      "apply": { "model": "minecraft:block/end_portal_frame/end_portal_frame" }
+    },
+    {
+      "when": { "facing": "west" },
+      "apply": { "model": "minecraft:block/end_portal_frame/end_portal_frame", "y": 90 }
+    },
+    
+    {
+      "when": { "facing": "east", "eye": true },
+      "apply": { "model": "minecraft:block/end_portal_frame/eye", "y": 270 }
+    },
+    {
+      "when": { "facing": "north", "eye": true },
+      "apply": { "model": "minecraft:block/end_portal_frame/eye", "y": 180 }
+    },
+    {
+      "when": { "facing": "south", "eye": true },
+      "apply": { "model": "minecraft:block/end_portal_frame/eye" }
+    },
+    {
+      "when": { "facing": "west", "eye": true },
+      "apply": { "model": "minecraft:block/end_portal_frame/eye", "y": 90 }
+    }
+  ]
+
+}

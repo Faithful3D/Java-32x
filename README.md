@@ -2,8 +2,22 @@
 
 ## Known issue
 
-- powered_rail does not apply multipart on solid blocks [see this report](https://bugs.mojang.com/browse/MC-231792)
-- candles (items) doesn't render the string part (wtf)
+# 2022
+
+## January
+
+### January 31st
+
+- Fixed:
+  - powered rails (thanks Alkatreize)
+  - pointed dripstone UVs
+- Added:
+  - end portal frames
+  - dried kelp block
+  - rails models in hands
+  - minecarts items (all)
+  - hay_bale (item)
+  - pointed dripstone item
 
 # 2021
 

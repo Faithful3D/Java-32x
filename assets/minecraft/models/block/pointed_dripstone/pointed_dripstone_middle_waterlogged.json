@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Juknum",
 	"parent": "minecraft:block/pointed_dripstone/pointed_dripstone_middle",
 	"textures": {
-		"0": "minecraft:block/pointed_dripstone",
-		"particle": "minecraft:block/pointed_dripstone"
+		"0": "minecraft:block/dripstone_block",
+		"particle": "minecraft:block/dripstone_block"
 	}
 }
