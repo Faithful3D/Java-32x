@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Juknum with Blockbench",
+	"parent": "block/slabs/bottom",
+	"textures": {
+		"0": "minecraft:block/sandstone_slab",
+		"2": "minecraft:block/sandstone_top",
+		"3": "minecraft:block/sandstone_bottom"
+	}
+}

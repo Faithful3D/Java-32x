@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Juknum with Blockbench",
 	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {

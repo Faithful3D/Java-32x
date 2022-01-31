@@ -1,0 +1,11 @@
+{
+    "credits": "Made by Juknum with Blockbench",
+    "parent": "block/stairs/inner",
+    "textures": {
+        "half": "block/sandstone_slab",
+        "stairs": "block/sandstone_stairs",
+        "side": "block/sandstone",
+        "top": "block/sandstone_top",
+        "bottom": "block/sandstone_bottom"
+    }
+}

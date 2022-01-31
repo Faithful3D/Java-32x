@@ -26,6 +26,8 @@
   - sweet berry bushes
   - cauldron item
   - hopper item
+  - better slabs for sandstone & red sandstone
+  - better stairs for sandstone & red sandstone
 
 # 2021
 

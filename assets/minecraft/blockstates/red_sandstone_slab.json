@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/slabs/red_sandstone/bottom"
+    },
+    "type=double": {
+      "model": "minecraft:block/red_sandstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/slabs/red_sandstone/top"
+    }
+  }
+}

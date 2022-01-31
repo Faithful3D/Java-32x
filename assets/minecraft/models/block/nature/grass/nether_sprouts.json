@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Juknum with Blockbench",
 	"ambientocclusion": false,
 	"parent": "minecraft:block/nature/crops/wheat/wheat_stage3",
 	"textures": {
