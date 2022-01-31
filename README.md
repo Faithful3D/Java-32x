@@ -18,6 +18,7 @@
   - minecarts items (all)
   - hay_bale (item)
   - pointed dripstone item
+  - potion, lingering_potion, spash_potion, bottle, honey_bottle, experience_bottle, dragon_breath
 
 # 2021
 

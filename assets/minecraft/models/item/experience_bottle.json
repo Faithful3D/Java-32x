@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:item/potion",
+	"textures": {
+		"texture": "minecraft:item/experience_bottle",
+		"potion_overlay": "minecraft:item/experience_bottle",
+		"particle": "minecraft:item/experience_bottle"
+	}
+}
