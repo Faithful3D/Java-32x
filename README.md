@@ -24,6 +24,8 @@
   - glow_lichen
   - sugar_cane
   - sweet berry bushes
+  - cauldron item
+  - hopper item
 
 # 2021
 
