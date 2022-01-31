@@ -1,4 +1,4 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/hay_bale/hay_bale"
+	"parent": "minecraft:block/nature/hay_bale"
 }

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/nature/crops/sugar_cane"
+    }
+  }
+}

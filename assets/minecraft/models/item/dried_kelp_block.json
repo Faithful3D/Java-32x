@@ -1,4 +1,4 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/dried_kelp/dried_kelp_block"
+	"parent": "minecraft:block/nature/kelp/dried_kelp_block"
 }

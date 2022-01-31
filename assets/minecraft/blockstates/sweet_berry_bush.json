@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:block/nature/bushes/sweet_berry_bush/stage0"
+    },
+    "age=1": {
+      "model": "minecraft:block/nature/bushes/sweet_berry_bush/stage1"
+    },
+    "age=2": {
+      "model": "minecraft:block/nature/bushes/sweet_berry_bush/stage2"
+    },
+    "age=3": {
+      "model": "minecraft:block/nature/bushes/sweet_berry_bush/stage3"
+    }
+  }
+}

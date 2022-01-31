@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/nature/leaves/spruce_leaves"
+    }
+  }
+}

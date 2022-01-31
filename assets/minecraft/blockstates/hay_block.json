@@ -1,8 +1,17 @@
 {
 	"comment": "Designed by Juknum",
 	"variants": {
-		"axis=x": { "model": "minecraft:block/hay_bale/hay_bale", "x": 90, "y": 90  },
-		"axis=y": { "model": "minecraft:block/hay_bale/hay_bale"                    },
-		"axis=z": { "model": "minecraft:block/hay_bale/hay_bale", "x": 90           }
+		"axis=x": {
+			"model": "minecraft:block/nature/hay_bale",
+			"x": 90,
+			"y": 90
+		},
+		"axis=y": {
+			"model": "minecraft:block/nature/hay_bale"
+		},
+		"axis=z": {
+			"model": "minecraft:block/nature/hay_bale",
+			"x": 90
+		}
 	}
 }

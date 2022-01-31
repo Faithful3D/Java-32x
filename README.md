@@ -8,6 +8,8 @@
 
 ### January 31st
 
+> Moved nature models into `/nature`
+
 - Fixed:
   - powered rails (thanks Alkatreize)
   - pointed dripstone UVs
@@ -21,6 +23,7 @@
   - potion, lingering_potion, spash_potion, bottle, honey_bottle, experience_bottle, dragon_breath
   - glow_lichen
   - sugar_cane
+  - sweet berry bushes
 
 # 2021
 
