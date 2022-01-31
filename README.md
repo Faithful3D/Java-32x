@@ -19,6 +19,7 @@
   - hay_bale (item)
   - pointed dripstone item
   - potion, lingering_potion, spash_potion, bottle, honey_bottle, experience_bottle, dragon_breath
+  - glow_lichen
 
 # 2021
 
