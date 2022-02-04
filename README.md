@@ -16,6 +16,10 @@
   - brewing stand (block & item)
   - bricks models (slabs & stairs) (block & item) for endstone bricks, stone bricks, deepslate bricks, polished blackstone bricks
   - cut sandstone slabs (block & item)
+  - axes (all)
+  - grass
+  - tall_grass
+  - warped roots
 
 ### January 31st
 
