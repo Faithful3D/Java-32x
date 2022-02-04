@@ -1,0 +1,8 @@
+{
+  "credit": "Made by Juknum with Blockbench",
+  "parent": "block/redstone/torch/normal",
+  "textures": {
+    "0": "block/redstone_torch",
+    "particle": "block/redstone_torch"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/stairs/stone_bricks/inner",
+	"textures": {
+		"0": "block/mossy_stone_bricks",
+		"particle": "block/mossy_stone_bricks"
+	}
+}

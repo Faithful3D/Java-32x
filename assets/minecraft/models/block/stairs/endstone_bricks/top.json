@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/stairs/stone_bricks/top",
+	"textures": {
+		"0": "block/end_stone_bricks",
+		"particle": "block/end_stone_bricks"
+	}
+}

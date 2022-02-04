@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/slabs/cut_red_sandstone/bottom"
+    },
+    "type=double": {
+      "model": "minecraft:block/cut_red_sandstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/slabs/cut_red_sandstone/top"
+    }
+  }
+}

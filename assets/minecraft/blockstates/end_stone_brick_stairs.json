@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "facing=east,half=bottom,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 270
+    },
+    "facing=east,half=bottom,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner"
+    },
+    "facing=east,half=bottom,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 270
+    },
+    "facing=east,half=bottom,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer"
+    },
+    "facing=east,half=bottom,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/bottom"
+    },
+    "facing=east,half=top,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top"
+    },
+    "facing=east,half=top,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 90
+    },
+    "facing=east,half=top,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top"
+    },
+    "facing=east,half=top,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 90
+    },
+    "facing=east,half=top,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/top"
+    },
+    "facing=north,half=bottom,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 180
+    },
+    "facing=north,half=bottom,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 270
+    },
+    "facing=north,half=bottom,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 180
+    },
+    "facing=north,half=bottom,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 270
+    },
+    "facing=north,half=bottom,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/bottom",
+      "y": 270
+    },
+    "facing=north,half=top,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 270
+    },
+    "facing=north,half=top,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top"
+    },
+    "facing=north,half=top,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 270
+    },
+    "facing=north,half=top,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top"
+    },
+    "facing=north,half=top,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/top",
+      "y": 270
+    },
+    "facing=south,half=bottom,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner"
+    },
+    "facing=south,half=bottom,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 90
+    },
+    "facing=south,half=bottom,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer"
+    },
+    "facing=south,half=bottom,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 90
+    },
+    "facing=south,half=bottom,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/bottom",
+      "y": 90
+    },
+    "facing=south,half=top,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 90
+    },
+    "facing=south,half=top,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 180
+    },
+    "facing=south,half=top,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 90
+    },
+    "facing=south,half=top,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 180
+    },
+    "facing=south,half=top,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/top",
+      "y": 90
+    },
+    "facing=west,half=bottom,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 90
+    },
+    "facing=west,half=bottom,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner",
+      "y": 180
+    },
+    "facing=west,half=bottom,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 90
+    },
+    "facing=west,half=bottom,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer",
+      "y": 180
+    },
+    "facing=west,half=bottom,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/bottom",
+      "y": 180
+    },
+    "facing=west,half=top,shape=inner_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 180
+    },
+    "facing=west,half=top,shape=inner_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/inner_top",
+      "y": 270
+    },
+    "facing=west,half=top,shape=outer_left": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 180
+    },
+    "facing=west,half=top,shape=outer_right": {
+      "model": "minecraft:block/stairs/endstone_bricks/outer_top",
+      "y": 270
+    },
+    "facing=west,half=top,shape=straight": {
+      "model": "minecraft:block/stairs/endstone_bricks/top",
+      "y": 180
+    }
+  }
+}

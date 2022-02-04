@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/slabs/mossy_stone_bricks/bottom"
+    },
+    "type=double": {
+      "model": "minecraft:block/stone_bricks/mossy"
+    },
+    "type=top": {
+      "model": "minecraft:block/slabs/mossy_stone_bricks/top"
+    }
+  }
+}

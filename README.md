@@ -6,6 +6,17 @@
 
 ## January
 
+### January 4th
+
+- Added:
+  - comparator (block & item)
+  - repeater (block & item)
+  - redstone torch (block & item)
+  - torch & soul torch (items)
+  - brewing stand (block & item)
+  - bricks models (slabs & stairs) (block & item) for endstone bricks, stone bricks, deepslate bricks, polished blackstone bricks
+  - cut sandstone slabs (block & item)
+
 ### January 31st
 
 > Moved nature models into `/nature`

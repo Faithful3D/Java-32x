@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/stone_bricks/normal",
+	"textures": {
+		"0": "block/polished_blackstone_bricks",
+		"particle": "block/polished_blackstone_bricks"
+	}
+}
