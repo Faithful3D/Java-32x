@@ -2,8 +2,8 @@
 	"credit": "Made by Juknum with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "minecraft:block/wheat_stage6",
-		"particle": "minecraft:block/wheat_stage6"
+		"0": "minecraft:block/nature/crops/wheat_stage6",
+		"particle": "minecraft:block/nature/crops/wheat_stage6"
 	},
 	"elements": [
 		{

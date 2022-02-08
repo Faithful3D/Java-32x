@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "minecraft:block/nature/flowers/lilac_bottom"
+    },
+    "half=upper": {
+      "model": "minecraft:block/nature/flowers/lilac_top"
+    }
+  }
+}

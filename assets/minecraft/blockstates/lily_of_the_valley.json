@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/nature/flowers/lily_of_the_valley"
+    }
+  }
+}

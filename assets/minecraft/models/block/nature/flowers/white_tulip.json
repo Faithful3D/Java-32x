@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/nature/flowers/orange_tulip",
+	"textures": {
+		"cross": "block/nature/flowers/white_tulip",
+		"particle": "block/white_tulip"
+	}
+}
