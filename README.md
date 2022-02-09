@@ -4,9 +4,26 @@
 
 # 2022
 
-## January
+## February
 
-### January 4th
+### February 9th
+
+- Added:
+  - chiseled_stone_bricks
+  - chiseled_deepslate_bricks
+- Changed:
+  - stone bricks (more details)
+
+### February 8th
+
+- Added:
+  - doors (blocks & items); thanks Alkatreize
+  - trapdoors (blocks & items); thanks Alkatreize
+  - flowers (all); thanks Alkatreize
+  - snow overlay on snow layers (for any block below)
+  - boats (all items)
+
+### February 4th
 
 - Added:
   - comparator (block & item)
@@ -21,6 +38,7 @@
   - tall_grass
   - warped roots
 
+## January
 ### January 31st
 
 > Moved nature models into `/nature`
