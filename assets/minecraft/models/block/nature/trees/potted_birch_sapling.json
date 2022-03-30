@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/nature/flower_pot_cross",
+	"textures": {
+		"plant": "block/birch_sapling"
+	}
+}

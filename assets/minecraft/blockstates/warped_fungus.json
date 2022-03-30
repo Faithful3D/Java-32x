@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/nature/mushrooms/warped_fungus",
+                "weight": 4
+            }
+        ]
+    }
+}

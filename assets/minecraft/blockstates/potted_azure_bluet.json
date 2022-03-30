@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/nature/flower_pot"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/nature/flowers/potted_azure_bluet"
+      }
+    }
+  ]
+}

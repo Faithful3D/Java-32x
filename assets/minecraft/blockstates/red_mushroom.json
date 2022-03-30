@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/nature/mushrooms/red_mushroom",
+                "weight": 4
+            }
+        ]
+    }
+}
