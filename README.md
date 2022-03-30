@@ -1,4 +1,4 @@
-# Compliance 3D - 1.17 Changelog
+# Compliance 3D - 1.19 Changelog
 
 ## Known issue
 
