@@ -14,6 +14,10 @@
   - totem_of_undying
   - brow_mushroom & red_mushroom
   - crimson_fungus & warped_fungus
+  - chest boats
+  - mangrove_propagule block
+  - mangrove_trapdoor
+  - mangrove_leaves (model only)
 
 ## February
 
