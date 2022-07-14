@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "block/tall_grass_top",
-		"particle": "block/small_grass"
+		"particle": "block/nature/grass/small_grass"
 	},
 	"elements": [
 		{
