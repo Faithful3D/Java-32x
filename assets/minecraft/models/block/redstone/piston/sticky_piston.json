@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"parent":"block/redstone/piston/piston",
+	"textures": {
+		"platform": "block/piston_top_sticky",
+		"side": "block/piston_side",
+		"unsticky": "block/piston_top_sticky"
+	}
+}
