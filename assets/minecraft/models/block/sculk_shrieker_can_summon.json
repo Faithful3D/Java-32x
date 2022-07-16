@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/sculk_shrieker",
+	"textures": {
+		"particle": "block/sculk_shrieker_bottom",
+		"bottom": "block/sculk_shrieker_bottom",
+		"inner_top": "block/sculk_shrieker_can_summon_inner_top",
+		"side": "block/sculk_shrieker_side",
+		"top": "block/sculk_shrieker_top"
+	}
+}
