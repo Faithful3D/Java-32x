@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/wooden_sword",
+	"textures": {
+		"layer0": "item/golden_sword"
+	}
+}
