@@ -1,5 +1,5 @@
 {
-	"parent": "item/door_display",
+	"parent": "item/_door_display",
 	"textures": {
 		"1": "block/doors/oak"
 	},
