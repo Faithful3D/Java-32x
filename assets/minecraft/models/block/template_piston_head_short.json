@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench by Juknum",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"platform": "block/piston_top",
 		"side": "block/piston_side",
-		"unsticky": "block/piston_top",
-		"particle": "block/piston_top"
+		"particle": "block/piston_top",
+		"unsticky": "block/piston_top"
 	},
 	"elements": [
 		{
@@ -140,17 +140,6 @@
 			}
 		},
 		{
-			"from": [5.75, 5.75, 18],
-			"to": [10.25, 10.25, 20],
-			"faces": {
-				"north": {"uv": [6, 7.5, 10.5, 12], "texture": "#side"},
-				"east": {"uv": [14, 0, 16, 4], "texture": "#side"},
-				"west": {"uv": [14, 0, 16, 4], "texture": "#side"},
-				"up": {"uv": [14, 0, 16, 4], "rotation": 90, "texture": "#side"},
-				"down": {"uv": [14, 0, 16, 4], "rotation": 90, "texture": "#side"}
-			}
-		},
-		{
 			"from": [6, 6, 6],
 			"to": [10, 10, 11],
 			"faces": {
@@ -162,12 +151,12 @@
 		},
 		{
 			"from": [6, 6, 13],
-			"to": [10, 10, 18],
+			"to": [10, 10, 16],
 			"faces": {
-				"east": {"uv": [2, 0, 7, 4], "texture": "#side"},
-				"west": {"uv": [9, 0, 14, 4], "texture": "#side"},
-				"up": {"uv": [2, 0, 7, 4], "rotation": 270, "texture": "#side"},
-				"down": {"uv": [2, 0, 7, 4], "rotation": 90, "texture": "#side"}
+				"east": {"uv": [3, 0, 7, 4], "texture": "#side"},
+				"west": {"uv": [10, 0, 14, 4], "texture": "#side"},
+				"up": {"uv": [3, 0, 7, 4], "rotation": 270, "texture": "#side"},
+				"down": {"uv": [3, 0, 7, 4], "rotation": 90, "texture": "#side"}
 			}
 		}
 	]
