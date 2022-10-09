@@ -6,7 +6,8 @@
 		"side": "block/sandstone_stairs",
 		"back": "block/sandstone",
 		"top": "block/sandstone_top",
-		"bottom": "block/sandstone_bottom"
+		"bottom": "block/sandstone_bottom",
+		"particle": "#side"
 	},
 	"elements": [
 		{
