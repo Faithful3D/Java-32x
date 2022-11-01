@@ -5,7 +5,7 @@
 		"particle": "minecraft:block/hopper_outside",
 		"side": "minecraft:block/hopper_outside",
 		"inside": "minecraft:block/hopper_inside",
-		"texture": "entity/minecart_item"
+		"texture": "item/minecart/minecart"
 	},
 	"elements": [
 		{

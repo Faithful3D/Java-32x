@@ -2,6 +2,6 @@
 	"credit": "Designed by Juknum",
 	"parent": "item/acacia_boat",
 	"textures": {
-		"texture": "entity/boat/dark_oak"
+		"texture": "item/boat/dark_oak"
 	}
 }

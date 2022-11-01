@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"down": "entity/chest/normal",
-		"1_texture": "entity/minecart_item"
+		"down": "item/chest",
+		"1_texture": "item/minecart/minecart"
 	},
 	"elements": [
 		{

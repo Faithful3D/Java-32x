@@ -4,7 +4,7 @@
 		"1": "minecraft:block/command_block_back",
 		"2": "minecraft:block/command_block_front",
 		"3": "minecraft:block/command_block_side",
-		"texture": "entity/minecart_item",
+		"texture": "item/minecart/minecart",
 		"particle": "minecraft:block/command_block_back"
 	},
 	"elements": [

@@ -6,7 +6,7 @@
 		"2": "minecraft:block/tnt_side_overlay",
 		"3": "minecraft:block/tnt_top",
 		"particle": "minecraft:block/tnt_side",
-		"texture": "entity/minecart_item"
+		"texture": "item/minecart/minecart"
 	},
 	"elements": [
 		{

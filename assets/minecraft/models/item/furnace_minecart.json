@@ -7,7 +7,7 @@
 		"3": "minecraft:block/furnace_top",
 		"4": "minecraft:block/furnace_front",
 		"particle": "minecraft:block/furnace_top",
-		"texture": "entity/minecart_item"
+		"texture": "item/minecart/minecart"
 	},
 	"elements": [
 		{
