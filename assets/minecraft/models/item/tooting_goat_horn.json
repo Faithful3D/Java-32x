@@ -1,0 +1,35 @@
+{
+	"credit": "Created by JMHMirror",
+	"parent": "item/goat_horn",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -30, 0],
+			"translation": [0, 5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -30, 0],
+			"translation": [0, 5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 9, 0],
+			"translation": [-0.5, -1.25, -8.5]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0]
+		},
+		"gui": {
+			"rotation": [21, 57, 0],
+			"translation": [1, 1.25, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"rotation": [0, 0, -180],
+			"translation": [-4.5, 8.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 1.5, -1.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}
