@@ -7,7 +7,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "x": 270,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -22,7 +22,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "x": 270,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -53,7 +53,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 270,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -68,7 +68,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 270,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -78,7 +78,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 180,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -93,7 +93,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 180,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -103,7 +103,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 90,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -118,7 +118,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "y": 90,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -128,7 +128,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "x": 90,
-        "uvlock": true
+        "uvlock": false
       }
     },
     {
@@ -143,7 +143,7 @@
       "apply": {
         "model": "minecraft:block/nature/vines/glow_lichen",
         "x": 90,
-        "uvlock": true
+        "uvlock": false
       }
     }
   ]
