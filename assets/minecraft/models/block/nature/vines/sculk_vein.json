@@ -2,1439 +2,1425 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/sculk_vein",
-		"sculk_vein": "block/sculk_vein"
+		"0": "block/sculk_vein",
+		"particle": "block/sculk_vein"
 	},
 	"elements": [
 		{
-			"from": [4, 0, 0],
-			"to": [5, 1, 0.5],
+			"name": "sculk_vein2_0",
+			"from": [0, 11.5, 0],
+			"to": [1, 16, 0.5],
 			"faces": {
-				"north": {"uv": [5, 15, 4, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [4, 15, 5, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [4, 15, 4.5, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [4, 15, 5, 15.5], "texture": "#sculk_vein"},
-				"down": {"uv": [4, 15.5, 5, 16], "texture": "#sculk_vein"}
+				"north": {"uv": [0, 4.5, 1, 0], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0.5, 0, 1, 4.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 4.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 4.5], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [1, 0, 0, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 4, 1, 4.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [0, 2, 0],
-			"to": [1, 4, 0.5],
+			"name": "sculk_vein2_1",
+			"from": [4, 15.5, 0],
+			"to": [12, 16, 0.5],
 			"faces": {
-				"north": {"uv": [1, 12, 0, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 12, 1, 14], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 12, 0.5, 14], "texture": "#sculk_vein"},
-				"up": {"uv": [0, 12, 1, 12.5], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 13.5, 1, 14], "texture": "#sculk_vein"}
+				"north": {"uv": [4, 0.5, 12, 0], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11.5, 0, 12, 0.5], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 0.5], "texture": "#0"},
+				"west": {"uv": [4, 0, 4.5, 0.5], "texture": "#0"},
+				"up": {"uv": [12, 0, 4, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 0, 12, 0.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 4, 0],
-			"to": [6, 7, 0.5],
+			"name": "sculk_vein2_2",
+			"from": [12.5, 12.5, 0],
+			"to": [16, 16, 0.5],
 			"faces": {
-				"north": {"uv": [6, 9, 5, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 9, 6, 12], "texture": "#sculk_vein"},
-				"west": {"uv": [5, 9, 5.5, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [5, 9, 6, 9.5], "texture": "#sculk_vein"},
-				"down": {"uv": [5, 11.5, 6, 12], "texture": "#sculk_vein"}
+				"north": {"uv": [12.5, 3.5, 16, 0], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 0, 16, 3.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [12.5, 0, 16, 3.5], "texture": "#0"},
+				"west": {"uv": [12.5, 0, 13, 3.5], "texture": "#0"},
+				"up": {"uv": [16, 0, 12.5, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12.5, 3, 16, 3.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11, 3, 0],
-			"to": [12, 5, 0.5],
+			"name": "sculk_vein2_3",
+			"from": [1, 12, 0],
+			"to": [1.5, 15.5, 0.5],
 			"faces": {
-				"north": {"uv": [12, 11, 11, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 11, 12, 13], "texture": "#sculk_vein"},
-				"west": {"uv": [11, 11, 11.5, 13], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 11, 12, 11.5], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 12.5, 12, 13], "texture": "#sculk_vein"}
+				"north": {"uv": [1, 4, 1.5, 0.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [1, 0.5, 1.5, 4], "texture": "#0"},
+				"south": {"uv": [1, 0.5, 1.5, 4], "texture": "#0"},
+				"up": {"uv": [1.5, 0.5, 1, 1], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1, 3.5, 1.5, 4], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1, 10, 0],
-			"to": [2, 12, 0.5],
+			"name": "sculk_vein2_4",
+			"from": [4.5, 14.5, 0],
+			"to": [12, 15.5, 0.5],
 			"faces": {
-				"north": {"uv": [2, 4, 1, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 4, 2, 6], "texture": "#sculk_vein"},
-				"west": {"uv": [1, 4, 1.5, 6], "texture": "#sculk_vein"},
-				"down": {"uv": [1, 5.5, 2, 6], "texture": "#sculk_vein"}
+				"north": {"uv": [4.5, 1.5, 12, 0.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11.5, 0.5, 12, 1.5], "texture": "#0"},
+				"south": {"uv": [4.5, 0.5, 12, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 0.5, 5, 1.5], "texture": "#0"},
+				"down": {"uv": [4.5, 1, 12, 1.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1, 13, 0],
+			"name": "sculk_vein2_5",
+			"from": [1.5, 13, 0],
 			"to": [2, 15, 0.5],
 			"faces": {
-				"north": {"uv": [2, 1, 1, 3], "texture": "#sculk_vein"},
-				"east": {"uv": [1.5, 1, 2, 3], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 1, 2, 3], "texture": "#sculk_vein"},
-				"up": {"uv": [1, 1, 2, 1.5], "texture": "#sculk_vein"},
-				"down": {"uv": [1, 2.5, 2, 3], "texture": "#sculk_vein"}
+				"north": {"uv": [1.5, 3, 2, 1], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [1.5, 1, 2, 3], "texture": "#0"},
+				"south": {"uv": [1.5, 1, 2, 3], "texture": "#0"},
+				"up": {"uv": [2, 1, 1.5, 1.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1.5, 2.5, 2, 3], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10, 8, 0],
-			"to": [11, 10, 0.5],
+			"name": "sculk_vein2_6",
+			"from": [12, 13, 0],
+			"to": [12.5, 15, 0.5],
 			"faces": {
-				"north": {"uv": [11, 6, 10, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [10, 6, 11, 8], "texture": "#sculk_vein"},
-				"west": {"uv": [10, 6, 10.5, 8], "texture": "#sculk_vein"},
-				"up": {"uv": [10, 6, 11, 6.5], "texture": "#sculk_vein"},
-				"down": {"uv": [10, 7.5, 11, 8], "texture": "#sculk_vein"}
+				"north": {"uv": [12, 3, 12.5, 1], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [12, 1, 12.5, 3], "texture": "#0"},
+				"west": {"uv": [12, 1, 12.5, 3], "texture": "#0"},
+				"up": {"uv": [12.5, 1, 12, 1.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12, 2.5, 12.5, 3], "texture": "#0"}
 			}
 		},
 		{
+			"name": "sculk_vein2_7",
+			"from": [5, 8.5, 0],
+			"to": [7, 14.5, 0.5],
+			"faces": {
+				"north": {"uv": [5, 7.5, 7, 1.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [6.5, 1.5, 7, 7.5], "texture": "#0"},
+				"south": {"uv": [5, 1.5, 7, 7.5], "texture": "#0"},
+				"west": {"uv": [5, 1.5, 5.5, 7.5], "texture": "#0"},
+				"down": {"uv": [5, 7, 7, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_8",
+			"from": [7, 14, 0],
+			"to": [12, 14.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 2, 12, 1.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [7, 1.5, 12, 2], "texture": "#0"},
+				"down": {"uv": [7, 1.5, 12, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_9",
+			"from": [3.5, 8, 0],
+			"to": [5, 14, 0.5],
+			"faces": {
+				"north": {"uv": [3.5, 8, 5, 2], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [3.5, 2, 5, 8], "texture": "#0"},
+				"west": {"uv": [3.5, 2, 4, 8], "texture": "#0"},
+				"up": {"uv": [5, 2, 3.5, 2.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3.5, 7.5, 5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_10",
+			"from": [7.5, 13.5, 0],
+			"to": [11.5, 14, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 2.5, 11.5, 2], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11, 2, 11.5, 2.5], "texture": "#0"},
+				"south": {"uv": [7.5, 2, 11.5, 2.5], "texture": "#0"},
+				"west": {"uv": [7.5, 2, 8, 2.5], "texture": "#0"},
+				"down": {"uv": [7.5, 2, 11.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_11",
+			"from": [2.5, 8.5, 0],
+			"to": [3.5, 13.5, 0.5],
+			"faces": {
+				"north": {"uv": [2.5, 7.5, 3.5, 2.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [2.5, 2.5, 3.5, 7.5], "texture": "#0"},
+				"west": {"uv": [2.5, 2.5, 3, 7.5], "texture": "#0"},
+				"up": {"uv": [3.5, 2.5, 2.5, 3], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2.5, 7, 3.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_12",
+			"from": [7, 8.5, 0],
+			"to": [7.5, 13.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 7.5, 7.5, 2.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [7, 2.5, 7.5, 7.5], "texture": "#0"},
+				"south": {"uv": [7, 2.5, 7.5, 7.5], "texture": "#0"},
+				"up": {"uv": [7.5, 2.5, 7, 3], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 7, 7.5, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_13",
+			"from": [8, 13, 0],
+			"to": [10.5, 13.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 3, 10.5, 2.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [10, 2.5, 10.5, 3], "texture": "#0"},
+				"south": {"uv": [8, 2.5, 10.5, 3], "texture": "#0"},
+				"west": {"uv": [8, 2.5, 8.5, 3], "texture": "#0"},
+				"down": {"uv": [8, 2.5, 10.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_14",
+			"from": [2, 9, 0],
+			"to": [2.5, 13, 0.5],
+			"faces": {
+				"north": {"uv": [2, 7, 2.5, 3], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [2, 3, 2.5, 7], "texture": "#0"},
+				"west": {"uv": [2, 3, 2.5, 7], "texture": "#0"},
+				"up": {"uv": [2.5, 3, 2, 3.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 6.5, 2.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_15",
+			"from": [7.5, 9, 0],
+			"to": [8, 13, 0.5],
+			"faces": {
+				"north": {"uv": [7.5, 7, 8, 3], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [7.5, 3, 8, 7], "texture": "#0"},
+				"south": {"uv": [7.5, 3, 8, 7], "texture": "#0"},
+				"up": {"uv": [8, 3, 7.5, 3.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.5, 6.5, 8, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_16",
+			"from": [13, 12, 0],
+			"to": [16, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [13, 4, 16, 3.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 3.5, 16, 4], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [13, 3.5, 16, 4], "texture": "#0"},
+				"west": {"uv": [13, 3.5, 13.5, 4], "texture": "#0"},
+				"down": {"uv": [13, 3.5, 16, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_17",
+			"from": [1.5, 10, 0],
+			"to": [2, 12, 0.5],
+			"faces": {
+				"north": {"uv": [1.5, 6, 2, 4], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [1.5, 4, 2, 6], "texture": "#0"},
+				"west": {"uv": [1.5, 4, 2, 6], "texture": "#0"},
+				"up": {"uv": [2, 4, 1.5, 4.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1.5, 5.5, 2, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_18",
 			"from": [8, 10, 0],
-			"to": [9, 12, 0.5],
+			"to": [8.5, 12, 0.5],
 			"faces": {
-				"north": {"uv": [9, 4, 8, 6], "texture": "#sculk_vein"},
-				"east": {"uv": [8.5, 4, 9, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 4, 9, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [8, 4, 9, 4.5], "texture": "#sculk_vein"},
-				"down": {"uv": [8, 5.5, 9, 6], "texture": "#sculk_vein"}
+				"north": {"uv": [8, 6, 8.5, 4], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [8, 4, 8.5, 6], "texture": "#0"},
+				"south": {"uv": [8, 4, 8.5, 6], "texture": "#0"},
+				"up": {"uv": [8.5, 4, 8, 4.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 5.5, 8.5, 6], "texture": "#0"}
 			}
 		},
 		{
-			"from": [2, 6, 0],
-			"to": [3, 8, 0.5],
+			"name": "sculk_vein2_19",
+			"from": [13.5, 11.5, 0],
+			"to": [16, 12, 0.5],
 			"faces": {
-				"north": {"uv": [3, 8, 2, 10], "texture": "#sculk_vein"},
-				"east": {"uv": [2.5, 8, 3, 10], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 8, 3, 10], "texture": "#sculk_vein"},
-				"up": {"uv": [2, 8, 3, 8.5], "texture": "#sculk_vein"},
-				"down": {"uv": [2, 9.5, 3, 10], "texture": "#sculk_vein"}
+				"north": {"uv": [13.5, 4.5, 16, 4], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 4, 16, 4.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [13.5, 4, 16, 4.5], "texture": "#0"},
+				"west": {"uv": [13.5, 4, 14, 4.5], "texture": "#0"},
+				"down": {"uv": [13.5, 4, 16, 4.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14, 8, 0],
-			"to": [15, 10, 0.5],
+			"name": "sculk_vein2_20",
+			"from": [14.5, 11, 0],
+			"to": [16, 11.5, 0.5],
 			"faces": {
-				"north": {"uv": [15, 6, 14, 8], "texture": "#sculk_vein"},
-				"east": {"uv": [14.5, 6, 15, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 6, 15, 8], "texture": "#sculk_vein"},
-				"up": {"uv": [14, 6, 15, 6.5], "texture": "#sculk_vein"},
-				"down": {"uv": [14, 7.5, 15, 8], "texture": "#sculk_vein"}
+				"north": {"uv": [14.5, 5, 16, 4.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 4.5, 16, 5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [14.5, 4.5, 16, 5], "texture": "#0"},
+				"west": {"uv": [14.5, 4.5, 15, 5], "texture": "#0"},
+				"down": {"uv": [14.5, 4.5, 16, 5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [15, 3, 0],
-			"to": [16, 5, 0.5],
+			"name": "sculk_vein2_21",
+			"from": [11.5, 7, 0],
+			"to": [13, 11, 0.5],
 			"faces": {
-				"north": {"uv": [16, 11, 15, 13], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 11, 16, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [15, 11, 16, 13], "texture": "#sculk_vein"},
-				"up": {"uv": [15, 11, 16, 11.5], "texture": "#sculk_vein"},
-				"down": {"uv": [15, 12.5, 16, 13], "texture": "#sculk_vein"}
+				"north": {"uv": [11.5, 9, 13, 5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [12.5, 5, 13, 9], "texture": "#0"},
+				"south": {"uv": [11.5, 5, 13, 9], "texture": "#0"},
+				"west": {"uv": [11.5, 5, 12, 9], "texture": "#0"},
+				"up": {"uv": [13, 5, 11.5, 5.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11.5, 8.5, 13, 9], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10, 4, 0],
-			"to": [11, 7, 0.5],
+			"name": "sculk_vein2_22",
+			"from": [10.5, 7, 0],
+			"to": [11.5, 10.5, 0.5],
 			"faces": {
-				"north": {"uv": [11, 9, 10, 12], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 9, 11, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [10, 9, 11, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [10, 9, 11, 9.5], "texture": "#sculk_vein"},
-				"down": {"uv": [10, 11.5, 11, 12], "texture": "#sculk_vein"}
+				"north": {"uv": [10.5, 9, 11.5, 5.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [10.5, 5.5, 11.5, 9], "texture": "#0"},
+				"west": {"uv": [10.5, 5.5, 11, 9], "texture": "#0"},
+				"up": {"uv": [11.5, 5.5, 10.5, 6], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10.5, 8.5, 11.5, 9], "texture": "#0"}
 			}
 		},
 		{
+			"name": "sculk_vein2_23",
+			"from": [13, 7.5, 0],
+			"to": [14, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [13, 8.5, 14, 5.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [13.5, 5.5, 14, 8.5], "texture": "#0"},
+				"south": {"uv": [13, 5.5, 14, 8.5], "texture": "#0"},
+				"up": {"uv": [14, 5.5, 13, 6], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [13, 8, 14, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_24",
+			"from": [10, 8, 0],
+			"to": [10.5, 10, 0.5],
+			"faces": {
+				"north": {"uv": [10, 8, 10.5, 6], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [10, 6, 10.5, 8], "texture": "#0"},
+				"west": {"uv": [10, 6, 10.5, 8], "texture": "#0"},
+				"up": {"uv": [10.5, 6, 10, 6.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10, 7.5, 10.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_25",
+			"from": [14, 7.5, 0],
+			"to": [14.5, 10, 0.5],
+			"faces": {
+				"north": {"uv": [14, 8.5, 14.5, 6], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14, 6, 14.5, 8.5], "texture": "#0"},
+				"south": {"uv": [14, 6, 14.5, 8.5], "texture": "#0"},
+				"up": {"uv": [14.5, 6, 14, 6.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14, 8, 14.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_26",
+			"from": [14.5, 8, 0],
+			"to": [15, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [14.5, 8, 15, 6.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14.5, 6.5, 15, 8], "texture": "#0"},
+				"south": {"uv": [14.5, 6.5, 15, 8], "texture": "#0"},
+				"up": {"uv": [15, 6.5, 14.5, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14.5, 7.5, 15, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_27",
+			"from": [0.5, 5.5, 0],
+			"to": [2, 9, 0.5],
+			"faces": {
+				"north": {"uv": [0.5, 10.5, 2, 7], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [1.5, 7, 2, 10.5], "texture": "#0"},
+				"south": {"uv": [0.5, 7, 2, 10.5], "texture": "#0"},
+				"west": {"uv": [0.5, 7, 1, 10.5], "texture": "#0"},
+				"up": {"uv": [2, 7, 0.5, 7.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.5, 10, 2, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_28",
+			"from": [0, 5, 0],
+			"to": [0.5, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [0, 11, 0.5, 7.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [0, 7.5, 0.5, 11], "texture": "#0"},
+				"west": {"uv": [0, 7.5, 0.5, 11], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 7.5, 0, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 10.5, 0.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_29",
+			"from": [2, 5.5, 0],
+			"to": [2.5, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [2, 10.5, 2.5, 7.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [2, 7.5, 2.5, 10.5], "texture": "#0"},
+				"south": {"uv": [2, 7.5, 2.5, 10.5], "texture": "#0"},
+				"up": {"uv": [2.5, 7.5, 2, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 10, 2.5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_30",
+			"from": [5, 8, 0],
+			"to": [6, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [5, 8, 6, 7.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [5.5, 7.5, 6, 8], "texture": "#0"},
+				"south": {"uv": [5, 7.5, 6, 8], "texture": "#0"},
+				"down": {"uv": [5, 7.5, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_31",
+			"from": [15.5, 5.5, 0],
+			"to": [16, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [15.5, 10.5, 16, 7.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 7.5, 16, 10.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [15.5, 7.5, 16, 10.5], "texture": "#0"},
+				"west": {"uv": [15.5, 7.5, 16, 10.5], "texture": "#0"},
+				"up": {"uv": [16, 7.5, 15.5, 8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [15.5, 10, 16, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_32",
+			"from": [7, 3.5, 0],
+			"to": [9.5, 8, 0.5],
+			"faces": {
+				"north": {"uv": [7, 12.5, 9.5, 8], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [9, 8, 9.5, 12.5], "texture": "#0"},
+				"south": {"uv": [7, 8, 9.5, 12.5], "texture": "#0"},
+				"west": {"uv": [7, 8, 7.5, 12.5], "texture": "#0"},
+				"up": {"uv": [9.5, 8, 7, 8.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 12, 9.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_33",
 			"from": [15, 6, 0],
 			"to": [15.5, 8, 0.5],
 			"faces": {
-				"north": {"uv": [15.5, 8, 15, 10], "texture": "#sculk_vein"},
-				"south": {"uv": [15, 8, 15.5, 10], "texture": "#sculk_vein"},
-				"west": {"uv": [15, 8, 15.5, 10], "texture": "#sculk_vein"},
-				"up": {"uv": [15, 8, 15.5, 8.5], "texture": "#sculk_vein"},
-				"down": {"uv": [15, 9.5, 15.5, 10], "texture": "#sculk_vein"}
+				"north": {"uv": [15, 10, 15.5, 8], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [15, 8, 15.5, 10], "texture": "#0"},
+				"west": {"uv": [15, 8, 15.5, 10], "texture": "#0"},
+				"up": {"uv": [15.5, 8, 15, 8.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [15, 9.5, 15.5, 10], "texture": "#0"}
 			}
 		},
 		{
-			"from": [4, 2, 0],
-			"to": [5, 4, 0.5],
+			"name": "sculk_vein2_34",
+			"from": [2.5, 6, 0],
+			"to": [3, 7.5, 0.5],
 			"faces": {
-				"north": {"uv": [5, 12, 4, 14], "texture": "#sculk_vein"},
-				"east": {"uv": [4.5, 12, 5, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [4, 12, 5, 14], "texture": "#sculk_vein"},
-				"up": {"uv": [4, 12, 5, 12.5], "texture": "#sculk_vein"},
-				"down": {"uv": [4, 13.5, 5, 14], "texture": "#sculk_vein"}
+				"north": {"uv": [2.5, 10, 3, 8.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [2.5, 8.5, 3, 10], "texture": "#0"},
+				"south": {"uv": [2.5, 8.5, 3, 10], "texture": "#0"},
+				"up": {"uv": [3, 8.5, 2.5, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2.5, 9.5, 3, 10], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 14, 0],
-			"to": [8, 15, 0.5],
+			"name": "sculk_vein2_35",
+			"from": [6, 3.5, 0],
+			"to": [7, 7.5, 0.5],
 			"faces": {
-				"north": {"uv": [8, 1, 5, 2], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 1, 8, 2], "texture": "#sculk_vein"},
-				"west": {"uv": [5, 1, 5.5, 2], "texture": "#sculk_vein"},
-				"down": {"uv": [5, 1.5, 8, 2], "texture": "#sculk_vein"}
+				"north": {"uv": [6, 12.5, 7, 8.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [6, 8.5, 7, 12.5], "texture": "#0"},
+				"west": {"uv": [6, 8.5, 6.5, 12.5], "texture": "#0"},
+				"up": {"uv": [7, 8.5, 6, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6, 12, 7, 12.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [8, 13, 0],
-			"to": [11, 14, 0.5],
-			"faces": {
-				"north": {"uv": [11, 2, 8, 3], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 2, 11, 3], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 2, 11, 3], "texture": "#sculk_vein"},
-				"west": {"uv": [8, 2, 8.5, 3], "texture": "#sculk_vein"},
-				"down": {"uv": [8, 2.5, 11, 3], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [4, 15, 0],
-			"to": [5, 16, 0.5],
-			"faces": {
-				"north": {"uv": [5, 0, 4, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [4, 0, 5, 1], "texture": "#sculk_vein"},
-				"west": {"uv": [4, 0, 4.5, 1], "texture": "#sculk_vein"},
-				"up": {"uv": [4, 0, 5, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [4, 0.5, 5, 1], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0, 15, 0],
-			"to": [1, 16, 0.5],
-			"faces": {
-				"north": {"uv": [1, 0, 0, 1], "texture": "#sculk_vein"},
-				"east": {"uv": [0.5, 0, 1, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 0, 0.5, 1], "texture": "#sculk_vein"},
-				"up": {"uv": [0, 0, 1, 0.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1, 15, 0],
-			"to": [1.5, 15.5, 0.5],
-			"faces": {
-				"north": {"uv": [1.5, 0.5, 1, 1], "texture": "#sculk_vein"},
-				"east": {"uv": [1, 0.5, 1.5, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 0.5, 1.5, 1], "texture": "#sculk_vein"},
-				"up": {"uv": [1, 0.5, 1.5, 1], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 14, 0],
-			"to": [12, 16, 0.5],
-			"faces": {
-				"north": {"uv": [12, 0, 11, 2], "texture": "#sculk_vein"},
-				"east": {"uv": [11.5, 0, 12, 2], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 0, 12, 2], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 0, 12, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 1.5, 12, 2], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12, 13.5, 0],
-			"to": [13, 15, 0.5],
-			"faces": {
-				"north": {"uv": [13, 1, 12, 2.5], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 1, 13, 2.5], "texture": "#sculk_vein"},
-				"west": {"uv": [12, 1, 12.5, 2.5], "texture": "#sculk_vein"},
-				"up": {"uv": [12, 1, 13, 1.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 0, 0],
-			"to": [12, 1, 0.5],
-			"faces": {
-				"north": {"uv": [12, 15, 11, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [11.5, 15, 12, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 15, 12, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 15, 12, 15.5], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 15.5, 12, 16], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [5, 1, 0],
-			"to": [7, 2, 0.5],
-			"faces": {
-				"north": {"uv": [7, 14, 5, 15], "texture": "#sculk_vein"},
-				"east": {"uv": [6.5, 14, 7, 15], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 14, 7, 15], "texture": "#sculk_vein"},
-				"west": {"uv": [5, 14, 5.5, 15], "texture": "#sculk_vein"},
-				"up": {"uv": [5, 14, 7, 14.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1, 1, 0],
-			"to": [4, 2, 0.5],
-			"faces": {
-				"north": {"uv": [4, 14, 1, 15], "texture": "#sculk_vein"},
-				"east": {"uv": [3.5, 14, 4, 15], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 14, 4, 15], "texture": "#sculk_vein"},
-				"west": {"uv": [1, 14, 1.5, 15], "texture": "#sculk_vein"},
-				"down": {"uv": [1, 14.5, 4, 15], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1, 4, 0],
-			"to": [4, 5, 0.5],
-			"faces": {
-				"north": {"uv": [4, 11, 1, 12], "texture": "#sculk_vein"},
-				"east": {"uv": [3.5, 11, 4, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 11, 4, 12], "texture": "#sculk_vein"},
-				"west": {"uv": [1, 11, 1.5, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [1, 11, 4, 11.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [6, 7, 0],
-			"to": [10, 8, 0.5],
-			"faces": {
-				"north": {"uv": [10, 8, 6, 9], "texture": "#sculk_vein"},
-				"east": {"uv": [9.5, 8, 10, 9], "texture": "#sculk_vein"},
-				"south": {"uv": [6, 8, 10, 9], "texture": "#sculk_vein"},
-				"west": {"uv": [6, 8, 6.5, 9], "texture": "#sculk_vein"},
-				"up": {"uv": [6, 8, 10, 8.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [3, 13, 0],
-			"to": [7, 14, 0.5],
-			"faces": {
-				"north": {"uv": [7, 2, 3, 3], "texture": "#sculk_vein"},
-				"east": {"uv": [6.5, 2, 7, 3], "texture": "#sculk_vein"},
-				"south": {"uv": [3, 2, 7, 3], "texture": "#sculk_vein"},
-				"west": {"uv": [3, 2, 3.5, 3], "texture": "#sculk_vein"},
-				"up": {"uv": [3, 2, 7, 2.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [3, 8, 0],
-			"to": [7, 9, 0.5],
-			"faces": {
-				"north": {"uv": [7, 7, 3, 8], "texture": "#sculk_vein"},
-				"east": {"uv": [6.5, 7, 7, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [3, 7, 7, 8], "texture": "#sculk_vein"},
-				"west": {"uv": [3, 7, 3.5, 8], "texture": "#sculk_vein"},
-				"down": {"uv": [3, 7.5, 7, 8], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0, 5, 0],
-			"to": [2, 6, 0.5],
-			"faces": {
-				"north": {"uv": [2, 10, 0, 11], "texture": "#sculk_vein"},
-				"east": {"uv": [1.5, 10, 2, 11], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 10, 2, 11], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 10, 0.5, 11], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 10.5, 2, 11], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0, 8, 0],
-			"to": [2, 9, 0.5],
-			"faces": {
-				"north": {"uv": [2, 7, 0, 8], "texture": "#sculk_vein"},
-				"east": {"uv": [1.5, 7, 2, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 7, 2, 8], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 7, 0.5, 8], "texture": "#sculk_vein"},
-				"up": {"uv": [0, 7, 2, 7.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12, 5, 0],
-			"to": [15, 6, 0.5],
-			"faces": {
-				"north": {"uv": [15, 10, 12, 11], "texture": "#sculk_vein"},
-				"east": {"uv": [14.5, 10, 15, 11], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 10, 15, 11], "texture": "#sculk_vein"},
-				"west": {"uv": [12, 10, 12.5, 11], "texture": "#sculk_vein"},
-				"up": {"uv": [12, 10, 15, 10.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 10, 0],
-			"to": [14, 11, 0.5],
-			"faces": {
-				"north": {"uv": [14, 5, 11, 6], "texture": "#sculk_vein"},
-				"east": {"uv": [13.5, 5, 14, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 5, 14, 6], "texture": "#sculk_vein"},
-				"west": {"uv": [11, 5, 11.5, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 5, 14, 5.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [14, 11, 0],
-			"to": [16, 12, 0.5],
-			"faces": {
-				"north": {"uv": [16, 4, 14, 5], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 4, 16, 5], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 4, 16, 5], "texture": "#sculk_vein"},
-				"west": {"uv": [14, 4, 14.5, 5], "texture": "#sculk_vein"},
-				"down": {"uv": [14, 4.5, 16, 5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [13, 12, 0],
-			"to": [14.5, 12.5, 0.5],
-			"faces": {
-				"north": {"uv": [14.5, 3.5, 13, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [13, 3.5, 14.5, 4], "texture": "#sculk_vein"},
-				"west": {"uv": [13, 3.5, 13.5, 4], "texture": "#sculk_vein"},
-				"down": {"uv": [13, 3.5, 14.5, 4], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12.5, 12.5, 0],
-			"to": [14, 13, 0.5],
-			"faces": {
-				"north": {"uv": [14, 3, 12.5, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [12.5, 3, 14, 3.5], "texture": "#sculk_vein"},
-				"west": {"uv": [12.5, 3, 13, 3.5], "texture": "#sculk_vein"},
-				"down": {"uv": [12.5, 3, 14, 3.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12, 13, 0],
-			"to": [13.5, 13.5, 0.5],
-			"faces": {
-				"north": {"uv": [13.5, 2.5, 12, 3], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 2.5, 13.5, 3], "texture": "#sculk_vein"},
-				"west": {"uv": [12, 2.5, 12.5, 3], "texture": "#sculk_vein"},
-				"down": {"uv": [12, 2.5, 13.5, 3], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12.5, 15, 0],
-			"to": [13.5, 15.5, 0.5],
-			"faces": {
-				"north": {"uv": [13.5, 0.5, 12.5, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [12.5, 0.5, 13.5, 1], "texture": "#sculk_vein"},
-				"west": {"uv": [12.5, 0.5, 13, 1], "texture": "#sculk_vein"},
-				"up": {"uv": [12.5, 0.5, 13.5, 1], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [13, 15.5, 0],
-			"to": [14, 16, 0.5],
-			"faces": {
-				"north": {"uv": [14, 0, 13, 0.5], "texture": "#sculk_vein"},
-				"south": {"uv": [13, 0, 14, 0.5], "texture": "#sculk_vein"},
-				"west": {"uv": [13, 0, 13.5, 0.5], "texture": "#sculk_vein"},
-				"up": {"uv": [13, 0, 14, 0.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 7, 0],
-			"to": [14, 8, 0.5],
-			"faces": {
-				"north": {"uv": [14, 8, 11, 9], "texture": "#sculk_vein"},
-				"east": {"uv": [13.5, 8, 14, 9], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 8, 14, 9], "texture": "#sculk_vein"},
-				"west": {"uv": [11, 8, 11.5, 9], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 8.5, 14, 9], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12, 2, 0],
-			"to": [15, 3, 0.5],
-			"faces": {
-				"north": {"uv": [15, 13, 12, 14], "texture": "#sculk_vein"},
-				"east": {"uv": [14.5, 13, 15, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 13, 15, 14], "texture": "#sculk_vein"},
-				"west": {"uv": [12, 13, 12.5, 14], "texture": "#sculk_vein"},
-				"down": {"uv": [12, 13.5, 15, 14], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [6, 3, 0],
-			"to": [10, 4, 0.5],
-			"faces": {
-				"north": {"uv": [10, 12, 6, 13], "texture": "#sculk_vein"},
-				"east": {"uv": [9.5, 12, 10, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [6, 12, 10, 13], "texture": "#sculk_vein"},
-				"west": {"uv": [6, 12, 6.5, 13], "texture": "#sculk_vein"},
-				"down": {"uv": [6, 12.5, 10, 13], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [8, 1, 0],
-			"to": [11, 2, 0.5],
-			"faces": {
-				"north": {"uv": [11, 14, 8, 15], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 14, 11, 15], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 14, 11, 15], "texture": "#sculk_vein"},
-				"west": {"uv": [8, 14, 8.5, 15], "texture": "#sculk_vein"},
-				"up": {"uv": [8, 14, 11, 14.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7, 0.5, 0],
-			"to": [8, 1.5, 0.5],
-			"faces": {
-				"north": {"uv": [8, 14.5, 7, 15.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7, 14.5, 8, 15.5], "texture": "#sculk_vein"},
-				"up": {"uv": [7, 14.5, 8, 15], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [4.5, 1, 0],
-			"to": [5, 1.5, 0.5],
-			"faces": {
-				"north": {"uv": [5, 14.5, 4.5, 15], "texture": "#sculk_vein"},
-				"south": {"uv": [4.5, 14.5, 5, 15], "texture": "#sculk_vein"},
-				"west": {"uv": [4.5, 14.5, 5, 15], "texture": "#sculk_vein"},
-				"up": {"uv": [4.5, 14.5, 5, 15], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0.5, 1.5, 0],
-			"to": [1, 2, 0.5],
-			"faces": {
-				"north": {"uv": [1, 14, 0.5, 14.5], "texture": "#sculk_vein"},
-				"south": {"uv": [0.5, 14, 1, 14.5], "texture": "#sculk_vein"},
-				"west": {"uv": [0.5, 14, 1, 14.5], "texture": "#sculk_vein"},
-				"down": {"uv": [0.5, 14, 1, 14.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0.5, 4, 0],
-			"to": [1, 4.5, 0.5],
-			"faces": {
-				"north": {"uv": [1, 11.5, 0.5, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [0.5, 11.5, 1, 12], "texture": "#sculk_vein"},
-				"west": {"uv": [0.5, 11.5, 1, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [0.5, 11.5, 1, 12], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [4, 4, 0],
-			"to": [4.5, 4.5, 0.5],
-			"faces": {
-				"north": {"uv": [4.5, 11.5, 4, 12], "texture": "#sculk_vein"},
-				"east": {"uv": [4, 11.5, 4.5, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [4, 11.5, 4.5, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [4, 11.5, 4.5, 12], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2, 5.5, 0],
-			"to": [2.5, 6, 0.5],
-			"faces": {
-				"north": {"uv": [2.5, 10, 2, 10.5], "texture": "#sculk_vein"},
-				"east": {"uv": [2, 10, 2.5, 10.5], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 10, 2.5, 10.5], "texture": "#sculk_vein"},
-				"down": {"uv": [2, 10, 2.5, 10.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2, 8, 0],
-			"to": [2.5, 8.5, 0.5],
-			"faces": {
-				"north": {"uv": [2.5, 7.5, 2, 8], "texture": "#sculk_vein"},
-				"east": {"uv": [2, 7.5, 2.5, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 7.5, 2.5, 8], "texture": "#sculk_vein"},
-				"up": {"uv": [2, 7.5, 2.5, 8], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1.5, 7.5, 0],
-			"to": [2, 8, 0.5],
-			"faces": {
-				"north": {"uv": [2, 8, 1.5, 8.5], "texture": "#sculk_vein"},
-				"south": {"uv": [1.5, 8, 2, 8.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [5.5, 7, 0],
-			"to": [6, 7.5, 0.5],
-			"faces": {
-				"north": {"uv": [6, 8.5, 5.5, 9], "texture": "#sculk_vein"},
-				"south": {"uv": [5.5, 8.5, 6, 9], "texture": "#sculk_vein"},
-				"west": {"uv": [5.5, 8.5, 6, 9], "texture": "#sculk_vein"},
-				"up": {"uv": [5.5, 8.5, 6, 9], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7.5, 9, 0],
-			"to": [8, 9.5, 0.5],
-			"faces": {
-				"north": {"uv": [8, 6.5, 7.5, 7], "texture": "#sculk_vein"},
-				"east": {"uv": [7.5, 6.5, 8, 7], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 6.5, 8, 7], "texture": "#sculk_vein"},
-				"down": {"uv": [7.5, 6.5, 8, 7], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7.5, 12.5, 0],
-			"to": [8, 13, 0.5],
-			"faces": {
-				"north": {"uv": [8, 3, 7.5, 3.5], "texture": "#sculk_vein"},
-				"east": {"uv": [7.5, 3, 8, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 3, 8, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [7.5, 3, 8, 3.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2, 12.5, 0],
-			"to": [2.5, 13, 0.5],
-			"faces": {
-				"north": {"uv": [2.5, 3, 2, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 3, 2.5, 3.5], "texture": "#sculk_vein"},
-				"west": {"uv": [2, 3, 2.5, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [2, 3, 2.5, 3.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0.5, 12, 0],
-			"to": [1, 12.5, 0.5],
-			"faces": {
-				"north": {"uv": [1, 3.5, 0.5, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [0.5, 3.5, 1, 4], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7, 8.5, 0],
-			"to": [7.5, 9.5, 0.5],
-			"faces": {
-				"north": {"uv": [7.5, 6.5, 7, 7.5], "texture": "#sculk_vein"},
-				"east": {"uv": [7, 6.5, 7.5, 7.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7, 6.5, 7.5, 7.5], "texture": "#sculk_vein"},
-				"down": {"uv": [7, 7, 7.5, 7.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2.5, 8.5, 0],
-			"to": [3, 10, 0.5],
-			"faces": {
-				"north": {"uv": [3, 6, 2.5, 7.5], "texture": "#sculk_vein"},
-				"south": {"uv": [2.5, 6, 3, 7.5], "texture": "#sculk_vein"},
-				"west": {"uv": [2.5, 6, 3, 7.5], "texture": "#sculk_vein"},
-				"down": {"uv": [2.5, 7, 3, 7.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2, 9, 0],
-			"to": [2.5, 10.5, 0.5],
-			"faces": {
-				"north": {"uv": [2.5, 5.5, 2, 7], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 5.5, 2.5, 7], "texture": "#sculk_vein"},
-				"west": {"uv": [2, 5.5, 2.5, 7], "texture": "#sculk_vein"},
-				"down": {"uv": [2, 6.5, 2.5, 7], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7, 12.5, 0],
-			"to": [7.5, 13.5, 0.5],
-			"faces": {
-				"north": {"uv": [7.5, 2.5, 7, 3.5], "texture": "#sculk_vein"},
-				"east": {"uv": [7, 2.5, 7.5, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7, 2.5, 7.5, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [7, 2.5, 7.5, 3], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [2.5, 12.5, 0],
-			"to": [3, 13.5, 0.5],
-			"faces": {
-				"north": {"uv": [3, 2.5, 2.5, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [2.5, 2.5, 3, 3.5], "texture": "#sculk_vein"},
-				"west": {"uv": [2.5, 2.5, 3, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [2.5, 2.5, 3, 3], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1, 12, 0],
-			"to": [1.5, 13, 0.5],
-			"faces": {
-				"north": {"uv": [1.5, 3, 1, 4], "texture": "#sculk_vein"},
-				"east": {"uv": [1, 3, 1.5, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 3, 1.5, 4], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7.5, 9.5, 0],
-			"to": [8.5, 10, 0.5],
-			"faces": {
-				"north": {"uv": [8.5, 6, 7.5, 6.5], "texture": "#sculk_vein"},
-				"east": {"uv": [8, 6, 8.5, 6.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 6, 8.5, 6.5], "texture": "#sculk_vein"},
-				"down": {"uv": [7.5, 6, 8.5, 6.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [14, 0.5, 0],
-			"to": [15, 1, 0.5],
-			"faces": {
-				"north": {"uv": [15, 15, 14, 15.5], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 15, 15, 15.5], "texture": "#sculk_vein"},
-				"west": {"uv": [14, 15, 14.5, 15.5], "texture": "#sculk_vein"},
-				"up": {"uv": [14, 15, 15, 15.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [13.5, 0, 0],
-			"to": [14.5, 0.5, 0.5],
-			"faces": {
-				"north": {"uv": [14.5, 15.5, 13.5, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [13.5, 15.5, 14.5, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [13.5, 15.5, 14, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [13.5, 15.5, 14.5, 16], "texture": "#sculk_vein"},
-				"down": {"uv": [13.5, 15.5, 14.5, 16], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [7.5, 12, 0],
-			"to": [8.5, 12.5, 0.5],
-			"faces": {
-				"north": {"uv": [8.5, 3.5, 7.5, 4], "texture": "#sculk_vein"},
-				"east": {"uv": [8, 3.5, 8.5, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 3.5, 8.5, 4], "texture": "#sculk_vein"},
-				"up": {"uv": [7.5, 3.5, 8.5, 4], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [1.5, 12, 0],
-			"to": [2.5, 12.5, 0.5],
-			"faces": {
-				"north": {"uv": [2.5, 3.5, 1.5, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [1.5, 3.5, 2.5, 4], "texture": "#sculk_vein"},
-				"up": {"uv": [1.5, 3.5, 2.5, 4], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [0, 11.5, 0],
-			"to": [1, 12, 0.5],
-			"faces": {
-				"north": {"uv": [1, 4, 0, 4.5], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 4, 1, 4.5], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 4, 0.5, 4.5], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 4, 1, 4.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [10, 7, 0],
+			"name": "sculk_vein2_36",
+			"from": [9.5, 3.5, 0],
 			"to": [10.5, 7.5, 0.5],
 			"faces": {
-				"north": {"uv": [10.5, 8.5, 10, 9], "texture": "#sculk_vein"},
-				"east": {"uv": [10, 8.5, 10.5, 9], "texture": "#sculk_vein"},
-				"south": {"uv": [10, 8.5, 10.5, 9], "texture": "#sculk_vein"},
-				"up": {"uv": [10, 8.5, 10.5, 9], "texture": "#sculk_vein"}
+				"north": {"uv": [9.5, 12.5, 10.5, 8.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [10, 8.5, 10.5, 12.5], "texture": "#0"},
+				"south": {"uv": [9.5, 8.5, 10.5, 12.5], "texture": "#0"},
+				"up": {"uv": [10.5, 8.5, 9.5, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9.5, 12, 10.5, 12.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11.5, 5, 0],
+			"name": "sculk_vein2_37",
+			"from": [13, 7, 0],
+			"to": [13.5, 7.5, 0.5],
+			"faces": {
+				"north": {"uv": [13, 9, 13.5, 8.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [13, 8.5, 13.5, 9], "texture": "#0"},
+				"south": {"uv": [13, 8.5, 13.5, 9], "texture": "#0"},
+				"down": {"uv": [13, 8.5, 13.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_38",
+			"from": [5.5, 4, 0],
+			"to": [6, 7, 0.5],
+			"faces": {
+				"north": {"uv": [5.5, 12, 6, 9], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [5.5, 9, 6, 12], "texture": "#0"},
+				"west": {"uv": [5.5, 9, 6, 12], "texture": "#0"},
+				"up": {"uv": [6, 9, 5.5, 9.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5.5, 11.5, 6, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_39",
+			"from": [10.5, 4, 0],
+			"to": [11, 7, 0.5],
+			"faces": {
+				"north": {"uv": [10.5, 12, 11, 9], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [10.5, 9, 11, 12], "texture": "#0"},
+				"south": {"uv": [10.5, 9, 11, 12], "texture": "#0"},
+				"down": {"uv": [10.5, 11.5, 11, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_40",
+			"from": [11, 3.5, 0],
+			"to": [11.5, 6.5, 0.5],
+			"faces": {
+				"north": {"uv": [11, 12.5, 11.5, 9.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11, 9.5, 11.5, 12.5], "texture": "#0"},
+				"south": {"uv": [11, 9.5, 11.5, 12.5], "texture": "#0"},
+				"west": {"uv": [11, 9.5, 11.5, 12.5], "texture": "#0"},
+				"up": {"uv": [11.5, 9.5, 11, 10], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 12, 11.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_41",
+			"from": [5, 4.5, 0],
+			"to": [5.5, 6, 0.5],
+			"faces": {
+				"north": {"uv": [5, 11.5, 5.5, 10], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [5, 10, 5.5, 11.5], "texture": "#0"},
+				"west": {"uv": [5, 10, 5.5, 11.5], "texture": "#0"},
+				"up": {"uv": [5.5, 10, 5, 10.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 11, 5.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_42",
+			"from": [12, 2.5, 0],
+			"to": [14.5, 6, 0.5],
+			"faces": {
+				"north": {"uv": [12, 13.5, 14.5, 10], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14, 10, 14.5, 13.5], "texture": "#0"},
+				"south": {"uv": [12, 10, 14.5, 13.5], "texture": "#0"},
+				"west": {"uv": [12, 10, 12.5, 13.5], "texture": "#0"},
+				"up": {"uv": [14.5, 10, 12, 10.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12, 13, 14.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_43",
+			"from": [0.5, 5, 0],
+			"to": [1.5, 5.5, 0.5],
+			"faces": {
+				"north": {"uv": [0.5, 11, 1.5, 10.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [1, 10.5, 1.5, 11], "texture": "#0"},
+				"south": {"uv": [0.5, 10.5, 1.5, 11], "texture": "#0"},
+				"down": {"uv": [0.5, 10.5, 1.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_44",
+			"from": [11.5, 3, 0],
 			"to": [12, 5.5, 0.5],
 			"faces": {
-				"north": {"uv": [12, 10.5, 11.5, 11], "texture": "#sculk_vein"},
-				"south": {"uv": [11.5, 10.5, 12, 11], "texture": "#sculk_vein"},
-				"west": {"uv": [11.5, 10.5, 12, 11], "texture": "#sculk_vein"},
-				"up": {"uv": [11.5, 10.5, 12, 11], "texture": "#sculk_vein"}
+				"north": {"uv": [11.5, 13, 12, 10.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [11.5, 10.5, 12, 13], "texture": "#0"},
+				"west": {"uv": [11.5, 10.5, 12, 13], "texture": "#0"},
+				"up": {"uv": [12, 10.5, 11.5, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11.5, 12.5, 12, 13], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10.5, 10, 0],
-			"to": [11, 10.5, 0.5],
-			"faces": {
-				"north": {"uv": [11, 5.5, 10.5, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [10.5, 5.5, 11, 6], "texture": "#sculk_vein"},
-				"west": {"uv": [10.5, 5.5, 11, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [10.5, 5.5, 11, 6], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [15, 5, 0],
+			"name": "sculk_vein2_45",
+			"from": [14.5, 2.5, 0],
 			"to": [15.5, 5.5, 0.5],
 			"faces": {
-				"north": {"uv": [15.5, 10.5, 15, 11], "texture": "#sculk_vein"},
-				"east": {"uv": [15, 10.5, 15.5, 11], "texture": "#sculk_vein"},
-				"south": {"uv": [15, 10.5, 15.5, 11], "texture": "#sculk_vein"},
-				"up": {"uv": [15, 10.5, 15.5, 11], "texture": "#sculk_vein"}
+				"north": {"uv": [14.5, 13.5, 15.5, 10.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15, 10.5, 15.5, 13.5], "texture": "#0"},
+				"south": {"uv": [14.5, 10.5, 15.5, 13.5], "texture": "#0"},
+				"up": {"uv": [15.5, 10.5, 14.5, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14.5, 13, 15.5, 13.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [15.5, 5.5, 0],
-			"to": [16, 6.5, 0.5],
+			"name": "sculk_vein2_46",
+			"from": [1.5, 1.5, 0],
+			"to": [3.5, 5, 0.5],
 			"faces": {
-				"north": {"uv": [16, 9.5, 15.5, 10.5], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 9.5, 16, 10.5], "texture": "#sculk_vein"},
-				"south": {"uv": [15.5, 9.5, 16, 10.5], "texture": "#sculk_vein"},
-				"west": {"uv": [15.5, 9.5, 16, 10.5], "texture": "#sculk_vein"},
-				"down": {"uv": [15.5, 10, 16, 10.5], "texture": "#sculk_vein"}
+				"north": {"uv": [1.5, 14.5, 3.5, 11], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [3, 11, 3.5, 14.5], "texture": "#0"},
+				"south": {"uv": [1.5, 11, 3.5, 14.5], "texture": "#0"},
+				"west": {"uv": [1.5, 11, 2, 14.5], "texture": "#0"},
+				"up": {"uv": [3.5, 11, 1.5, 11.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1.5, 14, 3.5, 14.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [15, 0, 0],
-			"to": [16, 1, 0.5],
+			"name": "sculk_vein2_47",
+			"from": [15.5, 3, 0],
+			"to": [16, 5, 0.5],
 			"faces": {
-				"north": {"uv": [16, 15, 15, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 15, 16, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [15, 15, 16, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [15, 15, 16, 15.5], "texture": "#sculk_vein"},
-				"down": {"uv": [15, 15.5, 16, 16], "texture": "#sculk_vein"}
+				"north": {"uv": [15.5, 13, 16, 11], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 11, 16, 13], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [15.5, 11, 16, 13], "texture": "#0"},
+				"up": {"uv": [16, 11, 15.5, 11.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [15.5, 12.5, 16, 13], "texture": "#0"}
 			}
 		},
 		{
-			"from": [15.5, 7.5, 0],
-			"to": [16, 8.5, 0.5],
+			"name": "sculk_vein2_48",
+			"from": [0.5, 1.5, 0],
+			"to": [1.5, 4.5, 0.5],
 			"faces": {
-				"north": {"uv": [16, 7.5, 15.5, 8.5], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 7.5, 16, 8.5], "texture": "#sculk_vein"},
-				"south": {"uv": [15.5, 7.5, 16, 8.5], "texture": "#sculk_vein"},
-				"west": {"uv": [15.5, 7.5, 16, 8.5], "texture": "#sculk_vein"},
-				"up": {"uv": [15.5, 7.5, 16, 8], "texture": "#sculk_vein"}
+				"north": {"uv": [0.5, 14.5, 1.5, 11.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [0.5, 11.5, 1.5, 14.5], "texture": "#0"},
+				"west": {"uv": [0.5, 11.5, 1, 14.5], "texture": "#0"},
+				"up": {"uv": [1.5, 11.5, 0.5, 12], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.5, 14, 1.5, 14.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14, 10, 0],
-			"to": [14.5, 10.5, 0.5],
-			"faces": {
-				"north": {"uv": [14.5, 5.5, 14, 6], "texture": "#sculk_vein"},
-				"east": {"uv": [14, 5.5, 14.5, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 5.5, 14.5, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [14, 5.5, 14.5, 6], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [15, 2.5, 0],
-			"to": [15.5, 3, 0.5],
-			"faces": {
-				"north": {"uv": [15.5, 13, 15, 13.5], "texture": "#sculk_vein"},
-				"east": {"uv": [15, 13, 15.5, 13.5], "texture": "#sculk_vein"},
-				"south": {"uv": [15, 13, 15.5, 13.5], "texture": "#sculk_vein"},
-				"down": {"uv": [15, 13, 15.5, 13.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [14, 7.5, 0],
-			"to": [14.5, 8, 0.5],
-			"faces": {
-				"north": {"uv": [14.5, 8, 14, 8.5], "texture": "#sculk_vein"},
-				"east": {"uv": [14, 8, 14.5, 8.5], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 8, 14.5, 8.5], "texture": "#sculk_vein"},
-				"down": {"uv": [14, 8, 14.5, 8.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [10.5, 7.5, 0],
-			"to": [11, 8, 0.5],
-			"faces": {
-				"north": {"uv": [11, 8, 10.5, 8.5], "texture": "#sculk_vein"},
-				"south": {"uv": [10.5, 8, 11, 8.5], "texture": "#sculk_vein"},
-				"west": {"uv": [10.5, 8, 11, 8.5], "texture": "#sculk_vein"},
-				"down": {"uv": [10.5, 8, 11, 8.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 8, 0],
-			"to": [11.5, 8.5, 0.5],
-			"faces": {
-				"north": {"uv": [11.5, 7.5, 11, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 7.5, 11.5, 8], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [11, 9.5, 0],
-			"to": [11.5, 10, 0.5],
-			"faces": {
-				"north": {"uv": [11.5, 6, 11, 6.5], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 6, 11.5, 6.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [13.5, 8, 0],
-			"to": [14, 8.5, 0.5],
-			"faces": {
-				"north": {"uv": [14, 7.5, 13.5, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [13.5, 7.5, 14, 8], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [12, 3, 0],
-			"to": [12.5, 3.5, 0.5],
-			"faces": {
-				"north": {"uv": [12.5, 12.5, 12, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 12.5, 12.5, 13], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [14.5, 4.5, 0],
-			"to": [15, 5, 0.5],
-			"faces": {
-				"north": {"uv": [15, 11, 14.5, 11.5], "texture": "#sculk_vein"},
-				"south": {"uv": [14.5, 11, 15, 11.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [10, 3.5, 0],
-			"to": [10.5, 4, 0.5],
-			"faces": {
-				"north": {"uv": [10.5, 12, 10, 12.5], "texture": "#sculk_vein"},
-				"east": {"uv": [10, 12, 10.5, 12.5], "texture": "#sculk_vein"},
-				"south": {"uv": [10, 12, 10.5, 12.5], "texture": "#sculk_vein"},
-				"down": {"uv": [10, 12, 10.5, 12.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [9.5, 4, 0],
-			"to": [10, 4.5, 0.5],
-			"faces": {
-				"north": {"uv": [10, 11.5, 9.5, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [9.5, 11.5, 10, 12], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [9.5, 6.5, 0],
-			"to": [10, 7, 0.5],
-			"faces": {
-				"north": {"uv": [10, 9, 9.5, 9.5], "texture": "#sculk_vein"},
-				"south": {"uv": [9.5, 9, 10, 9.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [6, 4, 0],
-			"to": [6.5, 4.5, 0.5],
-			"faces": {
-				"north": {"uv": [6.5, 11.5, 6, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [6, 11.5, 6.5, 12], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [6, 6.5, 0],
-			"to": [6.5, 7, 0.5],
-			"faces": {
-				"north": {"uv": [6.5, 9, 6, 9.5], "texture": "#sculk_vein"},
-				"south": {"uv": [6, 9, 6.5, 9.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
-			"from": [3.5, 3.5, 0],
-			"to": [4, 4, 0.5],
-			"faces": {
-				"north": {"uv": [4, 12, 3.5, 12.5], "texture": "#sculk_vein"},
-				"south": {"uv": [3.5, 12, 4, 12.5], "texture": "#sculk_vein"}
-			}
-		},
-		{
+			"name": "sculk_vein2_49",
 			"from": [3.5, 2, 0],
-			"to": [4, 2.5, 0.5],
+			"to": [4.5, 4.5, 0.5],
 			"faces": {
-				"north": {"uv": [4, 13.5, 3.5, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [3.5, 13.5, 4, 14], "texture": "#sculk_vein"}
+				"north": {"uv": [3.5, 14, 4.5, 11.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [4, 11.5, 4.5, 14], "texture": "#0"},
+				"south": {"uv": [3.5, 11.5, 4.5, 14], "texture": "#0"},
+				"up": {"uv": [4.5, 11.5, 3.5, 12], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3.5, 13.5, 4.5, 14], "texture": "#0"}
 			}
 		},
 		{
-			"from": [4, 1.5, 0],
-			"to": [4.5, 2, 0.5],
+			"name": "sculk_vein2_50",
+			"from": [0, 2, 0],
+			"to": [0.5, 4, 0.5],
 			"faces": {
-				"north": {"uv": [4.5, 14, 4, 14.5], "texture": "#sculk_vein"},
-				"east": {"uv": [4, 14, 4.5, 14.5], "texture": "#sculk_vein"},
-				"south": {"uv": [4, 14, 4.5, 14.5], "texture": "#sculk_vein"},
-				"down": {"uv": [4, 14, 4.5, 14.5], "texture": "#sculk_vein"}
+				"north": {"uv": [0, 14, 0.5, 12], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [0, 12, 0.5, 14], "texture": "#0"},
+				"west": {"uv": [0, 12, 0.5, 14], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 12, 0, 12.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 13.5, 0.5, 14], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1, 2, 0],
-			"to": [1.5, 2.5, 0.5],
+			"name": "sculk_vein2_51",
+			"from": [4.5, 2.5, 0],
+			"to": [5, 4, 0.5],
 			"faces": {
-				"north": {"uv": [1.5, 13.5, 1, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 13.5, 1.5, 14], "texture": "#sculk_vein"}
+				"north": {"uv": [4.5, 13.5, 5, 12], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [4.5, 12, 5, 13.5], "texture": "#0"},
+				"south": {"uv": [4.5, 12, 5, 13.5], "texture": "#0"},
+				"up": {"uv": [5, 12, 4.5, 12.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.5, 13, 5, 13.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1, 3.5, 0],
-			"to": [1.5, 4, 0.5],
+			"name": "sculk_vein2_52",
+			"from": [7.5, 3, 0],
+			"to": [9.5, 3.5, 0.5],
 			"faces": {
-				"north": {"uv": [1.5, 12, 1, 12.5], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 12, 1.5, 12.5], "texture": "#sculk_vein"}
+				"north": {"uv": [7.5, 13, 9.5, 12.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [9, 12.5, 9.5, 13], "texture": "#0"},
+				"south": {"uv": [7.5, 12.5, 9.5, 13], "texture": "#0"},
+				"west": {"uv": [7.5, 12.5, 8, 13], "texture": "#0"},
+				"down": {"uv": [7.5, 12.5, 9.5, 13], "texture": "#0"}
 			}
 		},
 		{
-			"from": [4.5, 14.5, 0],
-			"to": [5, 15, 0.5],
+			"name": "sculk_vein2_53",
+			"from": [13, 2, 0],
+			"to": [14.5, 2.5, 0.5],
 			"faces": {
-				"north": {"uv": [5, 1, 4.5, 1.5], "texture": "#sculk_vein"},
-				"south": {"uv": [4.5, 1, 5, 1.5], "texture": "#sculk_vein"},
-				"west": {"uv": [4.5, 1, 5, 1.5], "texture": "#sculk_vein"},
-				"down": {"uv": [4.5, 1, 5, 1.5], "texture": "#sculk_vein"}
+				"north": {"uv": [13, 14, 14.5, 13.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14, 13.5, 14.5, 14], "texture": "#0"},
+				"south": {"uv": [13, 13.5, 14.5, 14], "texture": "#0"},
+				"west": {"uv": [13, 13.5, 13.5, 14], "texture": "#0"},
+				"down": {"uv": [13, 13.5, 14.5, 14], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10.5, 14, 0],
-			"to": [11, 14.5, 0.5],
+			"name": "sculk_vein2_54",
+			"from": [3.5, 1.5, 0],
+			"to": [4, 2, 0.5],
 			"faces": {
-				"north": {"uv": [11, 1.5, 10.5, 2], "texture": "#sculk_vein"},
-				"south": {"uv": [10.5, 1.5, 11, 2], "texture": "#sculk_vein"}
+				"north": {"uv": [3.5, 14.5, 4, 14], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [3.5, 14, 4, 14.5], "texture": "#0"},
+				"south": {"uv": [3.5, 14, 4, 14.5], "texture": "#0"},
+				"down": {"uv": [3.5, 14, 4, 14.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 15, 0],
-			"to": [5.5, 15.5, 0.5],
+			"name": "sculk_vein2_55",
+			"from": [5.5, 0, 0],
+			"to": [7, 2, 0.5],
 			"faces": {
-				"north": {"uv": [5.5, 0.5, 5, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 0.5, 5.5, 1], "texture": "#sculk_vein"}
+				"north": {"uv": [5.5, 16, 7, 14], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [6.5, 14, 7, 16], "texture": "#0"},
+				"south": {"uv": [5.5, 14, 7, 16], "texture": "#0"},
+				"west": {"uv": [5.5, 14, 6, 16], "texture": "#0"},
+				"up": {"uv": [7, 14, 5.5, 14.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5.5, 15.5, 7, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11, 13.5, 0],
-			"to": [11.5, 14, 0.5],
+			"name": "sculk_vein2_56",
+			"from": [9, 0, 0],
+			"to": [11, 2, 0.5],
 			"faces": {
-				"north": {"uv": [11.5, 2, 11, 2.5], "texture": "#sculk_vein"},
-				"east": {"uv": [11, 2, 11.5, 2.5], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 2, 11.5, 2.5], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 2, 11.5, 2.5], "texture": "#sculk_vein"}
+				"north": {"uv": [9, 16, 11, 14], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [10.5, 14, 11, 16], "texture": "#0"},
+				"south": {"uv": [9, 14, 11, 16], "texture": "#0"},
+				"west": {"uv": [9, 14, 9.5, 16], "texture": "#0"},
+				"up": {"uv": [11, 14, 9, 14.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9, 15.5, 11, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [7.5, 13.5, 0],
-			"to": [8, 14, 0.5],
+			"name": "sculk_vein2_57",
+			"from": [1, 1, 0],
+			"to": [3, 1.5, 0.5],
 			"faces": {
-				"north": {"uv": [8, 2, 7.5, 2.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 2, 8, 2.5], "texture": "#sculk_vein"},
-				"west": {"uv": [7.5, 2, 8, 2.5], "texture": "#sculk_vein"},
-				"down": {"uv": [7.5, 2, 8, 2.5], "texture": "#sculk_vein"}
+				"north": {"uv": [1, 15, 3, 14.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [2.5, 14.5, 3, 15], "texture": "#0"},
+				"south": {"uv": [1, 14.5, 3, 15], "texture": "#0"},
+				"west": {"uv": [1, 14.5, 1.5, 15], "texture": "#0"},
+				"down": {"uv": [1, 14.5, 3, 15], "texture": "#0"}
 			}
 		},
 		{
-			"from": [8, 14, 0],
-			"to": [8.5, 14.5, 0.5],
+			"name": "sculk_vein2_58",
+			"from": [4.5, 0, 0],
+			"to": [5.5, 1.5, 0.5],
 			"faces": {
-				"north": {"uv": [8.5, 1.5, 8, 2], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 1.5, 8.5, 2], "texture": "#sculk_vein"}
+				"north": {"uv": [4.5, 16, 5.5, 14.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [4.5, 14.5, 5.5, 16], "texture": "#0"},
+				"west": {"uv": [4.5, 14.5, 5, 16], "texture": "#0"},
+				"up": {"uv": [5.5, 14.5, 4.5, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.5, 15.5, 5.5, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11, 1, 0],
+			"name": "sculk_vein2_59",
+			"from": [7, 0, 0],
+			"to": [7.5, 1.5, 0.5],
+			"faces": {
+				"north": {"uv": [7, 16, 7.5, 14.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [7, 14.5, 7.5, 16], "texture": "#0"},
+				"south": {"uv": [7, 14.5, 7.5, 16], "texture": "#0"},
+				"up": {"uv": [7.5, 14.5, 7, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 15.5, 7.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_60",
+			"from": [8, 0, 0],
+			"to": [9, 1.5, 0.5],
+			"faces": {
+				"north": {"uv": [8, 16, 9, 14.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [8, 14.5, 9, 16], "texture": "#0"},
+				"west": {"uv": [8, 14.5, 8.5, 16], "texture": "#0"},
+				"up": {"uv": [9, 14.5, 8, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 15.5, 9, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_61",
+			"from": [11, 0, 0],
 			"to": [11.5, 1.5, 0.5],
 			"faces": {
-				"north": {"uv": [11.5, 14.5, 11, 15], "texture": "#sculk_vein"},
-				"east": {"uv": [11, 14.5, 11.5, 15], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 14.5, 11.5, 15], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 14.5, 11.5, 15], "texture": "#sculk_vein"}
+				"north": {"uv": [11, 16, 11.5, 14.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11, 14.5, 11.5, 16], "texture": "#0"},
+				"south": {"uv": [11, 14.5, 11.5, 16], "texture": "#0"},
+				"up": {"uv": [11.5, 14.5, 11, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 15.5, 11.5, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 0.5, 0],
-			"to": [5.5, 1, 0.5],
+			"name": "sculk_vein2_62",
+			"from": [4, 0, 0],
+			"to": [4.5, 1, 0.5],
 			"faces": {
-				"north": {"uv": [5.5, 15, 5, 15.5], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 15, 5.5, 15.5], "texture": "#sculk_vein"}
+				"north": {"uv": [4, 16, 4.5, 15], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [4, 15, 4.5, 16], "texture": "#0"},
+				"west": {"uv": [4, 15, 4.5, 16], "texture": "#0"},
+				"up": {"uv": [4.5, 15, 4, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 15.5, 4.5, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10.5, 0.5, 0],
-			"to": [11, 1, 0.5],
+			"name": "sculk_vein2_63",
+			"from": [7.5, 0, 0],
+			"to": [8, 1, 0.5],
 			"faces": {
-				"north": {"uv": [11, 15, 10.5, 15.5], "texture": "#sculk_vein"},
-				"south": {"uv": [10.5, 15, 11, 15.5], "texture": "#sculk_vein"}
+				"north": {"uv": [7.5, 16, 8, 15], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [7.5, 15, 8, 16], "texture": "#0"},
+				"up": {"uv": [8, 15, 7.5, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.5, 15.5, 8, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1.5, 2, 0],
-			"to": [3.5, 4, 1],
+			"name": "sculk_vein2_64",
+			"from": [14, 0, 0],
+			"to": [15.5, 1, 0.5],
 			"faces": {
-				"north": {"uv": [3.5, 12, 1.5, 14], "texture": "#sculk_vein"},
-				"east": {"uv": [3, 12, 3.5, 14], "texture": "#sculk_vein"},
-				"south": {"uv": [1.5, 12, 3.5, 14], "texture": "#sculk_vein"},
-				"west": {"uv": [1.5, 12, 2, 14], "texture": "#sculk_vein"},
-				"up": {"uv": [1.5, 12, 3.5, 12.5], "texture": "#sculk_vein"},
-				"down": {"uv": [1.5, 13.5, 3.5, 14], "texture": "#sculk_vein"}
+				"north": {"uv": [14, 16, 15.5, 15], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15, 15, 15.5, 16], "texture": "#0"},
+				"south": {"uv": [14, 15, 15.5, 16], "texture": "#0"},
+				"west": {"uv": [14, 15, 14.5, 16], "texture": "#0"},
+				"up": {"uv": [15.5, 15, 14, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14, 15.5, 15.5, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [0, 6, 0],
-			"to": [1.5, 8, 1],
+			"name": "sculk_vein2_65",
+			"from": [0, 0, 0],
+			"to": [0.5, 0.5, 0.5],
 			"faces": {
-				"north": {"uv": [1.5, 8, 0, 10], "texture": "#sculk_vein"},
-				"east": {"uv": [1, 8, 1.5, 10], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 8, 1.5, 10], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 8, 0.5, 10], "texture": "#sculk_vein"},
-				"up": {"uv": [0, 8, 1.5, 8.5], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#sculk_vein"}
+				"north": {"uv": [0, 16, 0.5, 15.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.5, 0.5, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 15.5, 0, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 15.5, 0.5, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [6.5, 4, 0],
-			"to": [9.5, 7, 1],
+			"name": "sculk_vein2_66",
+			"from": [11.5, 0, 0],
+			"to": [12, 0.5, 0.5],
 			"faces": {
-				"north": {"uv": [9.5, 9, 6.5, 12], "texture": "#sculk_vein"},
-				"east": {"uv": [9, 9, 9.5, 12], "texture": "#sculk_vein"},
-				"south": {"uv": [6.5, 9, 9.5, 12], "texture": "#sculk_vein"},
-				"west": {"uv": [6.5, 9, 7, 12], "texture": "#sculk_vein"},
-				"up": {"uv": [6.5, 9, 9.5, 9.5], "texture": "#sculk_vein"},
-				"down": {"uv": [6.5, 11.5, 9.5, 12], "texture": "#sculk_vein"}
+				"north": {"uv": [11.5, 16, 12, 15.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [11.5, 15.5, 12, 16], "texture": "#0"},
+				"south": {"uv": [11.5, 15.5, 12, 16], "texture": "#0"},
+				"up": {"uv": [12, 15.5, 11.5, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11.5, 15.5, 12, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [3, 9, 0],
-			"to": [7, 13, 1],
+			"name": "sculk_vein2_67",
+			"from": [13, 0, 0],
+			"to": [14, 0.5, 0.5],
 			"faces": {
-				"north": {"uv": [7, 3, 3, 7], "texture": "#sculk_vein"},
-				"east": {"uv": [6.5, 3, 7, 7], "texture": "#sculk_vein"},
-				"south": {"uv": [3, 3, 7, 7], "texture": "#sculk_vein"},
-				"west": {"uv": [3, 3, 3.5, 7], "texture": "#sculk_vein"},
-				"up": {"uv": [3, 3, 7, 3.5], "texture": "#sculk_vein"},
-				"down": {"uv": [3, 6.5, 7, 7], "texture": "#sculk_vein"}
+				"north": {"uv": [13, 16, 14, 15.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"south": {"uv": [13, 15.5, 14, 16], "texture": "#0"},
+				"west": {"uv": [13, 15.5, 13.5, 16], "texture": "#0"},
+				"up": {"uv": [14, 15.5, 13, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [13, 15.5, 14, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [12.5, 3, 0],
-			"to": [14.5, 5, 1],
+			"name": "sculk_vein2_68",
+			"from": [15.5, 0, 0],
+			"to": [16, 0.5, 0.5],
 			"faces": {
-				"north": {"uv": [14.5, 11, 12.5, 13], "texture": "#sculk_vein"},
-				"east": {"uv": [14, 11, 14.5, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [12.5, 11, 14.5, 13], "texture": "#sculk_vein"},
-				"west": {"uv": [12.5, 11, 13, 13], "texture": "#sculk_vein"},
-				"up": {"uv": [12.5, 11, 14.5, 11.5], "texture": "#sculk_vein"},
-				"down": {"uv": [12.5, 12.5, 14.5, 13], "texture": "#sculk_vein"}
+				"north": {"uv": [15.5, 16, 16, 15.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"east": {"uv": [15.5, 15.5, 16, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [15.5, 15.5, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 15.5, 15.5, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [15.5, 15.5, 16, 16], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11.5, 8.5, 0],
-			"to": [14, 10, 1],
+			"name": "sculk_vein2_0",
+			"from": [0, 12, 0.5],
+			"to": [0.5, 16, 0.75],
 			"faces": {
-				"north": {"uv": [14, 6, 11.5, 7.5], "texture": "#sculk_vein"},
-				"east": {"uv": [13.5, 6, 14, 7.5], "texture": "#sculk_vein"},
-				"south": {"uv": [11.5, 6, 14, 7.5], "texture": "#sculk_vein"},
-				"west": {"uv": [11.5, 6, 12, 7.5], "texture": "#sculk_vein"},
-				"up": {"uv": [11.5, 6, 14, 6.5], "texture": "#sculk_vein"},
-				"down": {"uv": [11.5, 6.5, 14, 7], "texture": "#sculk_vein"}
+				"east": {"uv": [0, 0, 0.5, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 4], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 0, 0, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 3.5, 0.5, 4], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14.5, 12, 0],
-			"to": [16, 16, 1],
+			"name": "sculk_vein2_1",
+			"from": [5, 15, 0.5],
+			"to": [11.5, 16, 0.75],
 			"faces": {
-				"north": {"uv": [16, 0, 14.5, 4], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 0, 16, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [14.5, 0, 16, 4], "texture": "#sculk_vein"},
-				"west": {"uv": [14.5, 0, 15, 4], "texture": "#sculk_vein"},
-				"up": {"uv": [14.5, 0, 16, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [14.5, 3.5, 16, 4], "texture": "#sculk_vein"}
+				"east": {"uv": [11, 0, 11.5, 1], "texture": "#0"},
+				"south": {"uv": [5, 0, 11.5, 1], "texture": "#0"},
+				"west": {"uv": [5, 0, 5.5, 1], "texture": "#0"},
+				"up": {"uv": [11.5, 0, 5, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 0.5, 11.5, 1], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14, 12.5, 0],
-			"to": [14.5, 16, 1],
+			"name": "sculk_vein2_2",
+			"from": [13, 12.5, 0.5],
+			"to": [16, 16, 0.75],
 			"faces": {
-				"north": {"uv": [14.5, 0, 14, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [14, 0, 14.5, 3.5], "texture": "#sculk_vein"},
-				"west": {"uv": [14, 0, 14.5, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [14, 0, 14.5, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [14, 3, 14.5, 3.5], "texture": "#sculk_vein"}
+				"east": {"uv": [15.5, 0, 16, 3.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [13, 0, 16, 3.5], "texture": "#0"},
+				"west": {"uv": [13, 0, 13.5, 3.5], "texture": "#0"},
+				"up": {"uv": [16, 0, 13, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [13, 3, 16, 3.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [13.5, 13, 0],
-			"to": [14, 15.5, 1],
+			"name": "sculk_vein2_3",
+			"from": [0.5, 12, 0.5],
+			"to": [1, 15.5, 0.75],
 			"faces": {
-				"north": {"uv": [14, 0.5, 13.5, 3], "texture": "#sculk_vein"},
-				"south": {"uv": [13.5, 0.5, 14, 3], "texture": "#sculk_vein"},
-				"west": {"uv": [13.5, 0.5, 14, 3], "texture": "#sculk_vein"},
-				"up": {"uv": [13.5, 0.5, 14, 1], "texture": "#sculk_vein"},
-				"down": {"uv": [13.5, 2.5, 14, 3], "texture": "#sculk_vein"}
+				"east": {"uv": [0.5, 0.5, 1, 4], "texture": "#0"},
+				"south": {"uv": [0.5, 0.5, 1, 4], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.5, 1], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.5, 3.5, 1, 4], "texture": "#0"}
 			}
 		},
 		{
-			"from": [13, 13.5, 0],
-			"to": [13.5, 15, 1],
+			"name": "sculk_vein2_4",
+			"from": [1, 13, 0.5],
+			"to": [1.5, 15, 0.75],
 			"faces": {
-				"north": {"uv": [13.5, 1, 13, 2.5], "texture": "#sculk_vein"},
-				"south": {"uv": [13, 1, 13.5, 2.5], "texture": "#sculk_vein"},
-				"west": {"uv": [13, 1, 13.5, 2.5], "texture": "#sculk_vein"},
-				"up": {"uv": [13, 1, 13.5, 1.5], "texture": "#sculk_vein"},
-				"down": {"uv": [13, 2, 13.5, 2.5], "texture": "#sculk_vein"}
+				"east": {"uv": [1, 1, 1.5, 3], "texture": "#0"},
+				"south": {"uv": [1, 1, 1.5, 3], "texture": "#0"},
+				"up": {"uv": [1.5, 1, 1, 1.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1, 2.5, 1.5, 3], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5.5, 15, 0],
-			"to": [11, 16, 1],
+			"name": "sculk_vein2_5",
+			"from": [5.5, 14.5, 0.5],
+			"to": [7, 15, 0.75],
 			"faces": {
-				"north": {"uv": [11, 0, 5.5, 1], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 0, 11, 1], "texture": "#sculk_vein"},
-				"south": {"uv": [5.5, 0, 11, 1], "texture": "#sculk_vein"},
-				"west": {"uv": [5.5, 0, 6, 1], "texture": "#sculk_vein"},
-				"up": {"uv": [5.5, 0, 11, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [5.5, 0.5, 11, 1], "texture": "#sculk_vein"}
+				"east": {"uv": [6.5, 1, 7, 1.5], "texture": "#0"},
+				"south": {"uv": [5.5, 1, 7, 1.5], "texture": "#0"},
+				"west": {"uv": [5.5, 1, 6, 1.5], "texture": "#0"},
+				"down": {"uv": [5.5, 1, 7, 1.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [8, 14.5, 0],
-			"to": [11, 15, 1],
+			"name": "sculk_vein2_6",
+			"from": [8, 13.5, 0.5],
+			"to": [10, 15, 0.75],
 			"faces": {
-				"north": {"uv": [11, 1, 8, 1.5], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 1, 11, 1.5], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 1, 11, 1.5], "texture": "#sculk_vein"},
-				"west": {"uv": [8, 1, 8.5, 1.5], "texture": "#sculk_vein"},
-				"down": {"uv": [8, 1, 11, 1.5], "texture": "#sculk_vein"}
+				"east": {"uv": [9.5, 1, 10, 2.5], "texture": "#0"},
+				"south": {"uv": [8, 1, 10, 2.5], "texture": "#0"},
+				"west": {"uv": [8, 1, 8.5, 2.5], "texture": "#0"},
+				"down": {"uv": [8, 2, 10, 2.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [8.5, 14, 0],
-			"to": [10.5, 14.5, 1],
+			"name": "sculk_vein2_7",
+			"from": [10, 14, 0.5],
+			"to": [11, 15, 0.75],
 			"faces": {
-				"north": {"uv": [10.5, 1.5, 8.5, 2], "texture": "#sculk_vein"},
-				"east": {"uv": [10, 1.5, 10.5, 2], "texture": "#sculk_vein"},
-				"south": {"uv": [8.5, 1.5, 10.5, 2], "texture": "#sculk_vein"},
-				"west": {"uv": [8.5, 1.5, 9, 2], "texture": "#sculk_vein"},
-				"down": {"uv": [8.5, 1.5, 10.5, 2], "texture": "#sculk_vein"}
+				"east": {"uv": [10.5, 1, 11, 2], "texture": "#0"},
+				"south": {"uv": [10, 1, 11, 2], "texture": "#0"},
+				"down": {"uv": [10, 1.5, 11, 2], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1, 2.5, 0],
-			"to": [1.5, 3.5, 1],
+			"name": "sculk_vein2_8",
+			"from": [11, 14.5, 0.5],
+			"to": [11.5, 15, 0.75],
 			"faces": {
-				"north": {"uv": [1.5, 12.5, 1, 13.5], "texture": "#sculk_vein"},
-				"south": {"uv": [1, 12.5, 1.5, 13.5], "texture": "#sculk_vein"},
-				"west": {"uv": [1, 12.5, 1.5, 13.5], "texture": "#sculk_vein"},
-				"up": {"uv": [1, 12.5, 1.5, 13], "texture": "#sculk_vein"},
-				"down": {"uv": [1, 13, 1.5, 13.5], "texture": "#sculk_vein"}
+				"east": {"uv": [11, 1, 11.5, 1.5], "texture": "#0"},
+				"south": {"uv": [11, 1, 11.5, 1.5], "texture": "#0"},
+				"down": {"uv": [11, 1, 11.5, 1.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [6, 4.5, 0],
-			"to": [6.5, 6.5, 1],
+			"name": "sculk_vein2_9",
+			"from": [12.5, 13.5, 0.5],
+			"to": [13, 15, 0.75],
 			"faces": {
-				"north": {"uv": [6.5, 9.5, 6, 11.5], "texture": "#sculk_vein"},
-				"south": {"uv": [6, 9.5, 6.5, 11.5], "texture": "#sculk_vein"},
-				"west": {"uv": [6, 9.5, 6.5, 11.5], "texture": "#sculk_vein"},
-				"up": {"uv": [6, 9.5, 6.5, 10], "texture": "#sculk_vein"},
-				"down": {"uv": [6, 11, 6.5, 11.5], "texture": "#sculk_vein"}
+				"south": {"uv": [12.5, 1, 13, 2.5], "texture": "#0"},
+				"west": {"uv": [12.5, 1, 13, 2.5], "texture": "#0"},
+				"up": {"uv": [13, 1, 12.5, 1.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12.5, 2, 13, 2.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [1.5, 6, 0],
-			"to": [2, 7.5, 1],
+			"name": "sculk_vein2_10",
+			"from": [4, 9, 0.5],
+			"to": [6.5, 13.5, 0.75],
 			"faces": {
-				"north": {"uv": [2, 8.5, 1.5, 10], "texture": "#sculk_vein"},
-				"east": {"uv": [1.5, 8.5, 2, 10], "texture": "#sculk_vein"},
-				"south": {"uv": [1.5, 8.5, 2, 10], "texture": "#sculk_vein"},
-				"up": {"uv": [1.5, 8.5, 2, 9], "texture": "#sculk_vein"},
-				"down": {"uv": [1.5, 9.5, 2, 10], "texture": "#sculk_vein"}
+				"east": {"uv": [6, 2.5, 6.5, 7], "texture": "#0"},
+				"south": {"uv": [4, 2.5, 6.5, 7], "texture": "#0"},
+				"west": {"uv": [4, 2.5, 4.5, 7], "texture": "#0"},
+				"up": {"uv": [6.5, 2.5, 4, 3], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 6.5, 6.5, 7], "texture": "#0"}
 			}
 		},
 		{
-			"from": [2.5, 10, 0],
-			"to": [3, 12.5, 1],
+			"name": "sculk_vein2_11",
+			"from": [3, 9, 0.5],
+			"to": [4, 13, 0.75],
 			"faces": {
-				"north": {"uv": [3, 3.5, 2.5, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [2.5, 3.5, 3, 6], "texture": "#sculk_vein"},
-				"west": {"uv": [2.5, 3.5, 3, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [2.5, 3.5, 3, 4], "texture": "#sculk_vein"},
-				"down": {"uv": [2.5, 5.5, 3, 6], "texture": "#sculk_vein"}
+				"south": {"uv": [3, 3, 4, 7], "texture": "#0"},
+				"west": {"uv": [3, 3, 3.5, 7], "texture": "#0"},
+				"up": {"uv": [4, 3, 3, 3.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3, 6.5, 4, 7], "texture": "#0"}
 			}
 		},
 		{
-			"from": [0, 12.5, 0],
-			"to": [1, 15, 1],
+			"name": "sculk_vein2_12",
+			"from": [6.5, 9.5, 0.5],
+			"to": [7.5, 13, 0.75],
 			"faces": {
-				"north": {"uv": [1, 1, 0, 3.5], "texture": "#sculk_vein"},
-				"east": {"uv": [0.5, 1, 1, 3.5], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 1, 1, 3.5], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 1, 0.5, 3.5], "texture": "#sculk_vein"},
-				"up": {"uv": [0, 1, 1, 1.5], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 3, 1, 3.5], "texture": "#sculk_vein"}
+				"east": {"uv": [7, 3, 7.5, 6.5], "texture": "#0"},
+				"south": {"uv": [6.5, 3, 7.5, 6.5], "texture": "#0"},
+				"up": {"uv": [7.5, 3, 6.5, 3.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6.5, 6, 7.5, 6.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [0, 12, 0],
-			"to": [0.5, 12.5, 1],
+			"name": "sculk_vein2_13",
+			"from": [2.5, 9, 0.5],
+			"to": [3, 12.5, 0.75],
 			"faces": {
-				"north": {"uv": [0.5, 3.5, 0, 4], "texture": "#sculk_vein"},
-				"east": {"uv": [0, 3.5, 0.5, 4], "texture": "#sculk_vein"},
-				"south": {"uv": [0, 3.5, 0.5, 4], "texture": "#sculk_vein"},
-				"west": {"uv": [0, 3.5, 0.5, 4], "texture": "#sculk_vein"},
-				"down": {"uv": [0, 3.5, 0.5, 4], "texture": "#sculk_vein"}
+				"south": {"uv": [2.5, 3.5, 3, 7], "texture": "#0"},
+				"west": {"uv": [2.5, 3.5, 3, 7], "texture": "#0"},
+				"up": {"uv": [3, 3.5, 2.5, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2.5, 6.5, 3, 7], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 15.5, 0],
-			"to": [5.5, 16, 1],
+			"name": "sculk_vein2_14",
+			"from": [13.5, 12, 0.5],
+			"to": [16, 12.5, 0.75],
 			"faces": {
-				"north": {"uv": [5.5, 0, 5, 0.5], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 0, 5.5, 0.5], "texture": "#sculk_vein"},
-				"west": {"uv": [5, 0, 5.5, 0.5], "texture": "#sculk_vein"},
-				"up": {"uv": [5, 0, 5.5, 0.5], "texture": "#sculk_vein"},
-				"down": {"uv": [5, 0, 5.5, 0.5], "texture": "#sculk_vein"}
+				"east": {"uv": [15.5, 3.5, 16, 4], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [13.5, 3.5, 16, 4], "texture": "#0"},
+				"west": {"uv": [13.5, 3.5, 14, 4], "texture": "#0"},
+				"down": {"uv": [13.5, 3.5, 16, 4], "texture": "#0"}
 			}
 		},
 		{
-			"from": [7.5, 10, 0],
-			"to": [8, 12, 1],
+			"name": "sculk_vein2_15",
+			"from": [7.5, 10, 0.5],
+			"to": [8, 12, 0.75],
 			"faces": {
-				"north": {"uv": [8, 4, 7.5, 6], "texture": "#sculk_vein"},
-				"east": {"uv": [7.5, 4, 8, 6], "texture": "#sculk_vein"},
-				"south": {"uv": [7.5, 4, 8, 6], "texture": "#sculk_vein"},
-				"up": {"uv": [7.5, 4, 8, 4.5], "texture": "#sculk_vein"},
-				"down": {"uv": [7.5, 5.5, 8, 6], "texture": "#sculk_vein"}
+				"east": {"uv": [7.5, 4, 8, 6], "texture": "#0"},
+				"south": {"uv": [7.5, 4, 8, 6], "texture": "#0"},
+				"up": {"uv": [8, 4, 7.5, 4.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.5, 5.5, 8, 6], "texture": "#0"}
 			}
 		},
 		{
-			"from": [7, 9.5, 0],
-			"to": [7.5, 12.5, 1],
+			"name": "sculk_vein2_16",
+			"from": [14.5, 11.5, 0.5],
+			"to": [16, 12, 0.75],
 			"faces": {
-				"north": {"uv": [7.5, 3.5, 7, 6.5], "texture": "#sculk_vein"},
-				"east": {"uv": [7, 3.5, 7.5, 6.5], "texture": "#sculk_vein"},
-				"south": {"uv": [7, 3.5, 7.5, 6.5], "texture": "#sculk_vein"},
-				"up": {"uv": [7, 3.5, 7.5, 4], "texture": "#sculk_vein"},
-				"down": {"uv": [7, 6, 7.5, 6.5], "texture": "#sculk_vein"}
+				"east": {"uv": [15.5, 4, 16, 4.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [14.5, 4, 16, 4.5], "texture": "#0"},
+				"west": {"uv": [14.5, 4, 15, 4.5], "texture": "#0"},
+				"down": {"uv": [14.5, 4, 16, 4.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [2, 10.5, 0],
-			"to": [2.5, 12, 1],
+			"name": "sculk_vein2_17",
+			"from": [2, 10, 0.5],
+			"to": [2.5, 11, 0.75],
 			"faces": {
-				"north": {"uv": [2.5, 4, 2, 5.5], "texture": "#sculk_vein"},
-				"south": {"uv": [2, 4, 2.5, 5.5], "texture": "#sculk_vein"},
-				"west": {"uv": [2, 4, 2.5, 5.5], "texture": "#sculk_vein"},
-				"up": {"uv": [2, 4, 2.5, 4.5], "texture": "#sculk_vein"},
-				"down": {"uv": [2, 5, 2.5, 5.5], "texture": "#sculk_vein"}
+				"south": {"uv": [2, 5, 2.5, 6], "texture": "#0"},
+				"west": {"uv": [2, 5, 2.5, 6], "texture": "#0"},
+				"up": {"uv": [2.5, 5, 2, 5.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 5.5, 2.5, 6], "texture": "#0"}
 			}
 		},
 		{
-			"from": [9.5, 4.5, 0],
-			"to": [10, 6.5, 1],
+			"name": "sculk_vein2_18",
+			"from": [11, 8, 0.5],
+			"to": [13, 10.5, 0.75],
 			"faces": {
-				"north": {"uv": [10, 9.5, 9.5, 11.5], "texture": "#sculk_vein"},
-				"east": {"uv": [9.5, 9.5, 10, 11.5], "texture": "#sculk_vein"},
-				"south": {"uv": [9.5, 9.5, 10, 11.5], "texture": "#sculk_vein"},
-				"up": {"uv": [9.5, 9.5, 10, 10], "texture": "#sculk_vein"},
-				"down": {"uv": [9.5, 11, 10, 11.5], "texture": "#sculk_vein"}
+				"east": {"uv": [12.5, 5.5, 13, 8], "texture": "#0"},
+				"south": {"uv": [11, 5.5, 13, 8], "texture": "#0"},
+				"west": {"uv": [11, 5.5, 11.5, 8], "texture": "#0"},
+				"up": {"uv": [13, 5.5, 11, 6], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 7.5, 13, 8], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14.5, 3, 0],
-			"to": [15, 4.5, 1],
+			"name": "sculk_vein2_19",
+			"from": [13, 7.5, 0.5],
+			"to": [14, 10, 0.75],
 			"faces": {
-				"north": {"uv": [15, 11.5, 14.5, 13], "texture": "#sculk_vein"},
-				"east": {"uv": [14.5, 11.5, 15, 13], "texture": "#sculk_vein"},
-				"south": {"uv": [14.5, 11.5, 15, 13], "texture": "#sculk_vein"},
-				"up": {"uv": [14.5, 11.5, 15, 12], "texture": "#sculk_vein"},
-				"down": {"uv": [14.5, 12.5, 15, 13], "texture": "#sculk_vein"}
+				"east": {"uv": [13.5, 6, 14, 8.5], "texture": "#0"},
+				"south": {"uv": [13, 6, 14, 8.5], "texture": "#0"},
+				"up": {"uv": [14, 6, 13, 6.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [13, 8, 14, 8.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [14.5, 0, 0],
-			"to": [15, 0.5, 1],
+			"name": "sculk_vein2_20",
+			"from": [6.5, 9, 0.5],
+			"to": [7, 9.5, 0.75],
 			"faces": {
-				"north": {"uv": [15, 15.5, 14.5, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [14.5, 15.5, 15, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [14.5, 15.5, 15, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [14.5, 15.5, 15, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [14.5, 15.5, 15, 16], "texture": "#sculk_vein"},
-				"down": {"uv": [14.5, 15.5, 15, 16], "texture": "#sculk_vein"}
+				"east": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"south": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"},
+				"down": {"uv": [6.5, 6.5, 7, 7], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 0, 0],
-			"to": [5.5, 0.5, 1],
+			"name": "sculk_vein2_21",
+			"from": [10.5, 8, 0.5],
+			"to": [11, 9.5, 0.75],
 			"faces": {
-				"north": {"uv": [5.5, 15.5, 5, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [5, 15.5, 5.5, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [5, 15.5, 5.5, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [5, 15.5, 5.5, 16], "texture": "#sculk_vein"},
-				"down": {"uv": [5, 15.5, 5.5, 16], "texture": "#sculk_vein"}
+				"south": {"uv": [10.5, 6.5, 11, 8], "texture": "#0"},
+				"west": {"uv": [10.5, 6.5, 11, 8], "texture": "#0"},
+				"up": {"uv": [11, 6.5, 10.5, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10.5, 7.5, 11, 8], "texture": "#0"}
 			}
 		},
 		{
-			"from": [7, 0, 0],
-			"to": [8, 0.5, 1],
+			"name": "sculk_vein2_22",
+			"from": [14, 8, 0.5],
+			"to": [14.5, 9.5, 0.75],
 			"faces": {
-				"north": {"uv": [8, 15.5, 7, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [7, 15.5, 8, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [7, 15.5, 8, 16], "texture": "#sculk_vein"},
-				"down": {"uv": [7, 15.5, 8, 16], "texture": "#sculk_vein"}
+				"east": {"uv": [14, 6.5, 14.5, 8], "texture": "#0"},
+				"south": {"uv": [14, 6.5, 14.5, 8], "texture": "#0"},
+				"up": {"uv": [14.5, 6.5, 14, 7], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14, 7.5, 14.5, 8], "texture": "#0"}
 			}
 		},
 		{
-			"from": [10.5, 0, 0],
-			"to": [11, 0.5, 1],
+			"name": "sculk_vein2_23",
+			"from": [4, 8.5, 0.5],
+			"to": [5.5, 9, 0.75],
 			"faces": {
-				"north": {"uv": [11, 15.5, 10.5, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [10.5, 15.5, 11, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [10.5, 15.5, 11, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [10.5, 15.5, 11, 16], "texture": "#sculk_vein"},
-				"down": {"uv": [10.5, 15.5, 11, 16], "texture": "#sculk_vein"}
+				"east": {"uv": [5, 7, 5.5, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 7, 5.5, 7.5], "texture": "#0"},
+				"west": {"uv": [4, 7, 4.5, 7.5], "texture": "#0"},
+				"down": {"uv": [4, 7, 5.5, 7.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5.5, 0, 0],
-			"to": [7, 1, 1],
+			"name": "sculk_vein2_24",
+			"from": [0.5, 6, 0.5],
+			"to": [2.5, 8, 0.75],
 			"faces": {
-				"north": {"uv": [7, 15, 5.5, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [6.5, 15, 7, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [5.5, 15, 7, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [5.5, 15, 6, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [5.5, 15, 7, 15.5], "texture": "#sculk_vein"},
-				"down": {"uv": [5.5, 15.5, 7, 16], "texture": "#sculk_vein"}
+				"east": {"uv": [2, 8, 2.5, 10], "texture": "#0"},
+				"south": {"uv": [0.5, 8, 2.5, 10], "texture": "#0"},
+				"west": {"uv": [0.5, 8, 1, 10], "texture": "#0"},
+				"up": {"uv": [2.5, 8, 0.5, 8.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.5, 9.5, 2.5, 10], "texture": "#0"}
 			}
 		},
 		{
-			"from": [8, 0, 0],
-			"to": [10.5, 1, 1],
+			"name": "sculk_vein2_25",
+			"from": [11.5, 7.5, 0.5],
+			"to": [13, 8, 0.75],
 			"faces": {
-				"north": {"uv": [10.5, 15, 8, 16], "texture": "#sculk_vein"},
-				"east": {"uv": [10, 15, 10.5, 16], "texture": "#sculk_vein"},
-				"south": {"uv": [8, 15, 10.5, 16], "texture": "#sculk_vein"},
-				"west": {"uv": [8, 15, 8.5, 16], "texture": "#sculk_vein"},
-				"up": {"uv": [8, 15, 10.5, 15.5], "texture": "#sculk_vein"},
-				"down": {"uv": [8, 15.5, 10.5, 16], "texture": "#sculk_vein"}
+				"south": {"uv": [11.5, 8, 13, 8.5], "texture": "#0"},
+				"west": {"uv": [11.5, 8, 12, 8.5], "texture": "#0"},
+				"down": {"uv": [11.5, 8, 13, 8.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [12, 3.5, 0],
-			"to": [12.5, 5, 1],
+			"name": "sculk_vein2_26",
+			"from": [0, 5.5, 0.5],
+			"to": [0.5, 7.5, 0.75],
 			"faces": {
-				"north": {"uv": [12.5, 11, 12, 12.5], "texture": "#sculk_vein"},
-				"south": {"uv": [12, 11, 12.5, 12.5], "texture": "#sculk_vein"},
-				"west": {"uv": [12, 11, 12.5, 12.5], "texture": "#sculk_vein"},
-				"up": {"uv": [12, 11, 12.5, 11.5], "texture": "#sculk_vein"},
-				"down": {"uv": [12, 12, 12.5, 12.5], "texture": "#sculk_vein"}
+				"south": {"uv": [0, 8.5, 0.5, 10.5], "texture": "#0"},
+				"west": {"uv": [0, 8.5, 0.5, 10.5], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 8.5, 0, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 10, 0.5, 10.5], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11, 8.5, 0],
-			"to": [11.5, 9.5, 1],
+			"name": "sculk_vein2_27",
+			"from": [7, 4, 0.5],
+			"to": [10.5, 7.5, 0.75],
 			"faces": {
-				"north": {"uv": [11.5, 6.5, 11, 7.5], "texture": "#sculk_vein"},
-				"south": {"uv": [11, 6.5, 11.5, 7.5], "texture": "#sculk_vein"},
-				"west": {"uv": [11, 6.5, 11.5, 7.5], "texture": "#sculk_vein"},
-				"up": {"uv": [11, 6.5, 11.5, 7], "texture": "#sculk_vein"},
-				"down": {"uv": [11, 7, 11.5, 7.5], "texture": "#sculk_vein"}
+				"east": {"uv": [10, 8.5, 10.5, 12], "texture": "#0"},
+				"south": {"uv": [7, 8.5, 10.5, 12], "texture": "#0"},
+				"west": {"uv": [7, 8.5, 7.5, 12], "texture": "#0"},
+				"up": {"uv": [10.5, 8.5, 7, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 11.5, 10.5, 12], "texture": "#0"}
 			}
 		},
 		{
-			"from": [15.5, 6.5, 0],
-			"to": [16, 7.5, 1],
+			"name": "sculk_vein2_28",
+			"from": [15.5, 6, 0.5],
+			"to": [16, 7.5, 0.75],
 			"faces": {
-				"north": {"uv": [16, 8.5, 15.5, 9.5], "texture": "#sculk_vein"},
-				"east": {"uv": [15.5, 8.5, 16, 9.5], "texture": "#sculk_vein"},
-				"south": {"uv": [15.5, 8.5, 16, 9.5], "texture": "#sculk_vein"},
-				"west": {"uv": [15.5, 8.5, 16, 9.5], "texture": "#sculk_vein"},
-				"up": {"uv": [15.5, 8.5, 16, 9], "texture": "#sculk_vein"},
-				"down": {"uv": [15.5, 9, 16, 9.5], "texture": "#sculk_vein"}
+				"east": {"uv": [15.5, 8.5, 16, 10], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [15.5, 8.5, 16, 10], "texture": "#0"},
+				"west": {"uv": [15.5, 8.5, 16, 10], "texture": "#0"},
+				"up": {"uv": [16, 8.5, 15.5, 9], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [15.5, 9.5, 16, 10], "texture": "#0"}
 			}
 		},
 		{
-			"from": [11.5, 8, 0],
-			"to": [13.5, 8.5, 1],
+			"name": "sculk_vein2_29",
+			"from": [6, 4, 0.5],
+			"to": [7, 7, 0.75],
 			"faces": {
-				"north": {"uv": [13.5, 7.5, 11.5, 8], "texture": "#sculk_vein"},
-				"east": {"uv": [13, 7.5, 13.5, 8], "texture": "#sculk_vein"},
-				"south": {"uv": [11.5, 7.5, 13.5, 8], "texture": "#sculk_vein"},
-				"west": {"uv": [11.5, 7.5, 12, 8], "texture": "#sculk_vein"},
-				"up": {"uv": [11.5, 7.5, 13.5, 8], "texture": "#sculk_vein"},
-				"down": {"uv": [11.5, 7.5, 13.5, 8], "texture": "#sculk_vein"}
+				"south": {"uv": [6, 9, 7, 12], "texture": "#0"},
+				"west": {"uv": [6, 9, 6.5, 12], "texture": "#0"},
+				"up": {"uv": [7, 9, 6, 9.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6, 11.5, 7, 12], "texture": "#0"}
 			}
 		},
 		{
-			"from": [3.5, 2.5, 0],
-			"to": [4, 3.5, 1],
+			"name": "sculk_vein2_30",
+			"from": [10.5, 5, 0.5],
+			"to": [11, 6.5, 0.75],
 			"faces": {
-				"north": {"uv": [4, 12.5, 3.5, 13.5], "texture": "#sculk_vein"},
-				"east": {"uv": [3.5, 12.5, 4, 13.5], "texture": "#sculk_vein"},
-				"south": {"uv": [3.5, 12.5, 4, 13.5], "texture": "#sculk_vein"},
-				"west": {"uv": [3.5, 12.5, 4, 13.5], "texture": "#sculk_vein"},
-				"up": {"uv": [3.5, 12.5, 4, 13], "texture": "#sculk_vein"},
-				"down": {"uv": [3.5, 13, 4, 13.5], "texture": "#sculk_vein"}
+				"east": {"uv": [10.5, 9.5, 11, 11], "texture": "#0"},
+				"south": {"uv": [10.5, 9.5, 11, 11], "texture": "#0"},
+				"up": {"uv": [11, 9.5, 10.5, 10], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [10.5, 10.5, 11, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_31",
+			"from": [0.5, 5.5, 0.5],
+			"to": [1.5, 6, 0.75],
+			"faces": {
+				"east": {"uv": [1, 10, 1.5, 10.5], "texture": "#0"},
+				"south": {"uv": [0.5, 10, 1.5, 10.5], "texture": "#0"},
+				"down": {"uv": [0.5, 10, 1.5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_32",
+			"from": [5.5, 4.5, 0.5],
+			"to": [6, 6, 0.75],
+			"faces": {
+				"south": {"uv": [5.5, 10, 6, 11.5], "texture": "#0"},
+				"west": {"uv": [5.5, 10, 6, 11.5], "texture": "#0"},
+				"up": {"uv": [6, 10, 5.5, 10.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5.5, 11, 6, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_33",
+			"from": [13, 2.5, 0.5],
+			"to": [14, 5.5, 0.75],
+			"faces": {
+				"east": {"uv": [13.5, 10.5, 14, 13.5], "texture": "#0"},
+				"south": {"uv": [13, 10.5, 14, 13.5], "texture": "#0"},
+				"west": {"uv": [13, 10.5, 13.5, 13.5], "texture": "#0"},
+				"up": {"uv": [14, 10.5, 13, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [13, 13, 14, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_34",
+			"from": [12, 3.5, 0.5],
+			"to": [13, 5, 0.75],
+			"faces": {
+				"south": {"uv": [12, 11, 13, 12.5], "texture": "#0"},
+				"west": {"uv": [12, 11, 12.5, 12.5], "texture": "#0"},
+				"up": {"uv": [13, 11, 12, 11.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [12, 12, 13, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_35",
+			"from": [14, 3, 0.5],
+			"to": [15.5, 5, 0.75],
+			"faces": {
+				"east": {"uv": [15, 11, 15.5, 13], "texture": "#0"},
+				"south": {"uv": [14, 11, 15.5, 13], "texture": "#0"},
+				"up": {"uv": [15.5, 11, 14, 11.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14, 12.5, 15.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_36",
+			"from": [1, 1.5, 0.5],
+			"to": [3.5, 4.5, 0.75],
+			"faces": {
+				"east": {"uv": [3, 11.5, 3.5, 14.5], "texture": "#0"},
+				"south": {"uv": [1, 11.5, 3.5, 14.5], "texture": "#0"},
+				"west": {"uv": [1, 11.5, 1.5, 14.5], "texture": "#0"},
+				"up": {"uv": [3.5, 11.5, 1, 12], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [1, 14, 3.5, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_37",
+			"from": [11.5, 3.5, 0.5],
+			"to": [12, 4.5, 0.75],
+			"faces": {
+				"south": {"uv": [11.5, 11.5, 12, 12.5], "texture": "#0"},
+				"west": {"uv": [11.5, 11.5, 12, 12.5], "texture": "#0"},
+				"up": {"uv": [12, 11.5, 11.5, 12], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11.5, 12, 12, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_38",
+			"from": [0.5, 2.5, 0.5],
+			"to": [1, 4, 0.75],
+			"faces": {
+				"south": {"uv": [0.5, 12, 1, 13.5], "texture": "#0"},
+				"west": {"uv": [0.5, 12, 1, 13.5], "texture": "#0"},
+				"up": {"uv": [1, 12, 0.5, 12.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0.5, 13, 1, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_39",
+			"from": [3.5, 2.5, 0.5],
+			"to": [4.5, 4, 0.75],
+			"faces": {
+				"east": {"uv": [4, 12, 4.5, 13.5], "texture": "#0"},
+				"south": {"uv": [3.5, 12, 4.5, 13.5], "texture": "#0"},
+				"up": {"uv": [4.5, 12, 3.5, 12.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [3.5, 13, 4.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_40",
+			"from": [7.5, 3.5, 0.5],
+			"to": [9, 4, 0.75],
+			"faces": {
+				"east": {"uv": [8.5, 12, 9, 12.5], "texture": "#0"},
+				"south": {"uv": [7.5, 12, 9, 12.5], "texture": "#0"},
+				"west": {"uv": [7.5, 12, 8, 12.5], "texture": "#0"},
+				"down": {"uv": [7.5, 12, 9, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_41",
+			"from": [12.5, 3, 0.5],
+			"to": [13, 3.5, 0.75],
+			"faces": {
+				"south": {"uv": [12.5, 12.5, 13, 13], "texture": "#0"},
+				"west": {"uv": [12.5, 12.5, 13, 13], "texture": "#0"},
+				"down": {"uv": [12.5, 12.5, 13, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_42",
+			"from": [14, 2.5, 0.5],
+			"to": [14.5, 3, 0.75],
+			"faces": {
+				"east": {"uv": [14, 13, 14.5, 13.5], "texture": "#0"},
+				"south": {"uv": [14, 13, 14.5, 13.5], "texture": "#0"},
+				"down": {"uv": [14, 13, 14.5, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_43",
+			"from": [3.5, 2, 0.5],
+			"to": [4, 2.5, 0.75],
+			"faces": {
+				"east": {"uv": [3.5, 13.5, 4, 14], "texture": "#0"},
+				"south": {"uv": [3.5, 13.5, 4, 14], "texture": "#0"},
+				"down": {"uv": [3.5, 13.5, 4, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_44",
+			"from": [5.5, 0, 0.5],
+			"to": [7, 1.5, 0.75],
+			"faces": {
+				"east": {"uv": [6.5, 14.5, 7, 16], "texture": "#0"},
+				"south": {"uv": [5.5, 14.5, 7, 16], "texture": "#0"},
+				"west": {"uv": [5.5, 14.5, 6, 16], "texture": "#0"},
+				"up": {"uv": [7, 14.5, 5.5, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5.5, 15.5, 7, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_45",
+			"from": [9, 0, 0.5],
+			"to": [11, 1.5, 0.75],
+			"faces": {
+				"east": {"uv": [10.5, 14.5, 11, 16], "texture": "#0"},
+				"south": {"uv": [9, 14.5, 11, 16], "texture": "#0"},
+				"west": {"uv": [9, 14.5, 9.5, 16], "texture": "#0"},
+				"up": {"uv": [11, 14.5, 9, 15], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9, 15.5, 11, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_46",
+			"from": [4.5, 0, 0.5],
+			"to": [5.5, 1, 0.75],
+			"faces": {
+				"south": {"uv": [4.5, 15, 5.5, 16], "texture": "#0"},
+				"west": {"uv": [4.5, 15, 5, 16], "texture": "#0"},
+				"up": {"uv": [5.5, 15, 4.5, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4.5, 15.5, 5.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_47",
+			"from": [7, 0, 0.5],
+			"to": [7.5, 1, 0.75],
+			"faces": {
+				"east": {"uv": [7, 15, 7.5, 16], "texture": "#0"},
+				"south": {"uv": [7, 15, 7.5, 16], "texture": "#0"},
+				"up": {"uv": [7.5, 15, 7, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 15.5, 7.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_48",
+			"from": [8, 0, 0.5],
+			"to": [9, 1, 0.75],
+			"faces": {
+				"south": {"uv": [8, 15, 9, 16], "texture": "#0"},
+				"west": {"uv": [8, 15, 8.5, 16], "texture": "#0"},
+				"up": {"uv": [9, 15, 8, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 15.5, 9, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_49",
+			"from": [11, 0, 0.5],
+			"to": [11.5, 1, 0.75],
+			"faces": {
+				"east": {"uv": [11, 15, 11.5, 16], "texture": "#0"},
+				"south": {"uv": [11, 15, 11.5, 16], "texture": "#0"},
+				"up": {"uv": [11.5, 15, 11, 15.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 15.5, 11.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_50",
+			"from": [7.5, 0, 0.5],
+			"to": [8, 0.5, 0.75],
+			"faces": {
+				"south": {"uv": [7.5, 15.5, 8, 16], "texture": "#0"},
+				"up": {"uv": [8, 15.5, 7.5, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7.5, 15.5, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "sculk_vein2_51",
+			"from": [14, 0, 0.5],
+			"to": [15.5, 0.5, 0.75],
+			"faces": {
+				"east": {"uv": [15, 15.5, 15.5, 16], "texture": "#0"},
+				"south": {"uv": [14, 15.5, 15.5, 16], "texture": "#0"},
+				"west": {"uv": [14, 15.5, 14.5, 16], "texture": "#0"},
+				"up": {"uv": [15.5, 15.5, 14, 16], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [14, 15.5, 15.5, 16], "texture": "#0"}
 			}
 		}
 	],
 	"groups": [
 		{
-			"name": "base",
-			"origin": [0, 0, 0],
+			"name": "sculk_vein2",
+			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
 				0,
@@ -1505,47 +1491,74 @@
 				65,
 				66,
 				67,
-				68,
-				69,
-				70,
-				71,
-				72,
-				73,
-				74,
-				75,
-				76,
-				77,
-				78,
-				79,
-				80,
-				81,
-				82,
-				83,
-				84,
-				85,
-				86,
-				87,
-				88,
-				89,
-				90,
-				91,
-				92,
-				93,
-				94,
-				95,
-				96,
-				97,
-				98,
-				99,
-				100,
-				101
+				68
 			]
 		},
 		{
-			"name": "relief",
-			"origin": [0, 0, 0],
+			"name": "model",
+			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137]
+			"children": [
+				{
+					"name": "sculk_vein2",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120
+					]
+				}
+			]
 		}
 	]
 }
