@@ -1,6 +1,6 @@
 {
   "credit": "Designed by Juknum",
-  "parent": "item/acacia_chest_boat",
+  "parent": "item/_chest_boat",
   "textures": {
     "texture": "item/boat/birch"
   }

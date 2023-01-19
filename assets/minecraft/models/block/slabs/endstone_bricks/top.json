@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "block/slabs/stone_bricks/top",
 	"textures": {
 		"0": "block/end_stone_bricks",

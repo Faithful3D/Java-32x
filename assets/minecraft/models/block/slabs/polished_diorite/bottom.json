@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Juknum with Blockbench",
+	"parent": "block/slabs/sandstone/bottom",
+	"textures": {
+		"0": "minecraft:block/polished_diorite_slab",
+		"2": "minecraft:block/polished_diorite",
+		"3": "minecraft:block/polished_diorite"
+	}
+}

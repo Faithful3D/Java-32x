@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "item/wooden_sword",
 	"textures": {
 		"layer0": "item/diamond_sword"

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "block/stairs/stairs_inventory",
 	"textures": {
 		"half": "block/sandstone_slab",

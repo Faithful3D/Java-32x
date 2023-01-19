@@ -2,11 +2,38 @@
 
 ## Known issue
 
+N/A
+
+## Changes
+
+# 2023 
+
+## July
+
+### July 17th
+
+- Added:
+  - Cherry Trapdoor (item)
+  - Carrot & Golden Carrot (item)
+  - 3D flower pots for cherry sapling & the torchflower
+
+### July 16th
+
+- Added:
+  - Bamboo Rafts (item)
+  - Cherry Boats (item)
+
+- Modified:
+  - Rails (all) : made the wood part thicker
+
+- Fixed:
+  - Chiseled Deepslate Bricks: fixed the cullface of the top part
+
 # 2022
 
 ## March
 
-### March 30 th
+### March 30th
 
 - Added:
   - cactus

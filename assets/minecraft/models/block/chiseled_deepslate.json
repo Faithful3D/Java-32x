@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "block/block",
 	"textures": {
 		"0": "block/chiseled_deepslate",
@@ -273,7 +273,7 @@
 			"to": [5.5, 16, 9.5],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [0, 6, 5.5, 6.5], "texture": "#0", "cullface": "north"},
+				"north": {"uv": [0, 6, 5.5, 6.5], "texture": "#0", "cullface": "up"},
 				"east": {"uv": [5, 6, 5.5, 9.5], "rotation": 90, "texture": "#0", "cullface": "up"},
 				"up": {"uv": [0, 6, 5.5, 9.5], "texture": "#0", "cullface": "up"}
 			}
@@ -283,7 +283,7 @@
 			"to": [16, 16, 9.5],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [10.5, 6, 16, 6.5], "texture": "#0", "cullface": "north"},
+				"north": {"uv": [10.5, 6, 16, 6.5], "texture": "#0", "cullface": "up"},
 				"west": {"uv": [10.5, 6, 11, 9.5], "rotation": 270, "texture": "#0", "cullface": "up"},
 				"up": {"uv": [10.5, 6, 16, 9.5], "texture": "#0", "cullface": "up"}
 			}
