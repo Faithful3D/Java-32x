@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Juknum with Blockbench",
+	"parent": "block/slabs/sandstone/bottom",
+	"textures": {
+		"0": "minecraft:block/polished_andesite_slab",
+		"2": "minecraft:block/polished_andesite",
+		"3": "minecraft:block/polished_andesite"
+	}
+}

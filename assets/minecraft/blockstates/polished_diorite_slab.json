@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/slabs/polished_diorite/bottom"
+    },
+    "type=double": {
+      "model": "minecraft:block/polished_diorite"
+    },
+    "type=top": {
+      "model": "minecraft:block/slabs/polished_diorite/top"
+    }
+  }
+}
