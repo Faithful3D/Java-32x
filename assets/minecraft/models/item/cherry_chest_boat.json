@@ -3,7 +3,7 @@
 	"parent": "item/_chest_boat",
 	"textures": {
 		"1": "item/chest",
-		"texture": "item/boat/acacia",
+		"texture": "item/boat/cherry",
 		"particle": "item/chest"
 	}
 }
