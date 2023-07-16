@@ -2,11 +2,24 @@
 
 ## Known issue
 
+N/A
+
+## Changes
+
+# 2023 
+
+## July
+
+### July 16th
+
+- Modified :
+  - Rails (all) : made the wood part thicker
+
 # 2022
 
 ## March
 
-### March 30 th
+### March 30th
 
 - Added:
   - cactus
