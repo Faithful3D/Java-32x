@@ -10,10 +10,22 @@ N/A
 
 ## July
 
+### July 17th
+
+- Added:
+  - Cherry Trapdoor (item)
+
 ### July 16th
 
-- Modified :
+- Added:
+  - Bamboo Rafts (item)
+  - Cherry Boats (item)
+
+- Modified:
   - Rails (all) : made the wood part thicker
+
+- Fixed:
+  - Chiseled Deepslate Bricks: fixed the cullface of the top part
 
 # 2022
 
