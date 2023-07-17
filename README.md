@@ -15,6 +15,7 @@ N/A
 - Added:
   - Cherry Trapdoor (item)
   - Carrot & Golden Carrot (item)
+  - 3D flower pots for cherry sapling & the torchflower
 
 ### July 16th
 

@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "block/nature/flower_pot_cross",
+	"textures": {
+		"plant": "block/cherry_sapling"
+	}
+}
