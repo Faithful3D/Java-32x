@@ -14,6 +14,7 @@ N/A
 
 - Added:
   - Cherry Trapdoor (item)
+  - Carrot & Golden Carrot (item)
 
 ### July 16th
 

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"parent": "item/carrot",
+	"textures": {
+		"1": "block/nature/crops/golden_carrot",
+		"particle": "block/nature/crops/golden_carrot"
+	}
+}
