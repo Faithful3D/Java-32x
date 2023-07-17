@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "block/stairs/stone_bricks/inner",
 	"textures": {
 		"0": "block/deepslate_bricks",

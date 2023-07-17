@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "item/_door_display",
 	"textures": {
 		"0": "block/doors/mangrove",

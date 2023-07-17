@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Designed by Juknum",
 	"parent": "block/redstone/torch/normal",
 	"textures": {
 		"0": "block/redstone_torch_off",
