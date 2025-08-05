@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "A default-style 32x 3D resource pack for Minecraft: Java Edition."
+    "min_format": 65.0,
+    "max_format": 65.0,
+    "description": "The go-to 3D resource pack for your go-to 32x resource pack."
   }
 }
