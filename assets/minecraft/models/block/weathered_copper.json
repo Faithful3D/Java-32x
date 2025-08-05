@@ -1,0 +1,8 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:block/copper_block",
+	"textures": {
+		"0": "block/weathered_copper",
+		"particle": "block/weathered_copper"
+	}
+}

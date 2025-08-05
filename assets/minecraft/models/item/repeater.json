@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "item/oak_trapdoor",
+	"parent": "block/template_trapdoor_display",
 	"ambientocclusion": false,
 	"textures": {
 		"0": "block/repeater",

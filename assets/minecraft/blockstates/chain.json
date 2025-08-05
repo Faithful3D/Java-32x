@@ -1,28 +1,16 @@
 {
 	"comment": "Designed by Juknum",
 	"variants": {
-		"axis=x,waterlogged=false": {
-			"model": "minecraft:block/chain/chain",
+		"axis=x": {
+			"model": "minecraft:block/chains/iron_chain",
 			"x": 90,
 			"y": 90
 		},
-		"axis=y,waterlogged=false": {
-			"model": "minecraft:block/chain/chain"
+		"axis=y": {
+			"model": "minecraft:block/chains/iron_chain"
 		},
-		"axis=z,waterlogged=false": {
-			"model": "minecraft:block/chain/chain",
-			"x": 90
-		},
-		"axis=x,waterlogged=true": {
-			"model": "minecraft:block/chain/chain_waterlogged",
-			"x": 90,
-			"y": 90
-		},
-		"axis=y,waterlogged=true": {
-			"model": "minecraft:block/chain/chain_waterlogged"
-		},
-		"axis=z,waterlogged=true": {
-			"model": "minecraft:block/chain/chain_waterlogged",
+		"axis=z": {
+			"model": "minecraft:block/chains/iron_chain",
 			"x": 90
 		}
 	}

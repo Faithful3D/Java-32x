@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:block/bars/iron/post",
+	"textures": {
+		"0": "minecraft:block/copper_bars",
+		"particle": "minecraft:block/copper_bars"
+	}
+}

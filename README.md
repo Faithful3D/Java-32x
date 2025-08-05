@@ -6,6 +6,36 @@ N/A
 
 ## Changes
 
+# 2025
+
+## August 05th
+
+I'm back from the mine!
+
+- Added:
+  - Copper Bars (block) (all variants)
+  - Copper Blocks (block) (all variants)
+  - Copper Chains (block) (all variants)
+  - Copper Grates (block) (all variants)
+  - Pale Oak Leaves (block)
+  - Pale Oak Trapdoor (item)
+  - Bamboo Door (item)
+  - Cherry Leaves (block)
+
+- Modified:
+  - Redstone Torch (comparator, repeater, redstone torch) : use the vanilla model
+  - Doors (all) : let the hinges on one side only & updated the GUI display
+
+- Fixed:
+  - Dried Kelp Block (item)
+  - Hay Bale (item)
+  - Lily Pad (block)
+  - Trapdoors (all items)
+  - Potted Pale Oak Sapling (block)
+
+- Removed:
+  - Bookshelf (block) - Because the non Euclidean cube with a shader has been removed.
+
 # 2023 
 
 ## July

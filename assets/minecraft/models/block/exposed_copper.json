@@ -1,0 +1,8 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:block/copper_block",
+	"textures": {
+		"0": "block/exposed_copper",
+		"particle": "block/exposed_copper"
+	}
+}

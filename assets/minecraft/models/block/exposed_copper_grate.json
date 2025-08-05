@@ -1,0 +1,8 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "block/copper_grate",
+	"textures": {
+		"1": "block/exposed_copper_grate",
+		"particle": "block/exposed_copper_grate"
+	}
+}

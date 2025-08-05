@@ -1,0 +1,24 @@
+{
+	"comment": "Designed by Juknum",
+	"multipart": [
+		{
+			"apply": { "model": "minecraft:block/bars/weathered_copper/post" }
+		},
+		{
+			"when":  { "north": true },
+			"apply": { "model": "minecraft:block/bars/weathered_copper/side" }
+		},
+		{
+			"when":  { "east": true },
+			"apply": { "model": "minecraft:block/bars/weathered_copper/side", "y": 90 }
+		},
+		{
+			"when":  { "south": true },
+			"apply": { "model": "minecraft:block/bars/weathered_copper/side_alt" }
+		},
+		{
+			"when":  { "west": true },
+			"apply": { "model": "minecraft:block/bars/weathered_copper/side_alt", "y": 90 }
+		}
+	]
+}
