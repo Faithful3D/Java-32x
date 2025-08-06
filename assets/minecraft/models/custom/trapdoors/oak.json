@@ -1,6 +1,6 @@
 {
 	"ambientocclusion": false,
-	"parent": "block/template_trapdoor_display",
+	"parent": "custom/trapdoors/trapdoor_display",
 	"textures": {
 		"0": "block/trapdoors/oak",
 		"particle": "block/oak_trapdoor"
