@@ -1,6 +1,6 @@
 {
 	"credit": "Designed by Juknum",
-	"parent": "item/wooden_sword",
+	"parent": "custom/tools/swords/wood",
 	"textures": {
 		"layer0": "item/netherite_sword"
 	}

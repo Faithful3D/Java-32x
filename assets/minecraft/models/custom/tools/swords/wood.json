@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Designed by Juknum",
-	"parent": "item/_weapon_display",
+	"parent": "custom/tools/tools_display",
 	"textures": {
 		"layer0": "item/wooden_sword",
 		"particle": "item/wooden_sword"
