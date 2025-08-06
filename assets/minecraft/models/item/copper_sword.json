@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "item/wooden_sword",
+	"textures": {
+		"layer0": "item/copper_sword"
+	}
+}

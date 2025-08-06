@@ -1,0 +1,7 @@
+{
+	"parent": "block/lantern_hanging",
+	"textures": {
+		"all": "block/copper_lantern",
+		"particle": "block/copper_lantern"
+	}
+}

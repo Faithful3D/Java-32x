@@ -8,6 +8,19 @@ N/A
 
 # 2025
 
+## August 06th
+
+- Added:
+  - Pale Oak Boat (item)
+  - Pale Oak Chest Boat (item)
+  - Copper Lanterns (block & item) (all variants)
+  - Copper tools (all items)
+
+- Fixed:
+  - Short Grass (block): renamed from `grass` to `short_grass` 
+  - Swords (all items): updated the model to match the new texture
+  - Redstone Torch (item): use the new inverted model
+
 ## August 05th
 
 I'm back from the mine!
