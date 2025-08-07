@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"parent": "custom/trapdoors/trapdoor_display",
 	"textures": {
-		"0": "block/trapdoors/cherry",
+		"0": "custom/trapdoors/cherry",
 		"particle": "block/cherry_trapdoor"
 	},
 	"elements": [

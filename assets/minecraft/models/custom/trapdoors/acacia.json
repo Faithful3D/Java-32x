@@ -3,7 +3,7 @@
 	"parent": "custom/trapdoors/trapdoor_display",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/trapdoors/acacia",
+		"0": "custom/trapdoors/acacia",
 		"particle": "block/acacia_trapdoor"
 	},
 	"elements": [

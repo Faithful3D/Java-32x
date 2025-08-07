@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/trapdoors/bamboo",
+		"0": "custom/trapdoors/bamboo",
 		"particle": "block/bamboo_trapdoor"
 	},
 	"elements": [

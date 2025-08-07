@@ -3,7 +3,7 @@
 	"credit": "Designed by Progical and Juknum",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/farmland/farmland_moist_1",
+		"0": "custom/farmland/farmland_moist_1",
 		"1": "block/dirt",
 		"particle": "block/dirt"
 	},

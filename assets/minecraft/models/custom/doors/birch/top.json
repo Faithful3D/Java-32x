@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/birch"
+		"1": "custom/doors/birch"
 	},
 	"elements": [
 		{

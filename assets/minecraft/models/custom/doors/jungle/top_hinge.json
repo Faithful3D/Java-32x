@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/jungle",
+		"1": "custom/doors/jungle",
 		"particle": "block/jungle_door_bottom"
 	},
 	"elements": [

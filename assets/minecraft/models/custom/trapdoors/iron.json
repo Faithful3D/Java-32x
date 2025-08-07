@@ -3,7 +3,7 @@
 	"parent": "custom/trapdoors/trapdoor_display",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/trapdoors/iron",
+		"0": "custom/trapdoors/iron",
 		"particle": "block/iron_trapdoor"
 	},
 	"elements": [

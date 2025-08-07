@@ -1,0 +1,14 @@
+{
+	"sources": [
+		{
+			"type": "minecraft:directory",
+			"source": "custom",
+			"prefix": "custom/"
+		},
+		{
+			"type": "minecraft:directory",
+			"source": "entity",
+			"prefix": "entity/"
+		}
+	]
+}

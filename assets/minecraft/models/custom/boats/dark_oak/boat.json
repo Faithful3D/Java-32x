@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "custom/boats/boat",
+	"textures": {
+		"texture": "custom/boats/dark_oak"
+	}
+}

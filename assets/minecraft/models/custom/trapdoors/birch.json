@@ -3,7 +3,7 @@
 	"parent": "custom/trapdoors/trapdoor_display",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/trapdoors/birch",
+		"0": "custom/trapdoors/birch",
 		"particle": "block/birch_trapdoor"
 	},
 	"elements": [

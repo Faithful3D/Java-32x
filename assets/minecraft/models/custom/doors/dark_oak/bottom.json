@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/dark_oak",
+		"1": "custom/doors/dark_oak",
 		"particle": "block/dark_oak_door_bottom"
 	},
 	"elements": [

@@ -2,7 +2,7 @@
 	"ambientocclusion": false,
 	"parent": "custom/trapdoors/trapdoor_display",
 	"textures": {
-		"0": "block/trapdoors/oak",
+		"0": "custom/trapdoors/oak",
 		"particle": "block/oak_trapdoor"
 	},
 	"elements": [

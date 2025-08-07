@@ -3,7 +3,7 @@
 	"parent": "custom/trapdoors/trapdoor_display",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/trapdoors/jungle",
+		"0": "custom/trapdoors/jungle",
 		"particle": "block/jungle_trapdoor"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
 	"parent": "custom/doors/door_display",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/warped",
+		"1": "custom/doors/warped",
 		"particle": "block/warped_door_top",
 		"2_particle": "block/warped_door_top"
 	},

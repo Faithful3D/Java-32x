@@ -4,7 +4,7 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/trapdoors/mangrove",
+		"0": "custom/trapdoors/mangrove",
 		"particle": "block/mangrove_trapdoor"
 	},
 	"elements": [

@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/iron",
+		"1": "custom/doors/iron",
 		"particle": "block/iron_door_bottom"
 	},
 	"elements": [

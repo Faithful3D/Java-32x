@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"parent": "custom/doors/door_display",
 	"textures": {
-		"1": "block/doors/acacia"
+		"1": "custom/doors/acacia"
 	},
 	"elements": [
 		{

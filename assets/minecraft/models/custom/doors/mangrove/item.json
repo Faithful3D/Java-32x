@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"parent": "custom/doors/door_display",
 	"textures": {
-		"0": "block/doors/mangrove"
+		"0": "custom/doors/mangrove"
 	},
 	"elements": [
 		{

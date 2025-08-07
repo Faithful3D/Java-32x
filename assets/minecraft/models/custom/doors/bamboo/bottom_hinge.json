@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/doors/bamboo",
+		"0": "custom/doors/bamboo",
 		"particle": "block/bamboo_door_bottom"
 	},
 	"elements": [

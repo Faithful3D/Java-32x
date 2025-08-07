@@ -2,7 +2,7 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/doors/crimson"
+		"1": "custom/doors/crimson"
 	},
 	"elements": [
 		{
