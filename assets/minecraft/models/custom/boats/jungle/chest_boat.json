@@ -1,7 +1,0 @@
-{
-  "credit": "Designed by Juknum",
-  "parent": "custom/boats/chest_boat",
-  "textures": {
-    "texture": "custom/boats/jungle"
-  }
-}

@@ -1,6 +1,6 @@
 {
 	"credit": "Designed by Juknum",
-	"parent": "custom/boats/boat",
+	"parent": "custom/boats/template_boat",
 	"textures": {
 		"texture": "custom/boats/acacia"
 	}

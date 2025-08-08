@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "minecraft:custom/boats/bamboo/boat"
+		"model": "minecraft:custom/boats/bamboo"
 	}
 }

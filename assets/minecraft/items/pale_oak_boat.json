@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "minecraft:custom/boats/pale_oak/boat"
+		"model": "minecraft:custom/boats/pale_oak"
 	}
 }
