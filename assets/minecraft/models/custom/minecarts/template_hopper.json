@@ -1,0 +1,35 @@
+{
+    "parent": "minecraft:block/hopper",
+    "display": {
+        "gui": {
+            "rotation": [ 30, -135, 0 ],
+            "translation": [ 0, -1, 0],
+            "scale":[ 0.46875, 0.46875, 0.46875 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale":[ 0.1875, 0.1875, 0.1875 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, -1, 0],
+            "scale":[ 0.75, 0.75, 0.75]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, -1, 0],
+            "scale":[ 0.375, 0.375, 0.375 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 2.5, 1],
+            "scale": [ 0.24375, 0.24375, 0.24375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, -1, 0],
+            "scale": [ 0.3, 0.3, 0.3 ]
+        }
+    }
+}
