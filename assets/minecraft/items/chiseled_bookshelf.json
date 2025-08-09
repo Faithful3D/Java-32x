@@ -1,0 +1,101 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/chiseled_bookshelf/bookshelf"
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 1 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_top_left"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 2 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_top_mid"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 3 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_top_right"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 4 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_bottom_left"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 5 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_bottom_mid"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			},
+			{
+				"type": "minecraft:condition",
+				"property": "minecraft:component",
+				"predicate": "minecraft:container",
+				"value": {
+					"items": { "size": { "min": 6 } }
+				},
+				"on_true": {
+					"type": "minecraft:model",
+					"model": "minecraft:custom/chiseled_bookshelf/book_bottom_right"
+				},
+				"on_false": {
+					"type": "minecraft:empty"
+				}
+			}
+		]
+	}
+}

@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/bookshelf",
+        "model": "minecraft:custom/chiseled_bookshelf/bookshelf",
         "uvlock": true,
         "y": 270
       },
@@ -12,7 +12,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_mid",
         "y": 270
       },
       "when": {
@@ -28,7 +28,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_right",
         "y": 270
       },
       "when": {
@@ -44,7 +44,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_mid",
         "y": 270
       },
       "when": {
@@ -60,7 +60,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_left",
         "y": 270
       },
       "when": {
@@ -76,7 +76,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_right",
         "y": 270
       },
       "when": {
@@ -92,7 +92,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_left",
         "y": 270
       },
       "when": {
@@ -108,7 +108,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/bookshelf",
+        "model": "minecraft:custom/chiseled_bookshelf/bookshelf",
         "uvlock": true,
         "y": 180
       },
@@ -118,7 +118,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_mid",
         "y": 180
       },
       "when": {
@@ -134,7 +134,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_right",
         "y": 180
       },
       "when": {
@@ -150,7 +150,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_mid",
         "y": 180
       },
       "when": {
@@ -166,7 +166,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_left",
         "y": 180
       },
       "when": {
@@ -182,7 +182,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_right",
         "y": 180
       },
       "when": {
@@ -198,7 +198,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_left",
         "y": 180
       },
       "when": {
@@ -214,7 +214,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/bookshelf",
+        "model": "minecraft:custom/chiseled_bookshelf/bookshelf",
         "uvlock": true,
         "y": 90
       },
@@ -224,7 +224,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_mid",
         "y": 90
       },
       "when": {
@@ -240,7 +240,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_right",
         "y": 90
       },
       "when": {
@@ -256,7 +256,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_mid",
         "y": 90
       },
       "when": {
@@ -272,7 +272,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_left",
         "y": 90
       },
       "when": {
@@ -288,7 +288,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_right",
         "y": 90
       },
       "when": {
@@ -304,7 +304,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_left",
         "y": 90
       },
       "when": {
@@ -320,7 +320,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/bookshelf",
+        "model": "minecraft:custom/chiseled_bookshelf/bookshelf",
         "uvlock": true,
         "y": 0
       },
@@ -330,7 +330,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_mid",
         "y": 0
       },
       "when": {
@@ -346,7 +346,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_right",
         "y": 0
       },
       "when": {
@@ -362,7 +362,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_mid",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_mid",
         "y": 0
       },
       "when": {
@@ -378,7 +378,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_top_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_top_left",
         "y": 0
       },
       "when": {
@@ -394,7 +394,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_right",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_right",
         "y": 0
       },
       "when": {
@@ -410,7 +410,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/chiseled/book_bottom_left",
+        "model": "minecraft:custom/chiseled_bookshelf/book_bottom_left",
         "y": 0
       },
       "when": {
