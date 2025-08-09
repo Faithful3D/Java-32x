@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minecraft:custom/lanterns/oxidized_copper_lantern/lantern"
+    },
+    "hanging=true": {
+      "model": "minecraft:custom/lanterns/oxidized_copper_lantern/lantern_hanging"
+    }
+  }
+}

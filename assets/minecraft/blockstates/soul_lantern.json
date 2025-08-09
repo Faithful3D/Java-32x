@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minecraft:custom/lanterns/soul_lantern/lantern"
+    },
+    "hanging=true": {
+      "model": "minecraft:custom/lanterns/soul_lantern/lantern_hanging"
+    }
+  }
+}

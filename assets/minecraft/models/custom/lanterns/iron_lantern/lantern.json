@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:custom/lanterns/lantern",
+	"textures": {
+		"all": "block/lantern",
+		"particle": "block/lantern"
+	}
+}
