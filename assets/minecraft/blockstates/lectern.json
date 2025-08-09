@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/lectern",
+        "model": "minecraft:custom/lectern",
         "y": 270
       },
       "when": {
@@ -11,7 +11,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/lectern",
+        "model": "minecraft:custom/lectern",
         "y": 180
       },
       "when": {
@@ -20,7 +20,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/lectern",
+        "model": "minecraft:custom/lectern",
         "y": 90
       },
       "when": {
@@ -29,7 +29,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/bookshelf/lectern",
+        "model": "minecraft:custom/lectern",
         "y": 0
       },
       "when": {
