@@ -1,0 +1,15 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "minecraft:custom/cake/cake" }
+    },
+    {
+      "when": { "lit": "true" },
+      "apply": { "model": "minecraft:custom/cake/dyes/blue/cake_candle_lit" }
+    },
+    {
+      "when": { "lit": "false" },
+      "apply": { "model": "minecraft:custom/cake/dyes/blue/cake_candle" }
+    }
+  ]
+}

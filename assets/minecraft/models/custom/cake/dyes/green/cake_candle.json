@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:custom/cake/cake_candle",
+	"textures": {
+		"candle": "block/green_candle"
+	}
+}
