@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:custom/beacon"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/glass/glass_block"
+      }
+    }
+  ]
+}
