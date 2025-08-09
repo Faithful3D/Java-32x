@@ -3,6 +3,6 @@
 	"credit": "Made with Blockbench by Juknum",
 	"parent": "minecraft:custom/cake/cake_candle",
 	"textures": {
-		"candle": "block/light_graycandle"
+		"candle": "block/light_gray_candle"
 	}
 }

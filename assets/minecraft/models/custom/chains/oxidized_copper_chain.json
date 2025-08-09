@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:custom/chains/iron_chain",
+	"textures": {
+		"1": "minecraft:block/oxidized_copper_chain",
+		"particle": "minecraft:block/oxidized_copper_chain"
+	}
+}
