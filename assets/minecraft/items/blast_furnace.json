@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:custom/blast_furnace/blast_furnace"
+	}
+}
