@@ -1,8 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "block/nature/flowers/orange_tulip",
-	"textures": {
-		"cross": "block/nature/flowers/pink_tulip",
-		"particle": "block/pink_tulip"
-	}
-}

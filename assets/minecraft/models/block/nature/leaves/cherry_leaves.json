@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_inverted_tintindex",
-  "textures": {
-    "all": "minecraft:block/cherry_leaves"
-  }
-}

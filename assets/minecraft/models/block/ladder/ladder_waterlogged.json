@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/ladder/ladder",
-	"textures": {
-		"0": "minecraft:block/ladder",
-		"particle": "minecraft:block/ladder"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "item/wooden_pickaxe",
-	"textures": {
-		"layer0": "item/diamond_pickaxe"
-	}
-}

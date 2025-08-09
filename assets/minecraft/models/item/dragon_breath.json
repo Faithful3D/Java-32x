@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:item/potion",
-	"textures": {
-		"texture": "minecraft:item/potion",
-		"potion_overlay": "minecraft:item/dragon_breath"
-	}
-}

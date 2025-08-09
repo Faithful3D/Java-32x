@@ -1,8 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "block/slabs/stone_bricks/top",
-	"textures": {
-		"0": "block/mossy_stone_bricks",
-		"particle": "block/mossy_stone_bricks"
-	}
-}

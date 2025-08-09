@@ -1,9 +1,0 @@
-{
-	"credit": "Made by Juknum with Blockbench",
-	"ambientocclusion": false,
-	"parent": "minecraft:block/nature/crops/wheat/wheat_stage3",
-	"textures": {
-		"0": "minecraft:block/nature/grass/nether_sprouts",
-		"particle": "minecraft:block/nature/grass/nether_sprouts"
-	}
-}

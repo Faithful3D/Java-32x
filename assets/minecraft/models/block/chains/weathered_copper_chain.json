@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/chains/iron_chain",
-	"textures": {
-		"1": "minecraft:block/weathered_copper_chain",
-		"particle": "minecraft:block/weathered_copper_chain"
-	}
-}

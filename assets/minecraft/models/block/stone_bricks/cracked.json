@@ -1,8 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "block/stone_bricks/normal",
-	"textures": {
-		"0": "block/cracked_stone_bricks",
-		"particle": "block/cracked_stone_bricks"
-	}
-}

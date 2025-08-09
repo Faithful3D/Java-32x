@@ -1,8 +1,0 @@
-{
-  "credit": "Made by Juknum with Blockbench",
-  "parent": "item/torch",
-  "textures": {
-    "0": "block/soul_torch",
-    "particle": "block/soul_torch"
-  }
-}

@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/pointed_dripstone/pointed_dripstone_tip",
-	"textures": {
-		"0": "minecraft:block/pointed_dripstone",
-		"particle": "minecraft:block/pointed_dripstone"
-	}
-}

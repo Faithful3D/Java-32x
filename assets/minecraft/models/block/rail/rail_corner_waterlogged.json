@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/rail/rail_corner",
-	"textures": {
-		"2": "minecraft:block/rail_special",
-		"particle": "minecraft:block/rail"
-	}
-}

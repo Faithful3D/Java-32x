@@ -1,8 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "block/stairs/stone_bricks/bottom",
-	"textures": {
-		"0": "block/deepslate_bricks",
-		"particle": "block/deepslate_bricks"
-	}
-}

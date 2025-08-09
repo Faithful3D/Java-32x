@@ -1,8 +1,0 @@
-{
-	"credit": "Designed by Juknum",
-	"parent": "minecraft:block/copper_block",
-	"textures": {
-		"0": "block/oxidized_copper",
-		"particle": "block/oxidized_copper"
-	}
-}

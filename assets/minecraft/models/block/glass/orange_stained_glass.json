@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/template_inverted",
-  "textures": {
-    "all": "minecraft:block/orange_stained_glass"
-  }
-}
