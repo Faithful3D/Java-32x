@@ -3,7 +3,7 @@
     "multipart": [
         {
             "apply": {
-                "model": "block/brewing_stand/brewing_stand_empty"
+                "model": "minecraft:custom/brewing_stand/brewing_stand_empty"
             }
         },
         {
@@ -12,7 +12,7 @@
             },
             "apply": [
                 {
-                    "model": "block/brewing_stand/bottle_1"
+                    "model": "minecraft:custom/brewing_stand/bottle_1"
                 }
             ]
         },
@@ -22,7 +22,7 @@
             },
             "apply": [
                 {
-                    "model": "block/brewing_stand/bottle_2"
+                    "model": "minecraft:custom/brewing_stand/bottle_2"
                 }
             ]
         },
@@ -32,7 +32,7 @@
             },
             "apply": [
                 {
-                    "model": "block/brewing_stand/bottle_2",
+                    "model": "minecraft:custom/brewing_stand/bottle_2",
                     "y": 270
                 }
             ]
@@ -42,7 +42,7 @@
                 "has_bottle_0": "false"
             },
             "apply": {
-                "model": "block/brewing_stand/bottle_1_empty"
+                "model": "minecraft:custom/brewing_stand/bottle_1_empty"
             }
         },
         {
@@ -50,7 +50,7 @@
                 "has_bottle_1": "false"
             },
             "apply": {
-                "model": "block/brewing_stand/bottle_2_empty"
+                "model": "minecraft:custom/brewing_stand/bottle_2_empty"
             }
         },
         {
@@ -58,7 +58,7 @@
                 "has_bottle_2": "false"
             },
             "apply": {
-                "model": "block/brewing_stand/bottle_2_empty",
+                "model": "minecraft:custom/brewing_stand/bottle_2_empty",
                 "y": 270
             }
         }

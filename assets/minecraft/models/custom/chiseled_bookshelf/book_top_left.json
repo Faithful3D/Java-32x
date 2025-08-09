@@ -2,8 +2,8 @@
 	"credit": "Designed by Juknum",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/chiseled_bookshelf/chiseled_bookshelf_books",
-		"particle": "block/chiseled_bookshelf/chiseled_bookshelf_books"
+		"0": "minecraft:custom/chiseled_bookshelf/chiseled_bookshelf_books",
+		"particle": "minecraft:custom/chiseled_bookshelf/chiseled_bookshelf_books"
 	},
 	"elements": [
 		{

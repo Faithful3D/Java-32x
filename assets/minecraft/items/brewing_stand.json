@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:custom/brewing_stand/brewing_stand"
+	}
+}

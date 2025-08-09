@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench by Juknum",
 	"parent": "block/block",
 	"textures": {
-		"1": "block/chiseled_bookshelf/chiseled_bookshelf_empty_background_side",
-		"2": "block/chiseled_bookshelf/chiseled_bookshelf_empty_background",
-		"3": "block/chiseled_bookshelf/chiseled_bookshelf_side",
-		"4": "block/chiseled_bookshelf/chiseled_bookshelf_top",
-		"particle": "block/chiseled_bookshelf/chiseled_bookshelf_side"
+		"1": "minecraft:custom/chiseled_bookshelf/chiseled_bookshelf_empty_background_side",
+		"2": "minecraft:custom/chiseled_bookshelf/chiseled_bookshelf_empty_background",
+		"3": "minecraft:block/chiseled_bookshelf_side",
+		"4": "minecraft:block/chiseled_bookshelf_top",
+		"particle": "minecraft:block/chiseled_bookshelf_side"
 	},
 	"elements": [
 		{
