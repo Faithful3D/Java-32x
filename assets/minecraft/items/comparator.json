@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/comparator/base_plate_off"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/comparator/sub_torch_off"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/comparator/torch_off"
+			}
+		]
+	}
+}

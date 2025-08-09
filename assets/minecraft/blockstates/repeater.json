@@ -8,7 +8,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay1"
+        "model": "minecraft:custom/repeater/locked/delay1"
       }
     },
     {
@@ -18,7 +18,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay2"
+        "model": "minecraft:custom/repeater/locked/delay2"
       }
     },
     {
@@ -28,7 +28,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay3"
+        "model": "minecraft:custom/repeater/locked/delay3"
       }
     },
     {
@@ -38,7 +38,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay4"
+        "model": "minecraft:custom/repeater/locked/delay4"
       }
     },
     {
@@ -48,7 +48,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay1",
+        "model": "minecraft:custom/repeater/locked/delay1",
         "y": 90
       }
     },
@@ -59,7 +59,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay2",
+        "model": "minecraft:custom/repeater/locked/delay2",
         "y": 90
       }
     },
@@ -70,7 +70,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay3",
+        "model": "minecraft:custom/repeater/locked/delay3",
         "y": 90
       }
     },
@@ -81,7 +81,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay4",
+        "model": "minecraft:custom/repeater/locked/delay4",
         "y": 90
       }
     },
@@ -92,7 +92,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay1",
+        "model": "minecraft:custom/repeater/locked/delay1",
         "y": 180
       }
     },
@@ -103,7 +103,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay2",
+        "model": "minecraft:custom/repeater/locked/delay2",
         "y": 180
       }
     },
@@ -114,7 +114,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay3",
+        "model": "minecraft:custom/repeater/locked/delay3",
         "y": 180
       }
     },
@@ -125,7 +125,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay4",
+        "model": "minecraft:custom/repeater/locked/delay4",
         "y": 180
       }
     },
@@ -136,7 +136,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay1",
+        "model": "minecraft:custom/repeater/locked/delay1",
         "y": 270
       }
     },
@@ -147,7 +147,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay2",
+        "model": "minecraft:custom/repeater/locked/delay2",
         "y": 270
       }
     },
@@ -158,7 +158,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay3",
+        "model": "minecraft:custom/repeater/locked/delay3",
         "y": 270
       }
     },
@@ -169,7 +169,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/locked/delay4",
+        "model": "minecraft:custom/repeater/locked/delay4",
         "y": 270
       }
     },
@@ -181,7 +181,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_on"
+        "model": "minecraft:custom/repeater/delay/delay1_on"
       }
     },
     {
@@ -192,7 +192,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_on"
+        "model": "minecraft:custom/repeater/delay/delay2_on"
       }
     },
     {
@@ -203,7 +203,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_on"
+        "model": "minecraft:custom/repeater/delay/delay3_on"
       }
     },
     {
@@ -214,7 +214,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_on"
+        "model": "minecraft:custom/repeater/delay/delay4_on"
       }
     },
     {
@@ -225,7 +225,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_on",
+        "model": "minecraft:custom/repeater/delay/delay1_on",
         "y": 90
       }
     },
@@ -237,7 +237,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_on",
+        "model": "minecraft:custom/repeater/delay/delay2_on",
         "y": 90
       }
     },
@@ -249,7 +249,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_on",
+        "model": "minecraft:custom/repeater/delay/delay3_on",
         "y": 90
       }
     },
@@ -261,7 +261,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_on",
+        "model": "minecraft:custom/repeater/delay/delay4_on",
         "y": 90
       }
     },
@@ -273,7 +273,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_on",
+        "model": "minecraft:custom/repeater/delay/delay1_on",
         "y": 180
       }
     },
@@ -285,7 +285,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_on",
+        "model": "minecraft:custom/repeater/delay/delay2_on",
         "y": 180
       }
     },
@@ -297,7 +297,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_on",
+        "model": "minecraft:custom/repeater/delay/delay3_on",
         "y": 180
       }
     },
@@ -309,7 +309,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_on",
+        "model": "minecraft:custom/repeater/delay/delay4_on",
         "y": 180
       }
     },
@@ -321,7 +321,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_on",
+        "model": "minecraft:custom/repeater/delay/delay1_on",
         "y": 270
       }
     },
@@ -333,7 +333,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_on",
+        "model": "minecraft:custom/repeater/delay/delay2_on",
         "y": 270
       }
     },
@@ -345,7 +345,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_on",
+        "model": "minecraft:custom/repeater/delay/delay3_on",
         "y": 270
       }
     },
@@ -357,7 +357,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_on",
+        "model": "minecraft:custom/repeater/delay/delay4_on",
         "y": 270
       }
     },
@@ -369,7 +369,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_off"
+        "model": "minecraft:custom/repeater/delay/delay1_off"
       }
     },
     {
@@ -380,7 +380,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_off"
+        "model": "minecraft:custom/repeater/delay/delay2_off"
       }
     },
     {
@@ -391,7 +391,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_off"
+        "model": "minecraft:custom/repeater/delay/delay3_off"
       }
     },
     {
@@ -402,7 +402,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_off"
+        "model": "minecraft:custom/repeater/delay/delay4_off"
       }
     },
     {
@@ -413,7 +413,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_off",
+        "model": "minecraft:custom/repeater/delay/delay1_off",
         "y": 90
       }
     },
@@ -425,7 +425,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_off",
+        "model": "minecraft:custom/repeater/delay/delay2_off",
         "y": 90
       }
     },
@@ -437,7 +437,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_off",
+        "model": "minecraft:custom/repeater/delay/delay3_off",
         "y": 90
       }
     },
@@ -449,7 +449,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_off",
+        "model": "minecraft:custom/repeater/delay/delay4_off",
         "y": 90
       }
     },
@@ -461,7 +461,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_off",
+        "model": "minecraft:custom/repeater/delay/delay1_off",
         "y": 180
       }
     },
@@ -473,7 +473,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_off",
+        "model": "minecraft:custom/repeater/delay/delay2_off",
         "y": 180
       }
     },
@@ -485,7 +485,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_off",
+        "model": "minecraft:custom/repeater/delay/delay3_off",
         "y": 180
       }
     },
@@ -497,7 +497,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_off",
+        "model": "minecraft:custom/repeater/delay/delay4_off",
         "y": 180
       }
     },
@@ -509,7 +509,7 @@
         "delay": 1
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay1_off",
+        "model": "minecraft:custom/repeater/delay/delay1_off",
         "y": 270
       }
     },
@@ -521,7 +521,7 @@
         "delay": 2
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay2_off",
+        "model": "minecraft:custom/repeater/delay/delay2_off",
         "y": 270
       }
     },
@@ -533,7 +533,7 @@
         "delay": 3
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay3_off",
+        "model": "minecraft:custom/repeater/delay/delay3_off",
         "y": 270
       }
     },
@@ -545,7 +545,7 @@
         "delay": 4
       },
       "apply": {
-        "model": "block/redstone/repeater/delay/delay4_off",
+        "model": "minecraft:custom/repeater/delay/delay4_off",
         "y": 270
       }
     },
@@ -555,7 +555,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_on"
+        "model": "minecraft:custom/repeater/base_plate_on"
       }
     },
     {
@@ -564,7 +564,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_on",
+        "model": "minecraft:custom/repeater/base_plate_on",
         "y": 90
       }
     },
@@ -574,7 +574,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_on",
+        "model": "minecraft:custom/repeater/base_plate_on",
         "y": 180
       }
     },
@@ -584,7 +584,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_on",
+        "model": "minecraft:custom/repeater/base_plate_on",
         "y": 270
       }
     },
@@ -594,7 +594,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_off"
+        "model": "minecraft:custom/repeater/base_plate_off"
       }
     },
     {
@@ -603,7 +603,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_off",
+        "model": "minecraft:custom/repeater/base_plate_off",
         "y": 90
       }
     },
@@ -613,7 +613,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_off",
+        "model": "minecraft:custom/repeater/base_plate_off",
         "y": 180
       }
     },
@@ -623,7 +623,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/base_plate_off",
+        "model": "minecraft:custom/repeater/base_plate_off",
         "y": 270
       }
     },
@@ -633,7 +633,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_on"
+        "model": "minecraft:custom/repeater/torch_on"
       }
     },
     {
@@ -642,7 +642,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_on",
+        "model": "minecraft:custom/repeater/torch_on",
         "y": 90
       }
     },
@@ -652,7 +652,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_on",
+        "model": "minecraft:custom/repeater/torch_on",
         "y": 180
       }
     },
@@ -662,7 +662,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_on",
+        "model": "minecraft:custom/repeater/torch_on",
         "y": 270
       }
     },
@@ -672,7 +672,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_off"
+        "model": "minecraft:custom/repeater/torch_off"
       }
     },
     {
@@ -681,7 +681,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_off",
+        "model": "minecraft:custom/repeater/torch_off",
         "y": 90
       }
     },
@@ -691,7 +691,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_off",
+        "model": "minecraft:custom/repeater/torch_off",
         "y": 180
       }
     },
@@ -701,7 +701,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/repeater/torch_off",
+        "model": "minecraft:custom/repeater/torch_off",
         "y": 270
       }
     }

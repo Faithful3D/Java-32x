@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_dot"
+        "model": "minecraft:custom/redstone/redstone_dust_dot"
       },
       "when": {
         "OR": [
@@ -33,7 +33,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_side0"
+        "model": "minecraft:custom/redstone/redstone_dust_side0"
       },
       "when": {
         "north": "side|up"
@@ -41,7 +41,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_side_alt0"
+        "model": "minecraft:custom/redstone/redstone_dust_side_alt0"
       },
       "when": {
         "south": "side|up"
@@ -49,7 +49,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_side_alt1",
+        "model": "minecraft:custom/redstone/redstone_dust_side_alt1",
         "y": 270
       },
       "when": {
@@ -58,7 +58,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_side1",
+        "model": "minecraft:custom/redstone/redstone_dust_side1",
         "y": 270
       },
       "when": {
@@ -67,7 +67,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_up"
+        "model": "minecraft:custom/redstone/redstone_dust_up"
       },
       "when": {
         "north": "up"
@@ -75,7 +75,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_up",
+        "model": "minecraft:custom/redstone/redstone_dust_up",
         "y": 90
       },
       "when": {
@@ -84,7 +84,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_up",
+        "model": "minecraft:custom/redstone/redstone_dust_up",
         "y": 180
       },
       "when": {
@@ -93,7 +93,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/redstone/redstone_dust_up",
+        "model": "minecraft:custom/redstone/redstone_dust_up",
         "y": 270
       },
       "when": {

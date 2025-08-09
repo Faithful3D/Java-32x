@@ -7,7 +7,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_off"
+        "model": "minecraft:custom/comparator/base_plate_off"
       }
     },
     {
@@ -16,7 +16,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_off",
+        "model": "minecraft:custom/comparator/base_plate_off",
         "y": 90
       }
     },
@@ -26,7 +26,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_off",
+        "model": "minecraft:custom/comparator/base_plate_off",
         "y": 180
       }
     },
@@ -36,7 +36,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_off",
+        "model": "minecraft:custom/comparator/base_plate_off",
         "y": 270
       }
     },
@@ -46,7 +46,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_on"
+        "model": "minecraft:custom/comparator/base_plate_on"
       }
     },
     {
@@ -55,7 +55,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_on",
+        "model": "minecraft:custom/comparator/base_plate_on",
         "y": 90
       }
     },
@@ -65,7 +65,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_on",
+        "model": "minecraft:custom/comparator/base_plate_on",
         "y": 180
       }
     },
@@ -75,7 +75,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/base_plate_on",
+        "model": "minecraft:custom/comparator/base_plate_on",
         "y": 270
       }
     },
@@ -85,7 +85,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_off"
+        "model": "minecraft:custom/comparator/torch_off"
       }
     },
     {
@@ -94,7 +94,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_off",
+        "model": "minecraft:custom/comparator/torch_off",
         "y": 90
       }
     },
@@ -104,7 +104,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_off",
+        "model": "minecraft:custom/comparator/torch_off",
         "y": 180
       }
     },
@@ -114,7 +114,7 @@
         "powered": false
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_off",
+        "model": "minecraft:custom/comparator/torch_off",
         "y": 270
       }
     },
@@ -124,7 +124,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_on"
+        "model": "minecraft:custom/comparator/torch_on"
       }
     },
     {
@@ -133,7 +133,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_on",
+        "model": "minecraft:custom/comparator/torch_on",
         "y": 90
       }
     },
@@ -143,7 +143,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_on",
+        "model": "minecraft:custom/comparator/torch_on",
         "y": 180
       }
     },
@@ -153,7 +153,7 @@
         "powered": true
       },
       "apply": {
-        "model": "block/redstone/comparator/torch_on",
+        "model": "minecraft:custom/comparator/torch_on",
         "y": 270
       }
     },
@@ -163,7 +163,7 @@
         "mode": "compare"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_off"
+        "model": "minecraft:custom/comparator/sub_torch_off"
       }
     },
     {
@@ -172,7 +172,7 @@
         "mode": "compare"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_off",
+        "model": "minecraft:custom/comparator/sub_torch_off",
         "y": 90
       }
     },
@@ -182,7 +182,7 @@
         "mode": "compare"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_off",
+        "model": "minecraft:custom/comparator/sub_torch_off",
         "y": 180
       }
     },
@@ -192,7 +192,7 @@
         "mode": "compare"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_off",
+        "model": "minecraft:custom/comparator/sub_torch_off",
         "y": 270
       }
     },
@@ -202,7 +202,7 @@
         "mode": "subtract"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_on"
+        "model": "minecraft:custom/comparator/sub_torch_on"
       }
     },
     {
@@ -211,7 +211,7 @@
         "mode": "subtract"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_on",
+        "model": "minecraft:custom/comparator/sub_torch_on",
         "y": 90
       }
     },
@@ -221,7 +221,7 @@
         "mode": "subtract"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_on",
+        "model": "minecraft:custom/comparator/sub_torch_on",
         "y": 180
       }
     },
@@ -231,7 +231,7 @@
         "mode": "subtract"
       },
       "apply": {
-        "model": "block/redstone/comparator/sub_torch_on",
+        "model": "minecraft:custom/comparator/sub_torch_on",
         "y": 270
       }
     }

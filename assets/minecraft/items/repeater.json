@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/repeater/base_plate_off"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/repeater/torch_off"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/repeater/delay/delay1_off"
+			}
+		]
+	}
+}
