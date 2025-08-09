@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/bars/iron/side",
+	"parent": "minecraft:custom/bars/post",
 	"textures": {
 		"0": "minecraft:block/weathered_copper_bars",
 		"particle": "minecraft:block/weathered_copper_bars"

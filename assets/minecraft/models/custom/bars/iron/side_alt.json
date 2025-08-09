@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:custom/bars/side_alt",
+	"textures": {
+		"0": "minecraft:block/iron_bars",
+		"particle": "minecraft:block/iron_bars"
+	}
+}

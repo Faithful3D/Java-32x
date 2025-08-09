@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench by Juknum",
-	"parent": "minecraft:block/bars/iron/side_alt",
+	"parent": "minecraft:custom/bars/side",
 	"textures": {
 		"0": "minecraft:block/exposed_copper_bars",
 		"particle": "minecraft:block/exposed_copper_bars"

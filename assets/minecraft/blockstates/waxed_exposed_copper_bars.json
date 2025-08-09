@@ -2,23 +2,23 @@
 	"comment": "Designed by Juknum",
 	"multipart": [
 		{
-			"apply": { "model": "minecraft:block/bars/exposed_copper/post" }
+			"apply": { "model": "minecraft:custom/bars/exposed_copper/post" }
 		},
 		{
 			"when":  { "north": true },
-			"apply": { "model": "minecraft:block/bars/exposed_copper/side" }
+			"apply": { "model": "minecraft:custom/bars/exposed_copper/side" }
 		},
 		{
 			"when":  { "east": true },
-			"apply": { "model": "minecraft:block/bars/exposed_copper/side", "y": 90 }
+			"apply": { "model": "minecraft:custom/bars/exposed_copper/side", "y": 90 }
 		},
 		{
 			"when":  { "south": true },
-			"apply": { "model": "minecraft:block/bars/exposed_copper/side_alt" }
+			"apply": { "model": "minecraft:custom/bars/exposed_copper/side_alt" }
 		},
 		{
 			"when":  { "west": true },
-			"apply": { "model": "minecraft:block/bars/exposed_copper/side_alt", "y": 90 }
+			"apply": { "model": "minecraft:custom/bars/exposed_copper/side_alt", "y": 90 }
 		}
 	]
 }

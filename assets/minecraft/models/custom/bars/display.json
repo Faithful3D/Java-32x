@@ -1,0 +1,37 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Juknum",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [-23, 0, 0],
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-23, 0, 0],
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [90, -90, 0],
+			"translation": [0, 6.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0]
+		}
+	}
+}

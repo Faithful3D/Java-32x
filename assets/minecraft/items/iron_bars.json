@@ -1,0 +1,32 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": ["gui"],
+				"model": {
+					"model": "minecraft:item/iron_bars",
+					"type": "minecraft:model"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:composite",
+			"models": [
+				{
+					"type": "minecraft:model",
+					"model": "minecraft:custom/bars/iron/side"
+				},
+				{
+					"type": "minecraft:model",
+					"model": "minecraft:custom/bars/iron/post"
+				},
+				{
+					"type": "minecraft:model",
+					"model": "minecraft:custom/bars/iron/side_alt"
+				}
+			]
+		}
+	}
+}
