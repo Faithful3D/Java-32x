@@ -2,18 +2,18 @@
 	"variants": {
 		"": [
 			{
-				"model": "minecraft:block/nature/lily_pad"
+				"model": "minecraft:custom/lily_pad"
 			},
 			{
-				"model": "minecraft:block/nature/lily_pad",
+				"model": "minecraft:custom/lily_pad",
 				"y": 90
 			},
 			{
-				"model": "minecraft:block/nature/lily_pad",
+				"model": "minecraft:custom/lily_pad",
 				"y": 180
 			},
 			{
-				"model": "minecraft:block/nature/lily_pad",
+				"model": "minecraft:custom/lily_pad",
 				"y": 270
 			}
 		]

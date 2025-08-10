@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:custom/pointed_dripstone/pointed_dripstone_tip"
+	}
+}
