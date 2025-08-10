@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/tools/tools_display",
+	"textures": {
+		"1": "block/heavy_core",
+		"particle": "item/mace"
+	},
+	"elements": [
+		{
+			"from": [4, 7, 4],
+			"to": [12, 15, 12],
+			"rotation": {"angle": 45, "axis": "z", "origin": [4, 7, 4]},
+			"faces": {
+				"north": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"south": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [14, 0.25, 6.5],
+			"to": [17, 3.25, 9.5],
+			"rotation": {"angle": 45, "axis": "z", "origin": [14, 0.25, 6.5]},
+			"faces": {
+				"north": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"},
+				"east": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"},
+				"south": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"},
+				"west": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"},
+				"up": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"},
+				"down": {"uv": [10.5, 2.5, 13.5, 5.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
