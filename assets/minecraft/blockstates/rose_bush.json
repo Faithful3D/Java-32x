@@ -1,10 +1,10 @@
 {
   "variants": {
     "half=lower": {
-      "model": "minecraft:block/nature/flowers/rose_bush_bottom"
+      "model": "minecraft:custom/double_flowers/rose_bush_bottom"
     },
     "half=upper": {
-      "model": "minecraft:block/nature/flowers/rose_bush_top"
+      "model": "minecraft:custom/double_flowers/rose_bush_top"
     }
   }
 }

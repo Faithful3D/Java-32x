@@ -1,10 +1,10 @@
 {
   "variants": {
     "half=lower": {
-      "model": "minecraft:block/nature/flowers/peony_bottom"
+      "model": "minecraft:custom/double_flowers/peony_bottom"
     },
     "half=upper": {
-      "model": "minecraft:block/nature/flowers/peony_top"
+      "model": "minecraft:custom/double_flowers/peony_top"
     }
   }
 }

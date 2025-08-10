@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/flowers/oxeye_daisy"
+      "model": "minecraft:custom/flowers/oxeye_daisy"
     }
   }
 }

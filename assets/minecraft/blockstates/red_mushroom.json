@@ -2,8 +2,7 @@
     "variants": {
         "": [
             {
-                "model": "block/nature/mushrooms/red_mushroom",
-                "weight": 4
+                "model": "minecraft:custom/mushrooms/brown_mushroom"
             }
         ]
     }

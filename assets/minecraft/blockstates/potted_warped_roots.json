@@ -2,12 +2,12 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/nature/flower_pot"
+        "model": "minecraft:custom/pots/flower_pot"
       }
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/grass/potted_warped_roots"
+        "model": "minecraft:custom/pots/roots/potted_warped_roots"
       }
     }
   ]

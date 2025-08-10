@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/pots/flower_pot_cross",
+	"textures": {
+		"plant": "minecraft:block/birch_sapling"
+	}
+}

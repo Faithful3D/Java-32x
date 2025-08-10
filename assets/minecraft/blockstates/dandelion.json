@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/flowers/dandelion"
+      "model": "minecraft:custom/flowers/dandelion"
     }
   }
 }

@@ -2,12 +2,12 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/nature/flower_pot"
+        "model": "minecraft:custom/pots/flower_pot"
       }
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/trees/potted_dark_oak_sapling"
+        "model": "minecraft:custom/pots/saplings/potted_dark_oak_sapling"
       }
     }
   ]

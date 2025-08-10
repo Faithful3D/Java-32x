@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/flowers/orange_tulip"
+      "model": "minecraft:custom/flowers/orange_tulip"
     }
   }
 }

@@ -2,8 +2,7 @@
     "variants": {
         "": [
             {
-                "model": "block/nature/mushrooms/warped_fungus",
-                "weight": 4
+                "model": "minecraft:custom/mushrooms/warped_fungus"
             }
         ]
     }

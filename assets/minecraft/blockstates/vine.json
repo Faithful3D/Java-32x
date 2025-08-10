@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine"
+        "model": "minecraft:custom/vines/vine"
       },
       "when": {
         "north": "true"
@@ -10,7 +10,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine"
+        "model": "minecraft:custom/vines/vine"
       },
       "when": {
         "east": "false",
@@ -22,7 +22,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 90
       },
@@ -32,7 +32,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 90
       },
@@ -46,7 +46,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 180
       },
@@ -56,7 +56,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 180
       },
@@ -70,7 +70,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 270
       },
@@ -80,7 +80,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "y": 270
       },
@@ -94,7 +94,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "x": 270
       },
@@ -104,7 +104,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/vines/vine",
+        "model": "minecraft:custom/vines/vine",
         "uvlock": false,
         "x": 270
       },

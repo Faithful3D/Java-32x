@@ -1,0 +1,8 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/flowers/orange_tulip",
+	"textures": {
+		"cross": "minecraft:custom/flowers/red_tulip",
+		"particle": "minecraft:block/red_tulip"
+	}
+}

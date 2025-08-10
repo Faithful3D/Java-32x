@@ -2,12 +2,12 @@
   "multipart": [
     {
       "apply": {
-        "model": "minecraft:block/nature/flower_pot"
+        "model": "minecraft:custom/pots/flower_pot"
       }
     },
     {
       "apply": {
-        "model": "minecraft:block/nature/bushes/azalea/potted_azalea_bush"
+        "model": "minecraft:custom/pots/bushes/potted_azalea_bush"
       }
     }
   ]

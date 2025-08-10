@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/flowers/blue_orchid"
+      "model": "minecraft:custom/flowers/blue_orchid"
     }
   }
 }
