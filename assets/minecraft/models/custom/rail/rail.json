@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "block/rail_special",
+		"2": "minecraft:custom/rails/rail_special",
 		"particle": "block/rail"
 	},
 	"elements": [

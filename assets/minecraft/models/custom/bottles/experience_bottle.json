@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "custom/bottles/glass_bottle",
+	"textures": {
+		"particle": "custom/potions/experience_bottle",
+		"potion_overlay": "custom/potions/experience_bottle"
+	}
+}

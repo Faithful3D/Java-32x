@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:custom/bottles/content/potion",
+	"textures": {
+		"texture": "minecraft:custom/potions/honey_bottle",
+		"potion_overlay": "minecraft:custom/potions/honey_bottle"
+	}
+}

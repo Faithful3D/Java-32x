@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/tools/pickaxes/wood",
+	"textures": {
+		"layer0": "item/stone_pickaxe"
+	}
+}

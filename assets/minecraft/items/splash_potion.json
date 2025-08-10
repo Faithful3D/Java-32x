@@ -1,0 +1,41 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": ["gui"],
+				"model": {
+					"model": "minecraft:item/splash_potion",
+					"type": "minecraft:model",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+				}
+			}
+		],
+		"scale": 1,
+		"fallback": {
+			"type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/bottles/content/potion",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        },
+        {
+          "type": "minecraft:model",
+          "model": "minecraft:custom/bottles/splash_bottle"
+        }
+      ]
+		}
+	}
+}

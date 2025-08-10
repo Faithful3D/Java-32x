@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"ambientocclusion": false,
+	"parent": "custom/carrots/carrot",
+	"textures": {
+		"1": "custom/crops/golden_carrot",
+		"particle": "custom/crops/golden_carrot"
+	}
+}

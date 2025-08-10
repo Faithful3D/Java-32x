@@ -2,7 +2,7 @@
 	"credit": "Designed by Progical",
 	"parent": "block/block",
 	"textures": {
-		"6": "block/lectern_books",
+		"6": "custom/books/lectern_books",
 		"particle": "block/oak_planks",
 		"bottom": "block/oak_planks",
 		"base": "block/lectern_base",

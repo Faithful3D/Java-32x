@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/rail_special",
+		"2": "minecraft:custom/rails/rail_special",
 		"particle": "block/powered_rail"
 	},
 	"elements": [

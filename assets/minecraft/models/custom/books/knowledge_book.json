@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "custom/books/book",
+	"textures": {
+		"0": "minecraft:custom/books/knowledge_book_custom",
+		"particle": "minecraft:custom/books/knowledge_book_custom"
+	}
+}

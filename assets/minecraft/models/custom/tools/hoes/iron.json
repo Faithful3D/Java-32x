@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/tools/hoes/wood",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	}
+}

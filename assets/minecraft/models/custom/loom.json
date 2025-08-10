@@ -7,7 +7,7 @@
 		"1": "block/loom_front",
 		"2": "block/loom_side",
 		"3": "block/loom_top",
-		"5": "block/loom_top_without_string",
+		"5": "custom/loom/loom_top_without_string",
 		"particle": "block/loom_side"
 	},
 	"elements": [
