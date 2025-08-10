@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/tools/shovels/wood",
+	"textures": {
+		"layer0": "item/golden_shovel"
+	}
+}

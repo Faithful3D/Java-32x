@@ -2,7 +2,7 @@
   "multipart": [
     {
       "apply": {
-        "model": "block/snow_overlay"
+        "model": "minecraft:custom/snow_overlay"
       }
     },
     {

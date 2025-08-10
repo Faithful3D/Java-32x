@@ -1,0 +1,7 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "custom/tools/axes/wood",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	}
+}

@@ -3,8 +3,8 @@
 	"credit": "Designed by Juknum",
 	"parent": "custom/tools/tools_display",
 	"textures": {
-		"layer0": "item/wooden_sword",
-		"particle": "item/wooden_sword"
+		"particle": "item/wooden_sword",
+		"layer0": "item/wooden_sword"
 	},
 	"elements": [
 		{
@@ -147,16 +147,12 @@
 		},
 		{
 			"name": "wooden_sword_12",
-			"from": [1, 14.5, 7.25],
-			"to": [1.5, 15, 8.75],
+			"from": [1, 14.5, 7.5],
+			"to": [1.5, 15, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [14.5, 1, 15, 1.5], "texture": "#layer0"},
-				"east": {"uv": [14.5, 1, 15, 1.5], "texture": "#layer0"},
-				"south": {"uv": [15, 1, 14.5, 1.5], "texture": "#layer0"},
-				"west": {"uv": [14.5, 1, 15, 1.5], "texture": "#layer0"},
-				"up": {"uv": [14.5, 1, 15, 1.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [14.5, 1, 15, 1.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [15, 1, 14.5, 1.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -217,16 +213,12 @@
 		},
 		{
 			"name": "wooden_sword_18",
-			"from": [1.5, 14, 7.25],
-			"to": [2, 14.5, 8.75],
+			"from": [1.5, 14, 7.5],
+			"to": [2, 14.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [14, 1.5, 14.5, 2], "texture": "#layer0"},
-				"east": {"uv": [14, 1.5, 14.5, 2], "texture": "#layer0"},
-				"south": {"uv": [14.5, 1.5, 14, 2], "texture": "#layer0"},
-				"west": {"uv": [14, 1.5, 14.5, 2], "texture": "#layer0"},
-				"up": {"uv": [14, 1.5, 14.5, 2], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [14, 1.5, 14.5, 2], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [14.5, 1.5, 14, 2], "texture": "#layer0"}
 			}
 		},
 		{
@@ -299,16 +291,12 @@
 		},
 		{
 			"name": "wooden_sword_25",
-			"from": [2, 13.5, 7.25],
-			"to": [2.5, 14, 8.75],
+			"from": [2, 13.5, 7.5],
+			"to": [2.5, 14, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [13.5, 2, 14, 2.5], "texture": "#layer0"},
-				"east": {"uv": [13.5, 2, 14, 2.5], "texture": "#layer0"},
-				"south": {"uv": [14, 2, 13.5, 2.5], "texture": "#layer0"},
-				"west": {"uv": [13.5, 2, 14, 2.5], "texture": "#layer0"},
-				"up": {"uv": [13.5, 2, 14, 2.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [13.5, 2, 14, 2.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [14, 2, 13.5, 2.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -381,16 +369,12 @@
 		},
 		{
 			"name": "wooden_sword_32",
-			"from": [2.5, 13, 7.25],
-			"to": [3, 13.5, 8.75],
+			"from": [2.5, 13, 7.5],
+			"to": [3, 13.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [13, 2.5, 13.5, 3], "texture": "#layer0"},
-				"east": {"uv": [13, 2.5, 13.5, 3], "texture": "#layer0"},
-				"south": {"uv": [13.5, 2.5, 13, 3], "texture": "#layer0"},
-				"west": {"uv": [13, 2.5, 13.5, 3], "texture": "#layer0"},
-				"up": {"uv": [13, 2.5, 13.5, 3], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [13, 2.5, 13.5, 3], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [13.5, 2.5, 13, 3], "texture": "#layer0"}
 			}
 		},
 		{
@@ -463,16 +447,12 @@
 		},
 		{
 			"name": "wooden_sword_39",
-			"from": [3, 12.5, 7.25],
-			"to": [3.5, 13, 8.75],
+			"from": [3, 12.5, 7.5],
+			"to": [3.5, 13, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [12.5, 3, 13, 3.5], "texture": "#layer0"},
-				"east": {"uv": [12.5, 3, 13, 3.5], "texture": "#layer0"},
-				"south": {"uv": [13, 3, 12.5, 3.5], "texture": "#layer0"},
-				"west": {"uv": [12.5, 3, 13, 3.5], "texture": "#layer0"},
-				"up": {"uv": [12.5, 3, 13, 3.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [12.5, 3, 13, 3.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [13, 3, 12.5, 3.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -545,16 +525,12 @@
 		},
 		{
 			"name": "wooden_sword_46",
-			"from": [3.5, 12, 7.25],
-			"to": [4, 12.5, 8.75],
+			"from": [3.5, 12, 7.5],
+			"to": [4, 12.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [12, 3.5, 12.5, 4], "texture": "#layer0"},
-				"east": {"uv": [12, 3.5, 12.5, 4], "texture": "#layer0"},
-				"south": {"uv": [12.5, 3.5, 12, 4], "texture": "#layer0"},
-				"west": {"uv": [12, 3.5, 12.5, 4], "texture": "#layer0"},
-				"up": {"uv": [12, 3.5, 12.5, 4], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [12, 3.5, 12.5, 4], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [12.5, 3.5, 12, 4], "texture": "#layer0"}
 			}
 		},
 		{
@@ -627,16 +603,12 @@
 		},
 		{
 			"name": "wooden_sword_53",
-			"from": [4, 11.5, 7.25],
-			"to": [4.5, 12, 8.75],
+			"from": [4, 11.5, 7.5],
+			"to": [4.5, 12, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [11.5, 4, 12, 4.5], "texture": "#layer0"},
-				"east": {"uv": [11.5, 4, 12, 4.5], "texture": "#layer0"},
-				"south": {"uv": [12, 4, 11.5, 4.5], "texture": "#layer0"},
-				"west": {"uv": [11.5, 4, 12, 4.5], "texture": "#layer0"},
-				"up": {"uv": [11.5, 4, 12, 4.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [11.5, 4, 12, 4.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [12, 4, 11.5, 4.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -709,16 +681,12 @@
 		},
 		{
 			"name": "wooden_sword_60",
-			"from": [4.5, 11, 7.25],
-			"to": [5, 11.5, 8.75],
+			"from": [4.5, 11, 7.5],
+			"to": [5, 11.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [11, 4.5, 11.5, 5], "texture": "#layer0"},
-				"east": {"uv": [11, 4.5, 11.5, 5], "texture": "#layer0"},
-				"south": {"uv": [11.5, 4.5, 11, 5], "texture": "#layer0"},
-				"west": {"uv": [11, 4.5, 11.5, 5], "texture": "#layer0"},
-				"up": {"uv": [11, 4.5, 11.5, 5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [11, 4.5, 11.5, 5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [11.5, 4.5, 11, 5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -791,16 +759,12 @@
 		},
 		{
 			"name": "wooden_sword_67",
-			"from": [5, 10.5, 7.25],
-			"to": [5.5, 11, 8.75],
+			"from": [5, 10.5, 7.5],
+			"to": [5.5, 11, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 5, 11, 5.5], "texture": "#layer0"},
-				"east": {"uv": [10.5, 5, 11, 5.5], "texture": "#layer0"},
-				"south": {"uv": [11, 5, 10.5, 5.5], "texture": "#layer0"},
-				"west": {"uv": [10.5, 5, 11, 5.5], "texture": "#layer0"},
-				"up": {"uv": [10.5, 5, 11, 5.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [10.5, 5, 11, 5.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [11, 5, 10.5, 5.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -873,16 +837,12 @@
 		},
 		{
 			"name": "wooden_sword_74",
-			"from": [5.5, 10, 7.25],
-			"to": [6, 10.5, 8.75],
+			"from": [5.5, 10, 7.5],
+			"to": [6, 10.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [10, 5.5, 10.5, 6], "texture": "#layer0"},
-				"east": {"uv": [10, 5.5, 10.5, 6], "texture": "#layer0"},
-				"south": {"uv": [10.5, 5.5, 10, 6], "texture": "#layer0"},
-				"west": {"uv": [10, 5.5, 10.5, 6], "texture": "#layer0"},
-				"up": {"uv": [10, 5.5, 10.5, 6], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [10, 5.5, 10.5, 6], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [10.5, 5.5, 10, 6], "texture": "#layer0"}
 			}
 		},
 		{
@@ -955,16 +915,12 @@
 		},
 		{
 			"name": "wooden_sword_81",
-			"from": [6, 9.5, 7.25],
-			"to": [6.5, 10, 8.75],
+			"from": [6, 9.5, 7.5],
+			"to": [6.5, 10, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9.5, 6, 10, 6.5], "texture": "#layer0"},
-				"east": {"uv": [9.5, 6, 10, 6.5], "texture": "#layer0"},
-				"south": {"uv": [10, 6, 9.5, 6.5], "texture": "#layer0"},
-				"west": {"uv": [9.5, 6, 10, 6.5], "texture": "#layer0"},
-				"up": {"uv": [9.5, 6, 10, 6.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [9.5, 6, 10, 6.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [10, 6, 9.5, 6.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1037,16 +993,12 @@
 		},
 		{
 			"name": "wooden_sword_88",
-			"from": [6.5, 9, 7.25],
-			"to": [7, 9.5, 8.75],
+			"from": [6.5, 9, 7.5],
+			"to": [7, 9.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [9, 6.5, 9.5, 7], "texture": "#layer0"},
-				"east": {"uv": [9, 6.5, 9.5, 7], "texture": "#layer0"},
-				"south": {"uv": [9.5, 6.5, 9, 7], "texture": "#layer0"},
-				"west": {"uv": [9, 6.5, 9.5, 7], "texture": "#layer0"},
-				"up": {"uv": [9, 6.5, 9.5, 7], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [9, 6.5, 9.5, 7], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [9.5, 6.5, 9, 7], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1085,8 +1037,8 @@
 		},
 		{
 			"name": "wooden_sword_92",
-			"from": [13.5, 8.5, 7.25],
-			"to": [14, 9, 8.75],
+			"from": [13.5, 8.5, 7.5],
+			"to": [14, 9, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2, 7, 2.5, 7.5], "texture": "#layer0"},
@@ -1097,27 +1049,25 @@
 		},
 		{
 			"name": "wooden_sword_93",
-			"from": [13, 8.5, 7.25],
-			"to": [13.5, 9, 8.75],
+			"from": [13, 8.5, 7.5],
+			"to": [13.5, 9, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 7, 3, 7.5], "texture": "#layer0"},
 				"south": {"uv": [3, 7, 2.5, 7.5], "texture": "#layer0"},
-				"up": {"uv": [2.5, 7, 3, 7.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [2.5, 7, 3, 7.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [2.5, 7, 3, 7.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_94",
-			"from": [12.5, 8.5, 7.25],
-			"to": [13, 9, 8.75],
+			"from": [12.5, 8.5, 7.5],
+			"to": [13, 9, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3, 7, 3.5, 7.5], "texture": "#layer0"},
 				"south": {"uv": [3.5, 7, 3, 7.5], "texture": "#layer0"},
 				"west": {"uv": [3, 7, 3.5, 7.5], "texture": "#layer0"},
-				"up": {"uv": [3, 7, 3.5, 7.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [3, 7, 3.5, 7.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [3, 7, 3.5, 7.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -1156,16 +1106,12 @@
 		},
 		{
 			"name": "wooden_sword_98",
-			"from": [7, 8.5, 7.25],
-			"to": [7.5, 9, 8.75],
+			"from": [7, 8.5, 7.5],
+			"to": [7.5, 9, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 7, 9, 7.5], "texture": "#layer0"},
-				"east": {"uv": [8.5, 7, 9, 7.5], "texture": "#layer0"},
-				"south": {"uv": [9, 7, 8.5, 7.5], "texture": "#layer0"},
-				"west": {"uv": [8.5, 7, 9, 7.5], "texture": "#layer0"},
-				"up": {"uv": [8.5, 7, 9, 7.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [8.5, 7, 9, 7.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [9, 7, 8.5, 7.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1204,14 +1150,13 @@
 		},
 		{
 			"name": "wooden_sword_102",
-			"from": [13.5, 8, 7.25],
-			"to": [14, 8.5, 8.75],
+			"from": [13.5, 8, 7.5],
+			"to": [14, 8.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2, 7.5, 2.5, 8], "texture": "#layer0"},
 				"east": {"uv": [2, 7.5, 2.5, 8], "texture": "#layer0"},
-				"south": {"uv": [2.5, 7.5, 2, 8], "texture": "#layer0"},
-				"west": {"uv": [2, 7.5, 2.5, 8], "texture": "#layer0"}
+				"south": {"uv": [2.5, 7.5, 2, 8], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1236,16 +1181,14 @@
 		},
 		{
 			"name": "wooden_sword_105",
-			"from": [12, 8, 7.25],
-			"to": [12.5, 8.5, 8.75],
+			"from": [12, 8, 7.5],
+			"to": [12.5, 8.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 7.5, 4, 8], "texture": "#layer0"},
-				"east": {"uv": [3.5, 7.5, 4, 8], "texture": "#layer0"},
 				"south": {"uv": [4, 7.5, 3.5, 8], "texture": "#layer0"},
 				"west": {"uv": [3.5, 7.5, 4, 8], "texture": "#layer0"},
-				"up": {"uv": [3.5, 7.5, 4, 8], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [3.5, 7.5, 4, 8], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [3.5, 7.5, 4, 8], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -1284,16 +1227,12 @@
 		},
 		{
 			"name": "wooden_sword_109",
-			"from": [7.5, 8, 7.25],
-			"to": [8, 8.5, 8.75],
+			"from": [7.5, 8, 7.5],
+			"to": [8, 8.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8, 7.5, 8.5, 8], "texture": "#layer0"},
-				"east": {"uv": [8, 7.5, 8.5, 8], "texture": "#layer0"},
-				"south": {"uv": [8.5, 7.5, 8, 8], "texture": "#layer0"},
-				"west": {"uv": [8, 7.5, 8.5, 8], "texture": "#layer0"},
-				"up": {"uv": [8, 7.5, 8.5, 8], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [8, 7.5, 8.5, 8], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [8.5, 7.5, 8, 8], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1332,14 +1271,13 @@
 		},
 		{
 			"name": "wooden_sword_113",
-			"from": [13.5, 7.5, 7.25],
-			"to": [14, 8, 8.75],
+			"from": [13.5, 7.5, 7.5],
+			"to": [14, 8, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2, 8, 2.5, 8.5], "texture": "#layer0"},
 				"east": {"uv": [2, 8, 2.5, 8.5], "texture": "#layer0"},
 				"south": {"uv": [2.5, 8, 2, 8.5], "texture": "#layer0"},
-				"west": {"uv": [2, 8, 2.5, 8.5], "texture": "#layer0"},
 				"down": {"uv": [2, 8, 2.5, 8.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -1375,16 +1313,14 @@
 		},
 		{
 			"name": "wooden_sword_117",
-			"from": [11.5, 7.5, 7.25],
-			"to": [12, 8, 8.75],
+			"from": [11.5, 7.5, 7.5],
+			"to": [12, 8, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4, 8, 4.5, 8.5], "texture": "#layer0"},
-				"east": {"uv": [4, 8, 4.5, 8.5], "texture": "#layer0"},
 				"south": {"uv": [4.5, 8, 4, 8.5], "texture": "#layer0"},
 				"west": {"uv": [4, 8, 4.5, 8.5], "texture": "#layer0"},
-				"up": {"uv": [4, 8, 4.5, 8.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [4, 8, 4.5, 8.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [4, 8, 4.5, 8.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -1423,16 +1359,12 @@
 		},
 		{
 			"name": "wooden_sword_121",
-			"from": [8, 7.5, 7.25],
-			"to": [8.5, 8, 8.75],
+			"from": [8, 7.5, 7.5],
+			"to": [8.5, 8, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 8, 8, 8.5], "texture": "#layer0"},
-				"east": {"uv": [7.5, 8, 8, 8.5], "texture": "#layer0"},
-				"south": {"uv": [8, 8, 7.5, 8.5], "texture": "#layer0"},
-				"west": {"uv": [7.5, 8, 8, 8.5], "texture": "#layer0"},
-				"up": {"uv": [7.5, 8, 8, 8.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [7.5, 8, 8, 8.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [8, 8, 7.5, 8.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1471,15 +1403,13 @@
 		},
 		{
 			"name": "wooden_sword_125",
-			"from": [13, 7, 7.25],
-			"to": [13.5, 7.5, 8.75],
+			"from": [13, 7, 7.5],
+			"to": [13.5, 7.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2.5, 8.5, 3, 9], "texture": "#layer0"},
 				"east": {"uv": [2.5, 8.5, 3, 9], "texture": "#layer0"},
 				"south": {"uv": [3, 8.5, 2.5, 9], "texture": "#layer0"},
-				"west": {"uv": [2.5, 8.5, 3, 9], "texture": "#layer0"},
-				"up": {"uv": [2.5, 8.5, 3, 9], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [2.5, 8.5, 3, 9], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -1515,16 +1445,14 @@
 		},
 		{
 			"name": "wooden_sword_129",
-			"from": [11, 7, 7.25],
-			"to": [11.5, 7.5, 8.75],
+			"from": [11, 7, 7.5],
+			"to": [11.5, 7.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 8.5, 5, 9], "texture": "#layer0"},
-				"east": {"uv": [4.5, 8.5, 5, 9], "texture": "#layer0"},
 				"south": {"uv": [5, 8.5, 4.5, 9], "texture": "#layer0"},
 				"west": {"uv": [4.5, 8.5, 5, 9], "texture": "#layer0"},
-				"up": {"uv": [4.5, 8.5, 5, 9], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [4.5, 8.5, 5, 9], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [4.5, 8.5, 5, 9], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -1563,16 +1491,12 @@
 		},
 		{
 			"name": "wooden_sword_133",
-			"from": [8.5, 7, 7.25],
-			"to": [9, 7.5, 8.75],
+			"from": [8.5, 7, 7.5],
+			"to": [9, 7.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7, 8.5, 7.5, 9], "texture": "#layer0"},
-				"east": {"uv": [7, 8.5, 7.5, 9], "texture": "#layer0"},
-				"south": {"uv": [7.5, 8.5, 7, 9], "texture": "#layer0"},
-				"west": {"uv": [7, 8.5, 7.5, 9], "texture": "#layer0"},
-				"up": {"uv": [7, 8.5, 7.5, 9], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [7, 8.5, 7.5, 9], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [7.5, 8.5, 7, 9], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1611,15 +1535,13 @@
 		},
 		{
 			"name": "wooden_sword_137",
-			"from": [12.5, 6.5, 7.25],
-			"to": [13, 7, 8.75],
+			"from": [12.5, 6.5, 7.5],
+			"to": [13, 7, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3, 9, 3.5, 9.5], "texture": "#layer0"},
 				"east": {"uv": [3, 9, 3.5, 9.5], "texture": "#layer0"},
-				"south": {"uv": [3.5, 9, 3, 9.5], "texture": "#layer0"},
-				"west": {"uv": [3, 9, 3.5, 9.5], "texture": "#layer0"},
-				"up": {"uv": [3, 9, 3.5, 9.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [3.5, 9, 3, 9.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1654,16 +1576,13 @@
 		},
 		{
 			"name": "wooden_sword_141",
-			"from": [10.5, 6.5, 7.25],
-			"to": [11, 7, 8.75],
+			"from": [10.5, 6.5, 7.5],
+			"to": [11, 7, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [5, 9, 5.5, 9.5], "texture": "#layer0"},
-				"east": {"uv": [5, 9, 5.5, 9.5], "texture": "#layer0"},
 				"south": {"uv": [5.5, 9, 5, 9.5], "texture": "#layer0"},
-				"west": {"uv": [5, 9, 5.5, 9.5], "texture": "#layer0"},
-				"up": {"uv": [5, 9, 5.5, 9.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [5, 9, 5.5, 9.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [5, 9, 5.5, 9.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -1689,16 +1608,12 @@
 		},
 		{
 			"name": "wooden_sword_144",
-			"from": [9, 6.5, 7.25],
-			"to": [9.5, 7, 8.75],
+			"from": [9, 6.5, 7.5],
+			"to": [9.5, 7, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 9, 7, 9.5], "texture": "#layer0"},
-				"east": {"uv": [6.5, 9, 7, 9.5], "texture": "#layer0"},
-				"south": {"uv": [7, 9, 6.5, 9.5], "texture": "#layer0"},
-				"west": {"uv": [6.5, 9, 7, 9.5], "texture": "#layer0"},
-				"up": {"uv": [6.5, 9, 7, 9.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [6.5, 9, 7, 9.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [7, 9, 6.5, 9.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1737,14 +1652,13 @@
 		},
 		{
 			"name": "wooden_sword_148",
-			"from": [12.5, 6, 7.25],
-			"to": [13, 6.5, 8.75],
+			"from": [12.5, 6, 7.5],
+			"to": [13, 6.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3, 9.5, 3.5, 10], "texture": "#layer0"},
 				"east": {"uv": [3, 9.5, 3.5, 10], "texture": "#layer0"},
-				"south": {"uv": [3.5, 9.5, 3, 10], "texture": "#layer0"},
-				"west": {"uv": [3, 9.5, 3.5, 10], "texture": "#layer0"}
+				"south": {"uv": [3.5, 9.5, 3, 10], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1789,27 +1703,22 @@
 		},
 		{
 			"name": "wooden_sword_153",
-			"from": [10, 6, 7.25],
-			"to": [10.5, 6.5, 8.75],
+			"from": [10, 6, 7.5],
+			"to": [10.5, 6.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [5.5, 9.5, 6, 10], "texture": "#layer0"},
-				"east": {"uv": [5.5, 9.5, 6, 10], "texture": "#layer0"},
-				"south": {"uv": [6, 9.5, 5.5, 10], "texture": "#layer0"},
-				"up": {"uv": [5.5, 9.5, 6, 10], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [5.5, 9.5, 6, 10], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [6, 9.5, 5.5, 10], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_154",
-			"from": [9.5, 6, 7.25],
-			"to": [10, 6.5, 8.75],
+			"from": [9.5, 6, 7.5],
+			"to": [10, 6.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6, 9.5, 6.5, 10], "texture": "#layer0"},
-				"south": {"uv": [6.5, 9.5, 6, 10], "texture": "#layer0"},
-				"west": {"uv": [6, 9.5, 6.5, 10], "texture": "#layer0"},
-				"up": {"uv": [6, 9.5, 6.5, 10], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [6.5, 9.5, 6, 10], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1848,14 +1757,13 @@
 		},
 		{
 			"name": "wooden_sword_158",
-			"from": [12.5, 5.5, 7.25],
-			"to": [13, 6, 8.75],
+			"from": [12.5, 5.5, 7.5],
+			"to": [13, 6, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3, 10, 3.5, 10.5], "texture": "#layer0"},
 				"east": {"uv": [3, 10, 3.5, 10.5], "texture": "#layer0"},
 				"south": {"uv": [3.5, 10, 3, 10.5], "texture": "#layer0"},
-				"west": {"uv": [3, 10, 3.5, 10.5], "texture": "#layer0"},
 				"down": {"uv": [3, 10, 3.5, 10.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -1911,15 +1819,12 @@
 		},
 		{
 			"name": "wooden_sword_164",
-			"from": [9.5, 5.5, 7.25],
-			"to": [10, 6, 8.75],
+			"from": [9.5, 5.5, 7.5],
+			"to": [10, 6, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6, 10, 6.5, 10.5], "texture": "#layer0"},
-				"east": {"uv": [6, 10, 6.5, 10.5], "texture": "#layer0"},
-				"south": {"uv": [6.5, 10, 6, 10.5], "texture": "#layer0"},
-				"west": {"uv": [6, 10, 6.5, 10.5], "texture": "#layer0"},
-				"down": {"uv": [6, 10, 6.5, 10.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [6.5, 10, 6, 10.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -1947,15 +1852,13 @@
 		},
 		{
 			"name": "wooden_sword_167",
-			"from": [12, 5, 7.25],
-			"to": [12.5, 5.5, 8.75],
+			"from": [12, 5, 7.5],
+			"to": [12.5, 5.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 10.5, 4, 11], "texture": "#layer0"},
 				"east": {"uv": [3.5, 10.5, 4, 11], "texture": "#layer0"},
 				"south": {"uv": [4, 10.5, 3.5, 11], "texture": "#layer0"},
-				"west": {"uv": [3.5, 10.5, 4, 11], "texture": "#layer0"},
-				"up": {"uv": [3.5, 10.5, 4, 11], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [3.5, 10.5, 4, 11], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -2011,16 +1914,13 @@
 		},
 		{
 			"name": "wooden_sword_173",
-			"from": [9, 5, 7.25],
-			"to": [9.5, 5.5, 8.75],
+			"from": [9, 5, 7.5],
+			"to": [9.5, 5.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 10.5, 7, 11], "texture": "#layer0"},
-				"east": {"uv": [6.5, 10.5, 7, 11], "texture": "#layer0"},
 				"south": {"uv": [7, 10.5, 6.5, 11], "texture": "#layer0"},
-				"west": {"uv": [6.5, 10.5, 7, 11], "texture": "#layer0"},
-				"up": {"uv": [6.5, 10.5, 7, 11], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [6.5, 10.5, 7, 11], "rotation": 180, "texture": "#layer0"}
+				"west": {"uv": [6.5, 10.5, 7, 11], "texture": "#layer0"}
 			}
 		},
 		{
@@ -2036,16 +1936,13 @@
 		},
 		{
 			"name": "wooden_sword_175",
-			"from": [11.5, 4.5, 7.25],
-			"to": [12, 5, 8.75],
+			"from": [11.5, 4.5, 7.5],
+			"to": [12, 5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4, 11, 4.5, 11.5], "texture": "#layer0"},
 				"east": {"uv": [4, 11, 4.5, 11.5], "texture": "#layer0"},
-				"south": {"uv": [4.5, 11, 4, 11.5], "texture": "#layer0"},
-				"west": {"uv": [4, 11, 4.5, 11.5], "texture": "#layer0"},
-				"up": {"uv": [4, 11, 4.5, 11.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [4, 11, 4.5, 11.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [4.5, 11, 4, 11.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -2100,16 +1997,14 @@
 		},
 		{
 			"name": "wooden_sword_181",
-			"from": [8.5, 4.5, 7.25],
-			"to": [9, 5, 8.75],
+			"from": [8.5, 4.5, 7.5],
+			"to": [9, 5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7, 11, 7.5, 11.5], "texture": "#layer0"},
-				"east": {"uv": [7, 11, 7.5, 11.5], "texture": "#layer0"},
 				"south": {"uv": [7.5, 11, 7, 11.5], "texture": "#layer0"},
 				"west": {"uv": [7, 11, 7.5, 11.5], "texture": "#layer0"},
-				"up": {"uv": [7, 11, 7.5, 11.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [7, 11, 7.5, 11.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [7, 11, 7.5, 11.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -2148,15 +2043,12 @@
 		},
 		{
 			"name": "wooden_sword_185",
-			"from": [11, 4, 7.25],
-			"to": [11.5, 4.5, 8.75],
+			"from": [11, 4, 7.5],
+			"to": [11.5, 4.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 11.5, 5, 12], "texture": "#layer0"},
-				"east": {"uv": [4.5, 11.5, 5, 12], "texture": "#layer0"},
 				"south": {"uv": [5, 11.5, 4.5, 12], "texture": "#layer0"},
-				"west": {"uv": [4.5, 11.5, 5, 12], "texture": "#layer0"},
-				"up": {"uv": [4.5, 11.5, 5, 12], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [4.5, 11.5, 5, 12], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -2212,16 +2104,14 @@
 		},
 		{
 			"name": "wooden_sword_191",
-			"from": [8, 4, 7.25],
-			"to": [8.5, 4.5, 8.75],
+			"from": [8, 4, 7.5],
+			"to": [8.5, 4.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 11.5, 8, 12], "texture": "#layer0"},
-				"east": {"uv": [7.5, 11.5, 8, 12], "texture": "#layer0"},
 				"south": {"uv": [8, 11.5, 7.5, 12], "texture": "#layer0"},
 				"west": {"uv": [7.5, 11.5, 8, 12], "texture": "#layer0"},
-				"up": {"uv": [7.5, 11.5, 8, 12], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [7.5, 11.5, 8, 12], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [7.5, 11.5, 8, 12], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -2283,15 +2173,13 @@
 		},
 		{
 			"name": "wooden_sword_197",
-			"from": [10.5, 3.5, 7.25],
-			"to": [11, 4, 8.75],
+			"from": [10.5, 3.5, 7.5],
+			"to": [11, 4, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [5, 12, 5.5, 12.5], "texture": "#layer0"},
 				"east": {"uv": [5, 12, 5.5, 12.5], "texture": "#layer0"},
 				"south": {"uv": [5.5, 12, 5, 12.5], "texture": "#layer0"},
-				"west": {"uv": [5, 12, 5.5, 12.5], "texture": "#layer0"},
-				"up": {"uv": [5, 12, 5.5, 12.5], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [5, 12, 5.5, 12.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -2347,16 +2235,14 @@
 		},
 		{
 			"name": "wooden_sword_203",
-			"from": [7.5, 3.5, 7.25],
-			"to": [8, 4, 8.75],
+			"from": [7.5, 3.5, 7.5],
+			"to": [8, 4, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8, 12, 8.5, 12.5], "texture": "#layer0"},
-				"east": {"uv": [8, 12, 8.5, 12.5], "texture": "#layer0"},
 				"south": {"uv": [8.5, 12, 8, 12.5], "texture": "#layer0"},
 				"west": {"uv": [8, 12, 8.5, 12.5], "texture": "#layer0"},
-				"up": {"uv": [8, 12, 8.5, 12.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [8, 12, 8.5, 12.5], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [8, 12, 8.5, 12.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -2419,39 +2305,35 @@
 		},
 		{
 			"name": "wooden_sword_209",
-			"from": [10, 3, 7.25],
-			"to": [10.5, 3.5, 8.75],
+			"from": [10, 3, 7.5],
+			"to": [10.5, 3.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [5.5, 12.5, 6, 13], "texture": "#layer0"},
 				"east": {"uv": [5.5, 12.5, 6, 13], "texture": "#layer0"},
 				"south": {"uv": [6, 12.5, 5.5, 13], "texture": "#layer0"},
-				"up": {"uv": [5.5, 12.5, 6, 13], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [5.5, 12.5, 6, 13], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_210",
-			"from": [9.5, 3, 7.25],
-			"to": [10, 3.5, 8.75],
+			"from": [9.5, 3, 7.5],
+			"to": [10, 3.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6, 12.5, 6.5, 13], "texture": "#layer0"},
 				"south": {"uv": [6.5, 12.5, 6, 13], "texture": "#layer0"},
-				"up": {"uv": [6, 12.5, 6.5, 13], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [6, 12.5, 6.5, 13], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_211",
-			"from": [9, 3, 7.25],
-			"to": [9.5, 3.5, 8.75],
+			"from": [9, 3, 7.5],
+			"to": [9.5, 3.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [6.5, 12.5, 7, 13], "texture": "#layer0"},
 				"south": {"uv": [7, 12.5, 6.5, 13], "texture": "#layer0"},
-				"west": {"uv": [6.5, 12.5, 7, 13], "texture": "#layer0"},
-				"up": {"uv": [6.5, 12.5, 7, 13], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [6.5, 12.5, 7, 13], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -2487,12 +2369,11 @@
 		},
 		{
 			"name": "wooden_sword_215",
-			"from": [7, 3, 7.25],
-			"to": [7.5, 3.5, 8.75],
+			"from": [7, 3, 7.5],
+			"to": [7.5, 3.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 12.5, 9, 13], "texture": "#layer0"},
-				"east": {"uv": [8.5, 12.5, 9, 13], "texture": "#layer0"},
 				"south": {"uv": [9, 12.5, 8.5, 13], "texture": "#layer0"},
 				"west": {"uv": [8.5, 12.5, 9, 13], "texture": "#layer0"},
 				"up": {"uv": [8.5, 12.5, 9, 13], "rotation": 180, "texture": "#layer0"}
@@ -2558,15 +2439,13 @@
 		},
 		{
 			"name": "wooden_sword_221",
-			"from": [8.5, 2.5, 7.25],
-			"to": [9, 3, 8.75],
+			"from": [8.5, 2.5, 7.5],
+			"to": [9, 3, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7, 13, 7.5, 13.5], "texture": "#layer0"},
 				"east": {"uv": [7, 13, 7.5, 13.5], "texture": "#layer0"},
 				"south": {"uv": [7.5, 13, 7, 13.5], "texture": "#layer0"},
-				"west": {"uv": [7, 13, 7.5, 13.5], "texture": "#layer0"},
-				"up": {"uv": [7, 13, 7.5, 13.5], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [7, 13, 7.5, 13.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
@@ -2592,40 +2471,36 @@
 		},
 		{
 			"name": "wooden_sword_224",
-			"from": [7, 2.5, 7.25],
-			"to": [7.5, 3, 8.75],
+			"from": [7, 2.5, 7.5],
+			"to": [7.5, 3, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 13, 9, 13.5], "texture": "#layer0"},
-				"east": {"uv": [8.5, 13, 9, 13.5], "texture": "#layer0"},
 				"south": {"uv": [9, 13, 8.5, 13.5], "texture": "#layer0"},
 				"west": {"uv": [8.5, 13, 9, 13.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_225",
-			"from": [15, 2, 7.25],
-			"to": [15.5, 2.5, 8.75],
+			"from": [15, 2, 7.5],
+			"to": [15.5, 2.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [0.5, 13.5, 1, 14], "texture": "#layer0"},
 				"east": {"uv": [0.5, 13.5, 1, 14], "texture": "#layer0"},
 				"south": {"uv": [1, 13.5, 0.5, 14], "texture": "#layer0"},
-				"up": {"uv": [0.5, 13.5, 1, 14], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [0.5, 13.5, 1, 14], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [0.5, 13.5, 1, 14], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_226",
-			"from": [14.5, 2, 7.25],
-			"to": [15, 2.5, 8.75],
+			"from": [14.5, 2, 7.5],
+			"to": [15, 2.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [1, 13.5, 1.5, 14], "texture": "#layer0"},
 				"south": {"uv": [1.5, 13.5, 1, 14], "texture": "#layer0"},
-				"west": {"uv": [1, 13.5, 1.5, 14], "texture": "#layer0"},
-				"up": {"uv": [1, 13.5, 1.5, 14], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [1, 13.5, 1.5, 14], "rotation": 180, "texture": "#layer0"}
+				"up": {"uv": [1, 13.5, 1.5, 14], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
@@ -2675,33 +2550,31 @@
 		},
 		{
 			"name": "wooden_sword_231",
-			"from": [8, 2, 7.25],
-			"to": [8.5, 2.5, 8.75],
+			"from": [8, 2, 7.5],
+			"to": [8.5, 2.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [7.5, 13.5, 8, 14], "texture": "#layer0"},
 				"east": {"uv": [7.5, 13.5, 8, 14], "texture": "#layer0"},
 				"south": {"uv": [8, 13.5, 7.5, 14], "texture": "#layer0"},
-				"up": {"uv": [7.5, 13.5, 8, 14], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [7.5, 13.5, 8, 14], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_232",
-			"from": [7.5, 2, 7.25],
-			"to": [8, 2.5, 8.75],
+			"from": [7.5, 2, 7.5],
+			"to": [8, 2.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8, 13.5, 8.5, 14], "texture": "#layer0"},
 				"south": {"uv": [8.5, 13.5, 8, 14], "texture": "#layer0"},
-				"up": {"uv": [8, 13.5, 8.5, 14], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [8, 13.5, 8.5, 14], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_233",
-			"from": [7, 2, 7.25],
-			"to": [7.5, 2.5, 8.75],
+			"from": [7, 2, 7.5],
+			"to": [7.5, 2.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 13.5, 9, 14], "texture": "#layer0"},
@@ -2712,49 +2585,48 @@
 		},
 		{
 			"name": "wooden_sword_234",
-			"from": [15.5, 1.5, 7.25],
-			"to": [16, 2, 8.75],
+			"from": [15.5, 1.5, 7.5],
+			"to": [16, 2, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 14, 0.5, 14.5], "texture": "#layer0"},
 				"east": {"uv": [0, 14, 0.5, 14.5], "texture": "#layer0"},
 				"south": {"uv": [0.5, 14, 0, 14.5], "texture": "#layer0"},
-				"west": {"uv": [0, 14, 0.5, 14.5], "texture": "#layer0"},
 				"up": {"uv": [0, 14, 0.5, 14.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_235",
-			"from": [15, 1.5, 7.5],
-			"to": [15.5, 2, 8.5],
+			"from": [15, 1.5, 7.25],
+			"to": [15.5, 2, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [0.5, 14, 1, 14.5], "texture": "#layer0"},
-				"south": {"uv": [1, 14, 0.5, 14.5], "texture": "#layer0"}
+				"east": {"uv": [0.5, 14, 1, 14.5], "texture": "#layer0"},
+				"south": {"uv": [1, 14, 0.5, 14.5], "texture": "#layer0"},
+				"up": {"uv": [0.5, 14, 1, 14.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_236",
-			"from": [14.5, 1.5, 7.5],
-			"to": [15, 2, 8.5],
+			"from": [14.5, 1.5, 7.25],
+			"to": [15, 2, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1, 14, 1.5, 14.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 14, 1, 14.5], "texture": "#layer0"}
+				"south": {"uv": [1.5, 14, 1, 14.5], "texture": "#layer0"},
+				"west": {"uv": [1, 14, 1.5, 14.5], "texture": "#layer0"},
+				"up": {"uv": [1, 14, 1.5, 14.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_237",
-			"from": [14, 1.5, 7.25],
-			"to": [14.5, 2, 8.75],
+			"from": [14, 1.5, 7.5],
+			"to": [14.5, 2, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [1.5, 14, 2, 14.5], "texture": "#layer0"},
-				"east": {"uv": [1.5, 14, 2, 14.5], "texture": "#layer0"},
-				"south": {"uv": [2, 14, 1.5, 14.5], "texture": "#layer0"},
-				"west": {"uv": [1.5, 14, 2, 14.5], "texture": "#layer0"},
-				"up": {"uv": [1.5, 14, 2, 14.5], "rotation": 180, "texture": "#layer0"},
-				"down": {"uv": [1.5, 14, 2, 14.5], "rotation": 180, "texture": "#layer0"}
+				"south": {"uv": [2, 14, 1.5, 14.5], "texture": "#layer0"}
 			}
 		},
 		{
@@ -2782,30 +2654,30 @@
 		},
 		{
 			"name": "wooden_sword_240",
-			"from": [15.5, 1, 7.25],
-			"to": [16, 1.5, 8.75],
+			"from": [15.5, 1, 7.5],
+			"to": [16, 1.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 14.5, 0.5, 15], "texture": "#layer0"},
 				"east": {"uv": [0, 14.5, 0.5, 15], "texture": "#layer0"},
-				"south": {"uv": [0.5, 14.5, 0, 15], "texture": "#layer0"},
-				"west": {"uv": [0, 14.5, 0.5, 15], "texture": "#layer0"}
+				"south": {"uv": [0.5, 14.5, 0, 15], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_241",
-			"from": [15, 1, 7.5],
-			"to": [15.5, 1.5, 8.5],
+			"from": [15, 1, 7.25],
+			"to": [15.5, 1.5, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [0.5, 14.5, 1, 15], "texture": "#layer0"},
+				"east": {"uv": [0.5, 14.5, 1, 15], "texture": "#layer0"},
 				"south": {"uv": [1, 14.5, 0.5, 15], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_242",
-			"from": [14.5, 1, 7.5],
-			"to": [15, 1.5, 8.5],
+			"from": [14.5, 1, 7.25],
+			"to": [15, 1.5, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1, 14.5, 1.5, 15], "texture": "#layer0"},
@@ -2814,78 +2686,81 @@
 		},
 		{
 			"name": "wooden_sword_243",
-			"from": [14, 1, 7.5],
-			"to": [14.5, 1.5, 8.5],
+			"from": [14, 1, 7.25],
+			"to": [14.5, 1.5, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1.5, 14.5, 2, 15], "texture": "#layer0"},
-				"south": {"uv": [2, 14.5, 1.5, 15], "texture": "#layer0"}
+				"south": {"uv": [2, 14.5, 1.5, 15], "texture": "#layer0"},
+				"west": {"uv": [1.5, 14.5, 2, 15], "texture": "#layer0"},
+				"up": {"uv": [1.5, 14.5, 2, 15], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_244",
-			"from": [13.5, 1, 7.25],
-			"to": [14, 1.5, 8.75],
+			"from": [13.5, 1, 7.5],
+			"to": [14, 1.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [2, 14.5, 2.5, 15], "texture": "#layer0"},
-				"east": {"uv": [2, 14.5, 2.5, 15], "texture": "#layer0"},
 				"south": {"uv": [2.5, 14.5, 2, 15], "texture": "#layer0"},
-				"west": {"uv": [2, 14.5, 2.5, 15], "texture": "#layer0"},
-				"up": {"uv": [2, 14.5, 2.5, 15], "rotation": 180, "texture": "#layer0"}
+				"west": {"uv": [2, 14.5, 2.5, 15], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_245",
-			"from": [15.5, 0.5, 7.25],
-			"to": [16, 1, 8.75],
+			"from": [15.5, 0.5, 7.5],
+			"to": [16, 1, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 15, 0.5, 15.5], "texture": "#layer0"},
 				"east": {"uv": [0, 15, 0.5, 15.5], "texture": "#layer0"},
 				"south": {"uv": [0.5, 15, 0, 15.5], "texture": "#layer0"},
-				"west": {"uv": [0, 15, 0.5, 15.5], "texture": "#layer0"},
 				"down": {"uv": [0, 15, 0.5, 15.5], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_246",
-			"from": [15, 0.5, 7.5],
-			"to": [15.5, 1, 8.5],
+			"from": [15, 0.5, 7.25],
+			"to": [15.5, 1, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [0.5, 15, 1, 15.5], "texture": "#layer0"},
-				"south": {"uv": [1, 15, 0.5, 15.5], "texture": "#layer0"}
+				"east": {"uv": [0.5, 15, 1, 15.5], "texture": "#layer0"},
+				"south": {"uv": [1, 15, 0.5, 15.5], "texture": "#layer0"},
+				"down": {"uv": [0.5, 15, 1, 15.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_247",
-			"from": [14.5, 0.5, 7.5],
-			"to": [15, 1, 8.5],
+			"from": [14.5, 0.5, 7.25],
+			"to": [15, 1, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1, 15, 1.5, 15.5], "texture": "#layer0"},
-				"south": {"uv": [1.5, 15, 1, 15.5], "texture": "#layer0"}
+				"south": {"uv": [1.5, 15, 1, 15.5], "texture": "#layer0"},
+				"down": {"uv": [1, 15, 1.5, 15.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_248",
-			"from": [14, 0.5, 7.5],
-			"to": [14.5, 1, 8.5],
+			"from": [14, 0.5, 7.25],
+			"to": [14.5, 1, 8.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [1.5, 15, 2, 15.5], "texture": "#layer0"},
-				"south": {"uv": [2, 15, 1.5, 15.5], "texture": "#layer0"}
+				"south": {"uv": [2, 15, 1.5, 15.5], "texture": "#layer0"},
+				"west": {"uv": [1.5, 15, 2, 15.5], "texture": "#layer0"},
+				"down": {"uv": [1.5, 15, 2, 15.5], "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_249",
-			"from": [13.5, 0.5, 7.25],
-			"to": [14, 1, 8.75],
+			"from": [13.5, 0.5, 7.5],
+			"to": [14, 1, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [2, 15, 2.5, 15.5], "texture": "#layer0"},
-				"east": {"uv": [2, 15, 2.5, 15.5], "texture": "#layer0"},
 				"south": {"uv": [2.5, 15, 2, 15.5], "texture": "#layer0"},
 				"west": {"uv": [2, 15, 2.5, 15.5], "texture": "#layer0"},
 				"down": {"uv": [2, 15, 2.5, 15.5], "rotation": 180, "texture": "#layer0"}
@@ -2893,39 +2768,36 @@
 		},
 		{
 			"name": "wooden_sword_250",
-			"from": [15, 0, 7.25],
-			"to": [15.5, 0.5, 8.75],
+			"from": [15, 0, 7.5],
+			"to": [15.5, 0.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [0.5, 15.5, 1, 16], "texture": "#layer0"},
 				"east": {"uv": [0.5, 15.5, 1, 16], "texture": "#layer0"},
 				"south": {"uv": [1, 15.5, 0.5, 16], "texture": "#layer0"},
-				"up": {"uv": [0.5, 15.5, 1, 16], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [0.5, 15.5, 1, 16], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_251",
-			"from": [14.5, 0, 7.25],
-			"to": [15, 0.5, 8.75],
+			"from": [14.5, 0, 7.5],
+			"to": [15, 0.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [1, 15.5, 1.5, 16], "texture": "#layer0"},
 				"south": {"uv": [1.5, 15.5, 1, 16], "texture": "#layer0"},
-				"up": {"uv": [1, 15.5, 1.5, 16], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [1, 15.5, 1.5, 16], "rotation": 180, "texture": "#layer0"}
 			}
 		},
 		{
 			"name": "wooden_sword_252",
-			"from": [14, 0, 7.25],
-			"to": [14.5, 0.5, 8.75],
+			"from": [14, 0, 7.5],
+			"to": [14.5, 0.5, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 7.5]},
 			"faces": {
 				"north": {"uv": [1.5, 15.5, 2, 16], "texture": "#layer0"},
 				"south": {"uv": [2, 15.5, 1.5, 16], "texture": "#layer0"},
 				"west": {"uv": [1.5, 15.5, 2, 16], "texture": "#layer0"},
-				"up": {"uv": [1.5, 15.5, 2, 16], "rotation": 180, "texture": "#layer0"},
 				"down": {"uv": [1.5, 15.5, 2, 16], "rotation": 180, "texture": "#layer0"}
 			}
 		}

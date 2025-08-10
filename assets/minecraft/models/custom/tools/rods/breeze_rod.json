@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/tools/rods/blaze_rod",
+	"textures": {
+		"0": "item/breeze_rod",
+		"particle": "item/breeze_rod"
+	}
+}

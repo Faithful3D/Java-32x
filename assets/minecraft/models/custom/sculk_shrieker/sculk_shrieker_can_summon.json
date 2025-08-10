@@ -1,0 +1,11 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/sculk_shrieker/sculk_shrieker",
+	"textures": {
+		"particle": "minecraft:block/sculk_shrieker_bottom",
+		"bottom": "minecraft:block/sculk_shrieker_bottom",
+		"inner_top": "minecraft:block/sculk_shrieker_can_summon_inner_top",
+		"side": "minecraft:block/sculk_shrieker_side",
+		"top": "minecraft:block/sculk_shrieker_top"
+	}
+}

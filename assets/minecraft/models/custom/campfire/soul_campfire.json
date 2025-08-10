@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench by Juknum",
+	"parent": "minecraft:custom/campfire/campfire",
+	"textures": {
+		"particle": "#log",
+		"log": "minecraft:block/campfire_log",
+		"lit_log": "minecraft:block/soul_campfire_log_lit",
+		"fire": "minecraft:block/soul_campfire_fire"
+	}
+}
