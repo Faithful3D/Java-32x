@@ -3,39 +3,18 @@
 	"multipart": [
 		{
 			"when": {
-				"shape": "north_south",
-				"waterlogged": false
+				"shape": "north_south"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail"
+				"model": "minecraft:custom/rail/rail"
 			}
 		},
 		{
 			"when": {
-				"shape": "east_west",
-				"waterlogged": false
+				"shape": "east_west"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail",
-				"y": 90
-			}
-		},
-		{
-			"when": {
-				"shape": "north_south",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_waterlogged"
-			}
-		},
-		{
-			"when": {
-				"shape": "east_west",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_waterlogged",
+				"model": "minecraft:custom/rail/rail",
 				"y": 90
 			}
 		},
@@ -45,7 +24,7 @@
 				"shape": "north_south"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_on"
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_on"
 			}
 		},
 		{
@@ -54,7 +33,7 @@
 				"shape": "north_south"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail"
+				"model": "minecraft:custom/rail/powered_rail/powered_rail"
 			}
 		},
 		{
@@ -63,7 +42,7 @@
 				"shape": "east_west"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_on",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_on",
 				"y": 90
 			}
 		},
@@ -73,85 +52,42 @@
 				"shape": "east_west"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail",
 				"y": 90
 			}
 		},
 		{
 			"when": {
-				"shape": "ascending_north",
-				"waterlogged": false
+				"shape": "ascending_north"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail_raised"
+				"model": "minecraft:custom/rail/rail_raised"
 			}
 		},
 		{
 			"when": {
-				"shape": "ascending_south",
-				"waterlogged": false
+				"shape": "ascending_south"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail_raised",
+				"model": "minecraft:custom/rail/rail_raised",
 				"y": 180
 			}
 		},
 		{
 			"when": {
-				"shape": "ascending_east",
-				"waterlogged": false
+				"shape": "ascending_east"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail_raised",
+				"model": "minecraft:custom/rail/rail_raised",
 				"y": 90
 			}
 		},
 		{
 			"when": {
-				"shape": "ascending_west",
-				"waterlogged": false
+				"shape": "ascending_west"
 			},
 			"apply": {
-				"model": "minecraft:block/rail/rail_raised",
-				"y": -90
-			}
-		},
-		{
-			"when": {
-				"shape": "ascending_north",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_raised_waterlogged"
-			}
-		},
-		{
-			"when": {
-				"shape": "ascending_south",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_raised_waterlogged",
-				"y": 180
-			}
-		},
-		{
-			"when": {
-				"shape": "ascending_east",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_raised_waterlogged",
-				"y": 90
-			}
-		},
-		{
-			"when": {
-				"shape": "ascending_west",
-				"waterlogged": true
-			},
-			"apply": {
-				"model": "minecraft:block/rail/rail_raised_waterlogged",
+				"model": "minecraft:custom/rail/rail_raised",
 				"y": -90
 			}
 		},
@@ -161,7 +97,7 @@
 				"powered": true
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised_on"
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised_on"
 			}
 		},
 		{
@@ -170,7 +106,7 @@
 				"powered": true
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised_on",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised_on",
 				"y": 180
 			}
 		},
@@ -180,7 +116,7 @@
 				"powered": true
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised_on",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised_on",
 				"y": 90
 			}
 		},
@@ -190,7 +126,7 @@
 				"powered": true
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised_on",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised_on",
 				"y": -90
 			}
 		},
@@ -200,7 +136,7 @@
 				"powered": false
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised"
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised"
 			}
 		},
 		{
@@ -209,7 +145,7 @@
 				"powered": false
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised",
 				"y": 180
 			}
 		},
@@ -219,7 +155,7 @@
 				"powered": false
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised",
 				"y": 90
 			}
 		},
@@ -229,7 +165,7 @@
 				"powered": false
 			},
 			"apply": {
-				"model": "minecraft:block/rail/powered_rail/powered_rail_raised",
+				"model": "minecraft:custom/rail/powered_rail/powered_rail_raised",
 				"y": -90
 			}
 		}
