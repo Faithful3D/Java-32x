@@ -1,26 +1,26 @@
 {
   "variants": {
     "extended=false,facing=down": {
-      "model": "minecraft:block/redstone/piston/piston",
+      "model": "minecraft:custom/pistons/piston",
       "x": 90
     },
     "extended=false,facing=east": {
-      "model": "minecraft:block/redstone/piston/piston",
+      "model": "minecraft:custom/pistons/piston",
       "y": 90
     },
     "extended=false,facing=north": {
-      "model": "minecraft:block/redstone/piston/piston"
+      "model": "minecraft:custom/pistons/piston"
     },
     "extended=false,facing=south": {
-      "model": "minecraft:block/redstone/piston/piston",
+      "model": "minecraft:custom/pistons/piston",
       "y": 180
     },
     "extended=false,facing=up": {
-      "model": "minecraft:block/redstone/piston/piston",
+      "model": "minecraft:custom/pistons/piston",
       "x": 270
     },
     "extended=false,facing=west": {
-      "model": "minecraft:block/redstone/piston/piston",
+      "model": "minecraft:custom/pistons/piston",
       "y": 270
     },
     "extended=true,facing=down": {
