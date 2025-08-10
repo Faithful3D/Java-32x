@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/crops/sugar_cane"
+      "model": "minecraft:custom/sugar_cane"
     }
   }
 }
