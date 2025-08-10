@@ -1,0 +1,40 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:custom/loom",
+        "y": 270
+      },
+      "when": {
+        "facing": "west"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/loom",
+        "y": 180
+      },
+      "when": {
+        "facing": "south"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/loom",
+        "y": 90
+      },
+      "when": {
+        "facing": "east"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/loom",
+        "y": 0
+      },
+      "when": {
+        "facing": "north"
+      }
+    }
+  ]
+}
