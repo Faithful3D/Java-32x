@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/glass/glass_block",
+  "textures": {
+    "all": "minecraft:block/light_gray_stained_glass"
+  }
+}

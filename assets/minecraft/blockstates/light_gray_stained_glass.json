@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/glass/light_gray_stained_glass"
+      "model": "minecraft:custom/glass/dyes/light_gray"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/glass/purple_stained_glass"
+      "model": "minecraft:custom/glass/dyes/purple"
     }
   }
 }

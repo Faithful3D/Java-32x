@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/glass/glass"
+      "model": "minecraft:custom/glass/glass_block"
     }
   }
 }
