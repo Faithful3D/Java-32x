@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/trapdoors/copper/copper",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "custom/trapdoors/weathered_copper",
+		"2": "block/weathered_copper_trapdoor",
+		"particle": "block/weathered_copper_trapdoor"
+	}
+}
