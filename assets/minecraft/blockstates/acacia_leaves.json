@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/nature/leaves/acacia_leaves"
+      "model": "minecraft:custom/leaves/acacia_leaves"
     }
   }
 }

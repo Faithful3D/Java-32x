@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/_template_inverted_tintindex",
+  "textures": {
+    "all": "minecraft:block/birch_leaves"
+  }
+}
