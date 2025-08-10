@@ -21,7 +21,11 @@
 				},
 				{
 					"type": "minecraft:model",
-					"model": "minecraft:custom/tools/mace"
+					"model": "minecraft:custom/tools/mace/mace"
+				},
+				{
+					"type": "minecraft:model",
+					"model": "minecraft:custom/tools/mace/heavy_core"
 				}
 			]
 		}
