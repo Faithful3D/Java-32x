@@ -1,14 +1,9 @@
 {
 	"comment": "Designed by Juknum",
 	"variants": {
-		"facing=south,waterlogged=false": { "model": "minecraft:block/ladder/ladder"           },
-		"facing=north,waterlogged=false": { "model": "minecraft:block/ladder/ladder", "y": 180 },
-		"facing=east,waterlogged=false":  { "model": "minecraft:block/ladder/ladder", "y": -90 },
-		"facing=west,waterlogged=false":  { "model": "minecraft:block/ladder/ladder", "y":  90 },
-
-		"facing=south,waterlogged=true":  { "model": "minecraft:block/ladder/ladder_waterlogged"           },
-		"facing=north,waterlogged=true":  { "model": "minecraft:block/ladder/ladder_waterlogged", "y": 180 },
-		"facing=east,waterlogged=true":   { "model": "minecraft:block/ladder/ladder_waterlogged", "y": -90 },
-		"facing=west,waterlogged=true":   { "model": "minecraft:block/ladder/ladder_waterlogged", "y":  90 }
+		"facing=south": { "model": "minecraft:custom/ladder"           },
+		"facing=north": { "model": "minecraft:custom/ladder", "y": 180 },
+		"facing=east":  { "model": "minecraft:custom/ladder", "y": -90 },
+		"facing=west":  { "model": "minecraft:custom/ladder", "y":  90 }
 	}
 }
