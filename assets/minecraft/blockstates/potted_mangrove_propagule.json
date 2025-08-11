@@ -7,7 +7,7 @@
     },
     {
       "apply": {
-        "model": "minecraft:custom/pots/trees/potted_mangrove_propagule"
+        "model": "minecraft:custom/pots/saplings/potted_mangrove_propagule"
       }
     }
   ]
