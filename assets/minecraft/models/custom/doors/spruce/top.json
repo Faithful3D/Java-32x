@@ -2,7 +2,8 @@
 	"credit": "Designed by Juknum",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom/doors/spruce"
+		"1": "custom/doors/spruce",
+		"particle": "block/spruce_door_top"
 	},
 	"elements": [
 		{
