@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:custom/flowers/oxeye_daisy"
-    }
+    "": [
+      {
+        "model": "minecraft:custom/flowers/oxeye_daisy",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/oxeye_daisy",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/oxeye_daisy",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/oxeye_daisy",
+        "y": 270
+      }
+    ]
   }
 }

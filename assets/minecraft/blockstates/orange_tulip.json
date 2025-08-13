@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:custom/flowers/orange_tulip"
-    }
+    "": [
+      {
+        "model": "minecraft:custom/flowers/orange_tulip",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/orange_tulip",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/orange_tulip",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/orange_tulip",
+        "y": 270
+      }
+    ]
   }
 }

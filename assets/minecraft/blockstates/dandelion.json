@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:custom/flowers/dandelion"
-    }
+    "": [
+      {
+        "model": "minecraft:custom/flowers/dandelion",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/dandelion",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/dandelion",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/dandelion",
+        "y": 270
+      }
+    ]
   }
 }
