@@ -1,7 +1,51 @@
 {
-	"credit": "Designed by Juknum",
-	"parent": "minecraft:custom/pots/flower_pot_cross",
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cross",
+	"ambientocclusion": false,
 	"textures": {
-		"plant": "block/torchflower"
-	}
+		"cross": "custom/flowers/torchflower/torchflower",
+		"particle": "custom/flowers/torchflower/torchflower_break"
+	},
+	"elements": [
+		{
+			"from": [8, 4, 0.5],
+			"to": [8, 13.5, 16.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8.75, 8]},
+			"faces": {
+				"east": {"uv": [0, 5.5, 16, 15], "texture": "#cross"},
+				"west": {"uv": [16, 5.5, 0, 15], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [-0.5, 4, 8],
+			"to": [15.5, 13.5, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8.75, 8]},
+			"faces": {
+				"north": {"uv": [16, 5.5, 0, 15], "texture": "#cross"},
+				"south": {"uv": [0, 5.5, 16, 15], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [6.75, 11, 6.75],
+			"to": [9.25, 17, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
+			"faces": {
+				"north": {"uv": [7, 0, 13, 2.5], "rotation": 90, "texture": "#cross"},
+				"east": {"uv": [7, 3, 13, 5.5], "rotation": 90, "texture": "#cross"},
+				"south": {"uv": [7, 0, 13, 2.5], "rotation": 90, "texture": "#cross"},
+				"west": {"uv": [7, 3, 13, 5.5], "rotation": 90, "texture": "#cross"},
+				"up": {"uv": [13.5, 0, 16, 2.5], "texture": "#cross"},
+				"down": {"uv": [13.5, 3, 16, 5.5], "texture": "#cross"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "torchflower",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
 }
