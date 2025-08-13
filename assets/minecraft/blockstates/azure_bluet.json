@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:custom/flowers/azure_bluet"
-    }
+    "": [
+      {
+        "model": "minecraft:custom/flowers/azure_bluet",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/azure_bluet",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/azure_bluet",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/azure_bluet",
+        "y": 270
+      }
+    ]
   }
 }

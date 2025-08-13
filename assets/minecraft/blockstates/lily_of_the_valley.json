@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:custom/flowers/lily_of_the_valley"
-    }
+    "": [
+      {
+        "model": "minecraft:custom/flowers/lily_of_the_valley",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/lily_of_the_valley",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/lily_of_the_valley",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/lily_of_the_valley",
+        "y": 270
+      }
+    ]
   }
 }

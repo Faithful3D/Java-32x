@@ -1,8 +1,133 @@
 {
-	"credit": "Designed by Juknum",
-	"parent": "minecraft:custom/pots/plants/potted_orange_tulip",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
 	"textures": {
-		"cross": "minecraft:custom/flowers/white_tulip",
-		"particle": "minecraft:block/white_tulip"
+		"plant": "custom/flowers/tulips/white_tulip"
+	},
+	"elements": [
+		{
+			"from": [8, 2, 4.5],
+			"to": [8, 11, 8.5],
+			"faces": {
+				"east": {"uv": [4, 7, 0, 16], "texture": "#plant"},
+				"west": {"uv": [0, 7, 4, 16], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [4.5, 2, 8],
+			"to": [8.5, 12, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.5, 8.5]},
+			"faces": {
+				"north": {"uv": [3, 6, 7, 16], "texture": "#plant"},
+				"south": {"uv": [7, 6, 3, 16], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [7.25, 11, 7.25],
+			"to": [8.75, 11.5, 8.75],
+			"faces": {
+				"north": {"uv": [14.5, 10, 16, 10.5], "texture": "#plant"},
+				"east": {"uv": [14.5, 10, 16, 10.5], "texture": "#plant"},
+				"south": {"uv": [14.5, 10, 16, 10.5], "texture": "#plant"},
+				"west": {"uv": [14.5, 10, 16, 10.5], "texture": "#plant"},
+				"down": {"uv": [14.5, 11, 16, 12.5], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [6.75, 11.5, 6.75],
+			"to": [9.25, 12.5, 9.25],
+			"faces": {
+				"up": {"uv": [13.5, 7, 16, 9.5], "texture": "#plant"},
+				"down": {"uv": [13.5, 7, 16, 9.5], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [6.75, 11.5, 6.75],
+			"to": [9.25, 15.5, 9.25],
+			"faces": {
+				"north": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"east": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"south": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"west": {"uv": [13.5, 0, 16, 4], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [9.25, 11.5, 6.75],
+			"to": [6.75, 15.5, 9.25],
+			"faces": {
+				"north": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"east": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"south": {"uv": [13.5, 0, 16, 4], "texture": "#plant"},
+				"west": {"uv": [13.5, 0, 16, 4], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [6.5, 11.5, 6.5],
+			"to": [9.5, 14, 9.5],
+			"faces": {
+				"north": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"east": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"south": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"west": {"uv": [13, 4, 16, 6.5], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [9.5, 11.5, 6.5],
+			"to": [6.5, 14, 9.5],
+			"faces": {
+				"north": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"east": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"south": {"uv": [13, 4, 16, 6.5], "texture": "#plant"},
+				"west": {"uv": [13, 4, 16, 6.5], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [7.5, 12.5, 7.5],
+			"to": [8.5, 13.5, 8.5],
+			"faces": {
+				"north": {"uv": [16, 13, 15, 14], "texture": "#plant"},
+				"east": {"uv": [15, 13, 16, 14], "texture": "#plant"},
+				"south": {"uv": [16, 13, 15, 14], "texture": "#plant"},
+				"west": {"uv": [15, 13, 16, 14], "texture": "#plant"},
+				"up": {"uv": [15, 13, 16, 14], "texture": "#plant"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 1.5, 2.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 1.5, 2.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 1, 0]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 0.75, 0]
+		}
 	}
 }

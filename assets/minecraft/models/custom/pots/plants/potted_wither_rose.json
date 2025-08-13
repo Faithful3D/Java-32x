@@ -1,9 +1,10 @@
 {
-	"credit": "Designed by Juknum",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
 	"textures": {
-		"2": "block/soul_soil",
-		"cross": "minecraft:custom/flowers/wither_rose",
-		"particle": "minecraft:block/wither_rose"
+		"cross": "custom/flowers/wither_rose/wither_rose",
+		"particle": "custom/flowers/wither_rose/wither_rose_break"
 	},
 	"elements": [
 		{
@@ -36,38 +37,27 @@
 			}
 		},
 		{
-			"from": [6.75, 14.25, 6.75],
-			"to": [9.25, 14.25, 9.25],
+			"from": [6, 10.25, 6],
+			"to": [10, 14.25, 10],
 			"faces": {
-				"up": {"uv": [0, 4, 2.5, 6.5], "texture": "#cross"},
-				"down": {"uv": [0, 6.5, 2.5, 4], "texture": "#cross"}
+				"north": {"uv": [9, 3.5, 12.5, 7.5], "texture": "#cross"},
+				"east": {"uv": [12.5, 3.5, 16, 7.5], "texture": "#cross"},
+				"south": {"uv": [9, 3.5, 12.5, 7.5], "texture": "#cross"},
+				"west": {"uv": [12.5, 3.5, 16, 7.5], "texture": "#cross"},
+				"up": {"uv": [0, 3.5, 3.5, 7], "texture": "#cross"},
+				"down": {"uv": [3.5, 0, 7, 3.5], "texture": "#cross"}
 			}
 		},
 		{
-			"from": [6, 10.5, 6],
-			"to": [10, 13.5, 10],
-			"faces": {
-				"north": {"uv": [9, 4, 12.5, 7], "texture": "#cross"},
-				"east": {"uv": [12.5, 4, 16, 7], "texture": "#cross"},
-				"south": {"uv": [9, 4, 12.5, 7], "texture": "#cross"},
-				"west": {"uv": [12.5, 4, 16, 7], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [10, 10.5, 6],
-			"to": [6, 13.5, 10],
+			"from": [10, 10.25, 6],
+			"to": [6, 14.25, 10],
 			"faces": {
 				"north": {"uv": [12.5, 4, 9, 7], "texture": "#cross"},
 				"east": {"uv": [16, 4, 12.5, 7], "texture": "#cross"},
 				"south": {"uv": [12.5, 4, 9, 7], "texture": "#cross"},
-				"west": {"uv": [16, 4, 12.5, 7], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [6, 4.01, 6],
-			"to": [10, 4.01, 10],
-			"faces": {
-				"up": {"uv": [5, 5, 11, 11], "texture": "#2"}
+				"west": {"uv": [16, 4, 12.5, 7], "texture": "#cross"},
+				"up": {"uv": [3.5, 3.5, 0, 7], "texture": "#cross"},
+				"down": {"uv": [7, 0, 3.5, 3.5], "texture": "#cross"}
 			}
 		}
 	],
@@ -100,17 +90,11 @@
 			"rotation": [30, 225, 0],
 			"translation": [0, -0.25, 0]
 		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
 		"fixed": {
 			"translation": [0, 0.75, 0]
 		}
-	},
-	"groups": [
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5]
-		},
-		6
-	]
+	}
 }
