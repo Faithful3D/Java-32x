@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "minecraft:custom/redstone_lamp/redstone_lamp"
+	}
+}
