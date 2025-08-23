@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/copper_bulb/redstone_off",
+	"textures": {
+		"4": "custom/copper_bulb/redstone_on",
+		"particle": "custom/copper_bulb/redstone_on"
+	}
+}
