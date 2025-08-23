@@ -1,0 +1,17 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:custom/jukebox/jukebox"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/jukebox/record"
+      },
+      "when": {
+        "has_record": "true"
+      }
+    }
+  ]
+}
