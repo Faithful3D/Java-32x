@@ -1,0 +1,20 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "minecraft:custom/copper_bulb/weathered_copper_bulb" },
+      "when":  { "lit": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:custom/copper_bulb/weathered_copper_bulb_lit" },
+      "when":  { "lit": "true" }
+    },
+    {
+      "apply": { "model": "minecraft:custom/copper_bulb/redstone_off" },
+      "when":  { "powered": "false" }
+    },
+    {
+      "apply": { "model": "minecraft:custom/copper_bulb/redstone_on" },
+      "when":  { "powered": "true" }
+    }
+  ]
+}

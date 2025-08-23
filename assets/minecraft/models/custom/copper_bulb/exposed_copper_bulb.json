@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/copper_bulb/copper_bulb",
+	"textures": {
+		"4": "block/exposed_copper_bulb",
+		"particle": "block/exposed_copper_bulb"
+	}
+}
