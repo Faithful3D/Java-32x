@@ -1,0 +1,36 @@
+{
+  "multipart": [
+    {
+      "when": { "facing": "north" },
+      "apply": { "model": "minecraft:custom/pumpkin/carved_pumpkin" }
+    },
+    {
+      "when": { "facing": "east" },
+      "apply": { "model": "minecraft:custom/pumpkin/carved_pumpkin", "y": 90 }
+    },
+    {
+      "when": { "facing": "south" },
+      "apply": { "model": "minecraft:custom/pumpkin/carved_pumpkin", "y": 180 }
+    },
+    {
+      "when": { "facing": "west" },
+      "apply": { "model": "minecraft:custom/pumpkin/carved_pumpkin", "y": 270 }
+    },
+    {
+      "when": { "facing": "north" },
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin_stem" }
+    },
+    {
+      "when": { "facing": "east" },
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin_stem", "y": 90 }
+    },
+    {
+      "when": { "facing": "south" },
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin_stem", "y": 180 }
+    },
+    {
+      "when": { "facing": "west" },
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin_stem", "y": 270 }
+    }
+  ]
+}

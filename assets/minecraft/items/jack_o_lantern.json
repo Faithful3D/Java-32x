@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:custom/pumpkin/jack_o_lantern"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:custom/pumpkin/torch"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:custom/pumpkin/pumpkin_stem"
+      }
+    ]
+  }
+}
