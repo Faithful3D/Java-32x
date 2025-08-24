@@ -1,0 +1,10 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin" }
+    },
+    {
+      "apply": { "model": "minecraft:custom/pumpkin/pumpkin_stem" }
+    }
+  ]
+}

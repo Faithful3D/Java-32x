@@ -1,0 +1,13 @@
+{
+	"format_version": "1.21.6",
+	"parent": "minecraft:custom/pumpkin/carved_pumpkin",
+	"credit": "Designed by Juknum",
+	"textures": {
+		"0": "custom/pumpkin/hollow_pumpkin",
+		"1": "block/pumpkin_side",
+		"2": "custom/pumpkin/pumpkin_top",
+		"3": "block/pumpkin_side",
+		"4": "custom/pumpkin/pumpkin_top",
+		"particle": "block/jack_o_lantern"
+	}
+}
