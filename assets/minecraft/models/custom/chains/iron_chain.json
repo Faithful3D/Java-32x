@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made by Juknum with Blockbench",
 	"textures": {
-		"1": "minecraft:block/chain",
-		"particle": "minecraft:block/chain"
+		"1": "minecraft:block/iron_chain",
+		"particle": "minecraft:block/iron_chain"
 	},
 	"elements": [
 		{
