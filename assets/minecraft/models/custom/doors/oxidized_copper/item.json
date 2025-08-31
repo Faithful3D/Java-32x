@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/doors/copper/item",
+	"textures": {
+		"1": "custom/doors/oxidized_copper",
+		"2": "block/oxidized_copper_door_top",
+		"particle": "block/oxidized_copper_door_top"
+	}
+}

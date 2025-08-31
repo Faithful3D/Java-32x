@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/doors/copper/bottom_hinge",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "custom/doors/weathered_copper",
+		"particle": "block/weathered_copper_door_bottom"
+	}
+}

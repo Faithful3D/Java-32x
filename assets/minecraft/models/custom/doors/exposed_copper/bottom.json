@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/doors/copper/bottom",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "custom/doors/exposed_copper",
+		"particle": "block/exposed_copper_door_bottom"
+	}
+}

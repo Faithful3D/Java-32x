@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Juknum",
+	"parent": "custom/doors/copper/item",
+	"textures": {
+		"1": "custom/doors/weathered_copper",
+		"2": "block/weathered_copper_door_top",
+		"particle": "block/weathered_copper_door_top"
+	}
+}
