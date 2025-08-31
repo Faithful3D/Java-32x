@@ -1,230 +1,38 @@
-# Compliance 3D - 1.19 Changelog
+# Faithful 3D
 
-## Known issue
+## Changelog
 
-N/A
+### SEP25
 
-## Changes
+Added:
+- Pale Oak door
+- Cherry Door
+- Torchflower crop & flower models
+- Pitcher crop & flower models
+- Jukebox model
+- Note Block model
+- Redstone Lamp model
+- Copper Bulb model
+- Nether Gold Ore model
+- Nether Quartz Ore model
+- Pumpkin, Carved Pumpkin & Jack'O Lantern models
+- Barrel model
+- Paper item model
+- Maps item model
+- Copper doors (all 4 types)
 
-# 2025
+Fixed:
+- Hay Block model
+- Missing particles on some doors
+- Red Mushroom using Brown Mushroom model
+- Crimson Fungus using Warped Fungus model (#46)
+- Z-fighting on double sided cubes
+- Heavy Core item model not matching block model
+- Chains z-fighting
+- Hanging lanterns z-fighting
 
-## August 06th
-
-- Added:
-  - Pale Oak Boat (item)
-  - Pale Oak Chest Boat (item)
-  - Copper Lanterns (block & item) (all variants)
-  - Copper tools (all items)
-
-- Fixed:
-  - Short Grass (block): renamed from `grass` to `short_grass` 
-  - Swords (all items): updated the model to match the new texture
-  - Redstone Torch (item): use the new inverted model
-
-## August 05th
-
-I'm back from the mine!
-
-- Added:
-  - Copper Bars (block) (all variants)
-  - Copper Blocks (block) (all variants)
-  - Copper Chains (block) (all variants)
-  - Copper Grates (block) (all variants)
-  - Pale Oak Leaves (block)
-  - Pale Oak Trapdoor (item)
-  - Bamboo Door (item)
-  - Cherry Leaves (block)
-
-- Modified:
-  - Redstone Torch (comparator, repeater, redstone torch) : use the vanilla model
-  - Doors (all) : let the hinges on one side only & updated the GUI display
-
-- Fixed:
-  - Dried Kelp Block (item)
-  - Hay Bale (item)
-  - Lily Pad (block)
-  - Trapdoors (all items)
-  - Potted Pale Oak Sapling (block)
-
-- Removed:
-  - Bookshelf (block) - Because the non Euclidean cube with a shader has been removed.
-
-# 2023 
-
-## July
-
-### July 17th
-
-- Added:
-  - Cherry Trapdoor (item)
-  - Carrot & Golden Carrot (item)
-  - 3D flower pots for cherry sapling & the torchflower
-
-### July 16th
-
-- Added:
-  - Bamboo Rafts (item)
-  - Cherry Boats (item)
-
-- Modified:
-  - Rails (all) : made the wood part thicker
-
-- Fixed:
-  - Chiseled Deepslate Bricks: fixed the cullface of the top part
-
-# 2022
-
-## March
-
-### March 30th
-
-- Added:
-  - cactus
-  - flower_pot & made it compatible with all item inside
-  - totem_of_undying
-  - brow_mushroom & red_mushroom
-  - crimson_fungus & warped_fungus
-  - chest boats
-  - mangrove_propagule block
-  - mangrove_trapdoor
-  - mangrove_leaves (model only)
-
-## February
-
-### February 9th
-
-- Added:
-  - chiseled_stone_bricks
-  - chiseled_deepslate_bricks
-- Changed:
-  - stone bricks (more details)
-
-### February 8th
-
-- Added:
-  - doors (blocks & items); thanks Alkatreize
-  - trapdoors (blocks & items); thanks Alkatreize
-  - flowers (all); thanks Alkatreize
-  - snow overlay on snow layers (for any block below)
-  - boats (all items)
-
-### February 4th
-
-- Added:
-  - comparator (block & item)
-  - repeater (block & item)
-  - redstone torch (block & item)
-  - torch & soul torch (items)
-  - brewing stand (block & item)
-  - bricks models (slabs & stairs) (block & item) for endstone bricks, stone bricks, deepslate bricks, polished blackstone bricks
-  - cut sandstone slabs (block & item)
-  - axes (all)
-  - grass
-  - tall_grass
-  - warped roots
-
-## January
-### January 31st
-
-> Moved nature models into `/nature`
-
-- Fixed:
-  - powered rails (thanks Alkatreize)
-  - pointed dripstone UVs
-- Added:
-  - end portal frames
-  - dried kelp block
-  - rails models in hands
-  - minecarts items (all)
-  - hay_bale (item)
-  - pointed dripstone item
-  - potion, lingering_potion, spash_potion, bottle, honey_bottle, experience_bottle, dragon_breath
-  - glow_lichen
-  - sugar_cane
-  - sweet berry bushes
-  - cauldron item
-  - hopper item
-  - better slabs for sandstone & red sandstone
-  - better stairs for sandstone & red sandstone
-
-# 2021
-
-## September
-
-### September 30th
-
-- Added:
-  - bow (all states)
-  - arrows (classic, spectral & tipped)
-  - sandstone walls (blocks & item)
-  - red_sanstone walls (blocks & item)
-
-### September 29th
-
-- Fixed:
-  - invisible strings of candle (item)
-- Added:
-  - beacon (like other glass, ice blocks)
-
-### September 28th
-
-- Fixed:
-  - tiling issue with pointed dripstone
-- Added:
-  - cake (item)
-  - campfire (item) + add more flames to the block itself
-  - candles (blocks & items)
-  - pointed_dripstone (item)
-  - stonecutter (block & item)
-  - glass (block) - double faced (more consistent)
-  - glass_panes (blocks) - same as glass blocks
-  - leaves - double faced (more dense)
-  - azalea_leaves (normal & flowering) - same as leaves
-  - ice (block) - double sided
-
-## July
-
-### July 12th
-
-- Fixed:
-  - chain
-- Added:
-  - crops (beetroots, carrots, potatoes, cocoa)
-  - cake
-  - candle_cake
-  - nether_sprout
-- Changed:
-  - added `minecraft:` before each path
-
-## June
-
-### June 18
-
-- Fixed:
-  - rails
-- Added:
-  - chain
-  - waterlogged files for each model (easier for future sub-addons)
-
-## March
-
-### March 15th
-
-- Added:
-  - ladder
-  - hay_bale
-
-### March 14th
-
-- Added:
-  - pointed_dripstone
-  - rails (activator, detector, powered & normal)
-
-# 2020 
-
-## December
-
-### December 27th
-
-- Added:
-  - iron_bars
+Changed:
+- Rail corner to be more rounded
+- Double flowers models
+- Flowers models
+- Farmland model to add cullface
