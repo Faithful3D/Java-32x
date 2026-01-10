@@ -2,7 +2,8 @@
 	"credit": "Designed by Juknum",
 	"texture_size": [128, 64],
 	"textures": {
-		"texture": "custom/boats/birch"
+		"texture": "minecraft:custom/boats/birch",
+		"particle": "minecraft:custom/boats/birch"
 	},
 	"elements": [
 		{

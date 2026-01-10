@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench by Juknum",
 	"texture_size": [32, 16],
 	"textures": {
-		"texture": "entity/minecart"
+		"texture": "minecraft:entity/minecart",
+		"particle": "minecraft:entity/minecart"
 	},
 	"elements": [
 		{

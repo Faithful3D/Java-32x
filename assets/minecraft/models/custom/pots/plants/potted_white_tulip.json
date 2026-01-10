@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"plant": "custom/flowers/tulips/white_tulip"
+		"plant": "minecraft:custom/flowers/tulips/white_tulip",
+		"particle": "minecraft:custom/flowers/tulips/white_tulip"
 	},
 	"elements": [
 		{

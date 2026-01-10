@@ -2,7 +2,8 @@
 	"credit": "Designed by Juknum",
 	"parent": "custom/doors/door_display",
 	"textures": {
-		"1": "custom/doors/crimson"
+		"1": "minecraft:custom/doors/crimson",
+		"particle": "minecraft:custom/doors/crimson"
 	},
 	"elements": [
 		{

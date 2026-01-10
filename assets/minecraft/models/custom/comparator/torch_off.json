@@ -3,7 +3,8 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"unlit": "block/redstone_torch_off"
+		"unlit": "minecraft:block/redstone_torch_off",
+		"particle": "minecraft:block/redstone_torch_off"
 	},
 	"elements": [
 		{

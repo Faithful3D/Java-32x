@@ -1,7 +1,8 @@
 {
 	"credit": "Designed by Juknum",
-	"parent": "custom/tools/axes/wood",
+	"parent": "minecraft:custom/tools/axes/wood",
 	"textures": {
-		"layer0": "item/stone_axe"
+		"layer0": "minecraft:item/stone_axe",
+		"particle": "minecraft:item/stone_axe"
 	}
 }

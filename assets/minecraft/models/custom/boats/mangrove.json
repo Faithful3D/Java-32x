@@ -1,7 +1,8 @@
 {
 	"credit": "Designed by Juknum",
-	"parent": "custom/boats/template_boat",
+	"parent": "minecraft:custom/boats/template_boat",
 	"textures": {
-		"texture": "custom/boats/mangrove"
+		"texture": "minecraft:custom/boats/mangrove",
+		"particle": "minecraft:custom/boats/mangrove"
 	}
 }

@@ -1,9 +1,10 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Designed by Juknum",
-	"parent": "custom/tools/tools_display",
+	"parent": "minecraft:custom/tools/tools_display",
 	"textures": {
-		"layer0": "item/wooden_axe"
+		"layer0": "minecraft:item/wooden_axe",
+		"particle": "minecraft:item/wooden_axe"
 	},
 	"elements": [
 		{

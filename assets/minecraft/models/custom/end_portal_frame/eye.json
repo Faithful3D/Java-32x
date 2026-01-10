@@ -3,7 +3,8 @@
 	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"eye": "minecraft:block/end_portal_frame_eye"
+		"eye": "minecraft:block/end_portal_frame_eye",
+		"particle": "minecraft:block/end_portal_frame_eye"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/oxeye_daisy/oxeye_daisy",
-		"particle": "custom/flowers/oxeye_daisy/oxeye_daisy_break"
+		"cross": "minecraft:custom/flowers/oxeye_daisy/oxeye_daisy",
+		"particle": "minecraft:custom/flowers/oxeye_daisy/oxeye_daisy_break"
 	},
 	"elements": [
 		{

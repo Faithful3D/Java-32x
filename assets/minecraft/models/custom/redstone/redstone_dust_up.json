@@ -1,7 +1,8 @@
 {
 	"credit": "Designed by Juknum",
 	"textures": {
-		"line": "block/redstone_dust_line0"
+		"line": "minecraft:block/redstone_dust_line0",
+		"particle": "minecraft:block/redstone_dust_line0"
 	},
 	"elements": [
 		{

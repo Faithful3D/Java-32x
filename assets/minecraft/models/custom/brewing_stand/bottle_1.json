@@ -2,8 +2,9 @@
 	"__comment": "Designed by Nekzuris",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "custom/brewing_stand/brewing_stand",
-		"potion": "custom/brewing_stand/potion_0"
+		"texture": "minecraft:custom/brewing_stand/brewing_stand",
+		"potion": "minecraft:custom/brewing_stand/potion_0",
+		"particle": "minecraft:custom/brewing_stand/brewing_stand"
 	},
 	"elements": [
 		{

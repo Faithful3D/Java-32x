@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/blue_orchid/blue_orchid"
+		"cross": "minecraft:custom/flowers/blue_orchid/blue_orchid",
+		"particle": "minecraft:custom/flowers/blue_orchid/blue_orchid"
 	},
 	"elements": [
 		{
