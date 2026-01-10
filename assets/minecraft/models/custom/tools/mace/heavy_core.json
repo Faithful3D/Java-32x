@@ -1,10 +1,9 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Designed by Juknum",
-	"parent": "minecraft:custom/_template_inverted",
 	"textures": {
-		"0": "block/heavy_core",
-		"particle": "block/heavy_core"
+		"0": "minecraft:block/heavy_core",
+		"particle": "minecraft:block/heavy_core"
 	},
 	"elements": [
 		{
