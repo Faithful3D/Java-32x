@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Designed by Juknum",
 	"textures": {
-		"0": "entity/armorstand/armorstand",
-		"particle": "entity/armorstand/armorstand"
+		"0": "minecraft:atlas/armor_stand",
+		"particle": "minecraft:atlas/armor_stand"
 	},
 	"elements": [
 		{
