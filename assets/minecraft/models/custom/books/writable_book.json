@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "minecraft:custom/books/writable_book_custom",
-		"1": "minecraft:item/feather",
+		"1": "minecraft:atlas/feather",
 		"particle": "minecraft:custom/books/writable_book_custom"
 	},
 	"elements": [

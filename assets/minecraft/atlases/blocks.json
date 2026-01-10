@@ -6,9 +6,24 @@
 			"prefix": "custom/"
 		},
 		{
-			"type": "minecraft:directory",
-			"source": "entity",
-			"prefix": "entity/"
+			"type": "minecraft:single",
+			"resource": "entity/armorstand/wood",
+			"sprite": "atlas/armor_stand"
+		},
+		{
+			"type": "minecraft:single",
+			"resource": "entity/minecart",
+			"sprite": "atlas/minecart"
+		},
+		{
+			"type": "minecraft:single",
+			"resource": "entity/shulker/shulker",
+			"sprite": "atlas/shulker"
+		},
+		{
+			"type": "minecraft:single",
+			"resource": "item/feather",
+			"sprite": "atlas/feather"
 		}
 	]
 }
