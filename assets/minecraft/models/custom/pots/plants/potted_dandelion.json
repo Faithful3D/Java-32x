@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Ensis",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "custom/flowers/dandelion/dandelion",
-		"particle": "custom/flowers/dandelion/dandelion_break"
+		"0": "minecraft:custom/flowers/dandelion/dandelion",
+		"particle": "minecraft:custom/flowers/dandelion/dandelion_break"
 	},
 	"elements": [
 		{

@@ -4,8 +4,8 @@
 	"parent": "minecraft:block/cross",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/torchflower/torchflower",
-		"particle": "custom/flowers/torchflower/torchflower_break"
+		"cross": "minecraft:custom/flowers/torchflower/torchflower",
+		"particle": "minecraft:custom/flowers/torchflower/torchflower_break"
 	},
 	"elements": [
 		{

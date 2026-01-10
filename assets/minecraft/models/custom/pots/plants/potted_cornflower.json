@@ -1,9 +1,10 @@
 {
 	"credit": "Made by Ensis",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/cornflower/cornflower"
+		"cross": "minecraft:custom/flowers/cornflower/cornflower",
+		"particle": "minecraft:custom/flowers/cornflower/cornflower"
 	},
 	"elements": [
 		{

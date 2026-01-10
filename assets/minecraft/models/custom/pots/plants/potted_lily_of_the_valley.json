@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"plant": "custom/flowers/lily_of_the_valley/lily_of_the_valley"
+		"plant": "minecraft:custom/flowers/lily_of_the_valley/lily_of_the_valley",
+		"particle": "minecraft:custom/flowers/lily_of_the_valley/lily_of_the_valley"
 	},
 	"elements": [
 		{

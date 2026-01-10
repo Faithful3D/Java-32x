@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"plant": "custom/flowers/allium/allium"
+		"plant": "minecraft:custom/flowers/allium/allium",
+		"particle": "minecraft:custom/flowers/allium/allium"
 	},
 	"elements": [
 		{

@@ -4,7 +4,8 @@
 	"parent": "custom/doors/door_display",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "custom/doors/pale_oak"
+		"1": "minecraft:custom/doors/pale_oak",
+		"particle": "minecraft:custom/doors/pale_oak"
 	},
 	"elements": [
 		{

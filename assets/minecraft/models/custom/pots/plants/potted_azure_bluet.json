@@ -1,9 +1,10 @@
 {
 	"credit": "Made by Ensis",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/azure_bluet/azure_bluet"
+		"cross": "minecraft:custom/flowers/azure_bluet/azure_bluet",
+		"particle": "minecraft:custom/flowers/azure_bluet/azure_bluet"
 	},
 	"elements": [
 		{

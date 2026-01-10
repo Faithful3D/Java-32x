@@ -2,7 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"candle": "block/candle"
+		"candle": "minecraft:block/candle",
+		"particle": "minecraft:block/candle"
 	},
 	"elements": [
 		{

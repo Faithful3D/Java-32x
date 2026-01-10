@@ -1,8 +1,9 @@
 {
 	"credit": "Designed by Juknum",
-	"parent": "custom/doors/door_display",
+	"parent": "minecraft:custom/doors/door_display",
 	"textures": {
-		"1": "custom/doors/bamboo"
+		"1": "minecraft:custom/doors/bamboo",
+		"particle": "minecraft:custom/doors/bamboo"
 	},
 	"elements": [
 		{

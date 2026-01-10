@@ -1,9 +1,10 @@
 {
 	"credit": "Made by Ensis",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/poppy/poppy"
+		"cross": "minecraft:custom/flowers/poppy/poppy",
+		"particle": "minecraft:custom/flowers/poppy/poppy"
 	},
 	"elements": [
 		{

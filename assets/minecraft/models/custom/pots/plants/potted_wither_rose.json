@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
+	"parent": "minecraft:block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "custom/flowers/wither_rose/wither_rose",
-		"particle": "custom/flowers/wither_rose/wither_rose_break"
+		"cross": "minecraft:custom/flowers/wither_rose/wither_rose",
+		"particle": "minecraft:custom/flowers/wither_rose/wither_rose_break"
 	},
 	"elements": [
 		{
