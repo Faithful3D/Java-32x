@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/plank",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/jungle",
+    "particle": "minecraft:block/stripped_jungle_log"
+  }
+}

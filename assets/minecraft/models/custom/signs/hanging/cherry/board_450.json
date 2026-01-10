@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/board_450",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/cherry",
+    "particle": "minecraft:block/stripped_cherry_log"
+  }
+}

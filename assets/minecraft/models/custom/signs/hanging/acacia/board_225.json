@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/board_225",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/acacia",
+    "particle": "minecraft:block/stripped_acacia_log"
+  }
+}

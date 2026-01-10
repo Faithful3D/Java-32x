@@ -1,0 +1,468 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "rotation": 0
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 0,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 0,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 1
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_225",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 1,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_225",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 1,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_225",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 2
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_450",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 2,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_450",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 2,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_450",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 3
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_675",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 3,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_675",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 3,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_675",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "rotation": 4
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 4,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 4,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 5
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_225",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 5,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_225",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 5,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_225",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 6
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_450",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 6,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_450",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 6,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_450",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 7
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_675",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 7,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_675",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 7,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_675",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "rotation": 8
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 8,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 8,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 9
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_225",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 9,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_225",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 9,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_225",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 10
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_450",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 10,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_450",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 10,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_450",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 11
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_675",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 11,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_675",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 11,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_675",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "rotation": 12
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 12,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 12,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 13
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_225",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 13,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_225",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 13,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_225",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 14
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_450",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 14,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_450",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 14,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_450",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 15
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/pale_oak/board_675",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 15,
+        "attached": false
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_straight_675",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "rotation": 15,
+        "attached": true
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_attached_675",
+        "y": 270
+      }
+    }
+  ]
+}

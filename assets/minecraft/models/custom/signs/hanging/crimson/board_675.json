@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/board_675",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/crimson",
+    "particle": "minecraft:block/stripped_crimson_stem"
+  }
+}

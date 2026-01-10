@@ -1,0 +1,24 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Juknum with Blockbench",
+	"textures": {
+		"particle": "custom/signs/hanging/acacia",
+		"sign": "custom/signs/hanging/acacia"
+	},
+	"elements": [
+		{
+			"name": "board",
+			"from": [1, 0, 7],
+			"to": [15, 10, 9],
+			"rotation": {"x": 0, "y": -67.5, "z": 0, "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 7, 4, 12], "texture": "#sign"},
+				"east": {"uv": [0, 7, 0.5, 12], "texture": "#sign"},
+				"south": {"uv": [4.5, 7, 8, 12], "texture": "#sign"},
+				"west": {"uv": [4, 7, 4.5, 12], "texture": "#sign"},
+				"up": {"uv": [4, 7, 0.5, 6], "texture": "#sign"},
+				"down": {"uv": [7.5, 6, 4, 7], "texture": "#sign", "cullface": "down"}
+			}
+		}
+	]
+}

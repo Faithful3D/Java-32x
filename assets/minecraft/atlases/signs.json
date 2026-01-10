@@ -1,0 +1,71 @@
+{
+	"sources": [
+		{
+			"type": "minecraft:filter",
+			"pattern": {
+				"namespace": "^minecraft$",
+				"path": "^entity/signs/hanging/.*$"
+			}
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/acacia"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/bamboo"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/birch"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/cherry"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/crimson"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/dark_oak"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/jungle"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/mangrove"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/oak"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/pale_oak"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/spruce"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:custom/signs/empty",
+			"sprite": "minecraft:entity/signs/hanging/warped"
+		}
+	]
+}

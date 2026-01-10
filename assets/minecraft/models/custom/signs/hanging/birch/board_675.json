@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/board_675",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/birch",
+    "particle": "minecraft:block/stripped_birch_log"
+  }
+}
