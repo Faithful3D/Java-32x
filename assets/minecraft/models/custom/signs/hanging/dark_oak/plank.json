@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:custom/signs/hanging/plank",
+  "textures": {
+    "sign": "minecraft:custom/signs/hanging/dark_oak",
+    "particle": "minecraft:block/stripped_dark_oak_log"
+  }
+}
