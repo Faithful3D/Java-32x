@@ -28,6 +28,7 @@
 		{
 			"from": [6.75, 7, 6.75],
 			"to": [9.25, 13, 9.25],
+			"rotation": {"angle": 5, "axis": "z", "origin": [8, 10, 8]},
 			"faces": {
 				"north": {"uv": [7, 0, 13, 2.5], "rotation": 90, "texture": "#cross"},
 				"east": {"uv": [7, 3, 13, 5.5], "rotation": 90, "texture": "#cross"},
