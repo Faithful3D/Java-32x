@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": ["gui"],
+				"model": {
+					"type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/fishing_rod_cast"
+          },
+          "property": "minecraft:fishing_rod/cast"
+				}
+			}
+		],
+		"scale": 1,
+		"fallback": {
+			"type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:custom/tools/fishing_rod/fishing_rod"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:custom/tools/fishing_rod/fishing_rod_cast"
+      },
+      "property": "minecraft:fishing_rod/cast"
+		}
+  }
+}
