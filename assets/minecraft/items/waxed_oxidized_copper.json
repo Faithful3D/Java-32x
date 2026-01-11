@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/copper_block/oxidized_copper_screws"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:block/oxidized_copper"
+			}
+		]
+	}
+}

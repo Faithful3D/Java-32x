@@ -1,0 +1,10 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "minecraft:block/copper_block" }
+    },
+    {
+      "apply": { "model": "minecraft:custom/copper_block/copper_screws" }
+    }
+  ]
+}
