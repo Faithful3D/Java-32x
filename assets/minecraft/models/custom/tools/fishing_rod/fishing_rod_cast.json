@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/tools/fishing_rod/fishing_rod",
+	"textures": {
+		"1": "minecraft:item/fishing_rod_cast",
+		"particle": "minecraft:item/fishing_rod_cast"
+	}
+}
