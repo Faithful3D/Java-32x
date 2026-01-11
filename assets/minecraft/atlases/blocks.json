@@ -17,6 +17,11 @@
 		},
 		{
 			"type": "minecraft:single",
+			"resource": "entity/end_crystal/end_crystal",
+			"sprite": "atlas/end_crystal"
+		},
+		{
+			"type": "minecraft:single",
 			"resource": "entity/minecart/minecart",
 			"sprite": "atlas/minecart"
 		},
