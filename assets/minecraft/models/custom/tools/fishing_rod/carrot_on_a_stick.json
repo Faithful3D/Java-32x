@@ -1,0 +1,92 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/tools/tools_display",
+	"textures": {
+		"0": "custom/crops/carrots_stage3",
+		"particle": "custom/crops/carrots_stage3"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [11.24712, 3.5, 6.59241],
+			"to": [11.24712, 7.5, 9.39241],
+			"rotation": {"x": 0, "y": 45, "z": 15, "origin": [11.24965, 3.5, 7.99749]},
+			"faces": {
+				"east": {"uv": [4.5, 3, 14.5, 16], "texture": "#0"},
+				"west": {"uv": [4.5, 3, 14.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [9.85523, 3.5, 7.99951],
+			"to": [12.65523, 7.5, 7.99951],
+			"rotation": {"x": 0, "y": 45, "z": 15, "origin": [11.24965, 3.5, 7.99749]},
+			"faces": {
+				"north": {"uv": [4.5, 3, 14.5, 16], "texture": "#0"},
+				"south": {"uv": [4.5, 3, 14.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Carrot",
+			"from": [10.75, 2, 7.5],
+			"to": [11.75, 3.5, 8.5],
+			"rotation": {"angle": 15, "axis": "z", "origin": [11.24965, 3.5, 7.99749]},
+			"faces": {
+				"north": {"uv": [4, 6, 0, 12], "texture": "#0"},
+				"east": {"uv": [4, 6, 0, 12], "texture": "#0"},
+				"south": {"uv": [4, 6, 0, 12], "texture": "#0"},
+				"west": {"uv": [4, 6, 0, 12], "texture": "#0"},
+				"up": {"uv": [0, 2, 4, 6], "texture": "#0"},
+				"down": {"uv": [0, 2, 4, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Carrot",
+			"from": [10.875, 1, 7.625],
+			"to": [11.625, 2, 8.375],
+			"rotation": {"angle": 15, "axis": "z", "origin": [11.24965, 3.5, 7.99749]},
+			"faces": {
+				"north": {"uv": [3, 12, 0, 16], "texture": "#0"},
+				"east": {"uv": [3, 12, 0, 16], "texture": "#0"},
+				"south": {"uv": [3, 12, 0, 16], "texture": "#0"},
+				"west": {"uv": [3, 12, 0, 16], "texture": "#0"},
+				"down": {"uv": [0.5, 2.5, 3.5, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 90, 45],
+			"translation": [0, 4, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [10, -90, -45],
+			"translation": [0, 4, 1.25],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, 90, 0],
+			"translation": [0.13, 2.7, 1.13],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -90, 0],
+			"translation": [0.13, 2.7, 1.13],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 18, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
