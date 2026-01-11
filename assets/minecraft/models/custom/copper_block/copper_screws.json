@@ -1,0 +1,323 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "minecraft:block/copper_block",
+		"particle": "minecraft:block/copper_block"
+	},
+	"elements": [
+		{
+			"name": "copper_screw",
+			"from": [13, 13, -0.25],
+			"to": [14.5, 14.5, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 1.5, 13, 3], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14, 1.5, 14.25, 3], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [13, 1.5, 13.25, 3], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [14.5, 1.5, 13, 1.75], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [14.5, 2.5, 13, 2.75], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 13, -0.25],
+			"to": [3, 14.5, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 1.5, 1.5, 3], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [2.5, 1.5, 2.75, 3], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [1.5, 1.5, 1.75, 3], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [3, 1.5, 1.5, 1.75], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [3, 2.5, 1.5, 2.75], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 1.5, -0.25],
+			"to": [3, 3, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 13, 1.5, 14.5], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [2.5, 13, 2.75, 14.5], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [1.5, 13, 1.75, 14.5], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [3, 13, 1.5, 13.25], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [3, 14, 1.5, 14.25], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, 1.5, -0.25],
+			"to": [14.5, 3, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 13, 13, 14.5], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [14, 13, 14.25, 14.5], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [13, 13, 13.25, 14.5], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [14.5, 13, 13, 13.25], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [14.5, 14, 13, 14.25], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [16, 1.5, 1.5],
+			"to": [16.25, 3, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 13, 1.75, 14.5], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [3, 13, 1.5, 14.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [2.5, 13, 2.75, 14.5], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [3, 13, 1.5, 13.25], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [3, 14, 1.5, 14.25], "rotation": 90, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [16, 13, 1.5],
+			"to": [16.25, 14.5, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 1.5, 1.75, 3], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [3, 1.5, 1.5, 3], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [2.5, 1.5, 2.75, 3], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [3, 1.5, 1.5, 1.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [3, 2.5, 1.5, 2.75], "rotation": 90, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [16, 13, 13],
+			"to": [16.25, 14.5, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [13, 1.5, 13.25, 3], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [14.5, 1.5, 13, 3], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [14, 1.5, 14.25, 3], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [14.5, 1.5, 13, 1.75], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [14.5, 2.5, 13, 2.75], "rotation": 90, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [16, 1.5, 13],
+			"to": [16.25, 3, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [13, 13, 13.25, 14.5], "texture": "#0", "cullface": "east"},
+				"east": {"uv": [14.5, 13, 13, 14.5], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [14, 13, 14.25, 14.5], "texture": "#0", "cullface": "east"},
+				"up": {"uv": [14.5, 13, 13, 13.25], "rotation": 270, "texture": "#0", "cullface": "east"},
+				"down": {"uv": [14.5, 14, 13, 14.25], "rotation": 90, "texture": "#0", "cullface": "east"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, 16, 13],
+			"to": [14.5, 16.25, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 2.5, 13, 2.75], "texture": "#0", "cullface": "up"},
+				"east": {"uv": [14, 1.5, 14.25, 3], "rotation": 270, "texture": "#0", "cullface": "up"},
+				"south": {"uv": [14.5, 1.5, 13, 1.75], "rotation": 180, "texture": "#0", "cullface": "up"},
+				"west": {"uv": [13, 1.5, 13.25, 3], "rotation": 90, "texture": "#0", "cullface": "up"},
+				"up": {"uv": [14.5, 1.5, 13, 3], "rotation": 180, "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 16, 13],
+			"to": [3, 16.25, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 2.5, 1.5, 2.75], "texture": "#0", "cullface": "up"},
+				"east": {"uv": [2.5, 1.5, 2.75, 3], "rotation": 270, "texture": "#0", "cullface": "up"},
+				"south": {"uv": [3, 1.5, 1.5, 1.75], "rotation": 180, "texture": "#0", "cullface": "up"},
+				"west": {"uv": [1.5, 1.5, 1.75, 3], "rotation": 90, "texture": "#0", "cullface": "up"},
+				"up": {"uv": [3, 1.5, 1.5, 3], "rotation": 180, "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, 16, 1.5],
+			"to": [14.5, 16.25, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 14, 13, 14.25], "texture": "#0", "cullface": "up"},
+				"east": {"uv": [14, 13, 14.25, 14.5], "rotation": 270, "texture": "#0", "cullface": "up"},
+				"south": {"uv": [14.5, 13, 13, 13.25], "rotation": 180, "texture": "#0", "cullface": "up"},
+				"west": {"uv": [13, 13, 13.25, 14.5], "rotation": 90, "texture": "#0", "cullface": "up"},
+				"up": {"uv": [14.5, 13, 13, 14.5], "rotation": 180, "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 16, 1.5],
+			"to": [3, 16.25, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 14, 1.5, 14.25], "texture": "#0", "cullface": "up"},
+				"east": {"uv": [2.5, 13, 2.75, 14.5], "rotation": 270, "texture": "#0", "cullface": "up"},
+				"south": {"uv": [3, 13, 1.5, 13.25], "rotation": 180, "texture": "#0", "cullface": "up"},
+				"west": {"uv": [1.5, 13, 1.75, 14.5], "rotation": 90, "texture": "#0", "cullface": "up"},
+				"up": {"uv": [3, 13, 1.5, 14.5], "rotation": 180, "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [-0.25, 13, 1.5],
+			"to": [0, 14.5, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14, 1.5, 14.25, 3], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [13, 1.5, 13.25, 3], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [14.5, 1.5, 13, 3], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [14.5, 1.5, 13, 1.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [14.5, 2.5, 13, 2.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [-0.25, 1.5, 1.5],
+			"to": [0, 3, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14, 13, 14.25, 14.5], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [13, 13, 13.25, 14.5], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [14.5, 13, 13, 14.5], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [14.5, 13, 13, 13.25], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [14.5, 14, 13, 14.25], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [-0.25, 1.5, 13],
+			"to": [0, 3, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 13, 2.75, 14.5], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [1.5, 13, 1.75, 14.5], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [3, 13, 1.5, 14.5], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [3, 13, 1.5, 13.25], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [3, 14, 1.5, 14.25], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [-0.25, 13, 13],
+			"to": [0, 14.5, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 1.5, 2.75, 3], "texture": "#0", "cullface": "west"},
+				"south": {"uv": [1.5, 1.5, 1.75, 3], "texture": "#0", "cullface": "west"},
+				"west": {"uv": [3, 1.5, 1.5, 3], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [3, 1.5, 1.5, 1.75], "rotation": 90, "texture": "#0", "cullface": "west"},
+				"down": {"uv": [3, 2.5, 1.5, 2.75], "rotation": 270, "texture": "#0", "cullface": "west"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 1.5, 16],
+			"to": [3, 3, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [13, 13, 13.25, 14.5], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [14.5, 13, 13, 14.5], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [14, 13, 14.25, 14.5], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [14.5, 13, 13, 13.25], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [14.5, 14, 13, 14.25], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, 13, 16],
+			"to": [3, 14.5, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [13, 1.5, 13.25, 3], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [14.5, 1.5, 13, 3], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [14, 1.5, 14.25, 3], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [14.5, 1.5, 13, 1.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [14.5, 2.5, 13, 2.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, 13, 16],
+			"to": [14.5, 14.5, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [1.5, 1.5, 1.75, 3], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [3, 1.5, 1.5, 3], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [2.5, 1.5, 2.75, 3], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [3, 1.5, 1.5, 1.75], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [3, 2.5, 1.5, 2.75], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, 1.5, 16],
+			"to": [14.5, 3, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [1.5, 13, 1.75, 14.5], "texture": "#0", "cullface": "south"},
+				"south": {"uv": [3, 13, 1.5, 14.5], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [2.5, 13, 2.75, 14.5], "texture": "#0", "cullface": "south"},
+				"up": {"uv": [3, 13, 1.5, 13.25], "texture": "#0", "cullface": "south"},
+				"down": {"uv": [3, 14, 1.5, 14.25], "texture": "#0", "cullface": "south"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, -0.25, 1.5],
+			"to": [14.5, 0, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 1.5, 13, 1.75], "texture": "#0", "cullface": "down"},
+				"east": {"uv": [14, 1.5, 14.25, 3], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [14.5, 2.5, 13, 2.75], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [13, 1.5, 13.25, 3], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [14.5, 1.5, 13, 3], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, -0.25, 1.5],
+			"to": [3, 0, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 1.5, 1.5, 1.75], "texture": "#0", "cullface": "down"},
+				"east": {"uv": [2.5, 1.5, 2.75, 3], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [3, 2.5, 1.5, 2.75], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [1.5, 1.5, 1.75, 3], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [3, 1.5, 1.5, 3], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [1.5, -0.25, 13],
+			"to": [3, 0, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 13, 1.5, 13.25], "texture": "#0", "cullface": "down"},
+				"east": {"uv": [2.5, 13, 2.75, 14.5], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [3, 14, 1.5, 14.25], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [1.5, 13, 1.75, 14.5], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [3, 13, 1.5, 14.5], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "copper_screw",
+			"from": [13, -0.25, 13],
+			"to": [14.5, 0, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [14.5, 13, 13, 13.25], "texture": "#0", "cullface": "down"},
+				"east": {"uv": [14, 13, 14.25, 14.5], "rotation": 90, "texture": "#0", "cullface": "down"},
+				"south": {"uv": [14.5, 14, 13, 14.25], "rotation": 180, "texture": "#0", "cullface": "down"},
+				"west": {"uv": [13, 13, 13.25, 14.5], "rotation": 270, "texture": "#0", "cullface": "down"},
+				"down": {"uv": [14.5, 13, 13, 14.5], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}
