@@ -1,0 +1,111 @@
+{
+	"credit": "Made by Juknum using Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-8, 0, -8],
+			"rotate": [-180, 0, 0],
+			"submodels": [
+				{
+					"id": "base_full",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-7, -10, 9, 14, 10, 14],
+							"uvNorth": [14, 33, 28, 43],
+							"uvEast": [0, 33, 14, 43],
+							"uvSouth": [42, 33, 56, 43],
+							"uvWest": [28, 33, 42, 43],
+							"uvUp": [28, 33, 14, 19],
+							"uvDown": [56, 19, 42, 33]
+						},
+						{
+							"coordinates": [6, -10, 10, -12, 8, 12],
+							"uvNorth": [15, 1, 27, 9],
+							"uvEast": [15, 1, 27, 9],
+							"uvSouth": [15, 1, 27, 9],
+							"uvWest": [15, 1, 27, 9],
+							"uvUp": [27, 13, 15, 1]
+						}
+					]
+				},
+				{
+					"id": "chest_lod",
+					"invertAxis": "xy",
+					"translate": [8, 0, 8],
+					"boxes": [
+						{
+							"coordinates": [-15, -14, 1, 14, 14, 14],
+							"uvNorth": [14, 33, 28, 47],
+							"uvEast": [0, 33, 14, 47],
+							"uvSouth": [42, 33, 56, 47],
+							"uvWest": [28, 33, 42, 47],
+							"uvUp": [28, 33, 14, 19],
+							"uvDown": [42, 0, 28, 14]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"base_full.visible": "lid.rx != 0",
+					"chest_lod.visible": "lid.rx == 0"
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-7, 4, 7, 14, 5, 14],
+					"uvNorth": [14, 14, 28, 19],
+					"uvEast": [0, 14, 14, 19],
+					"uvSouth": [42, 14, 56, 19],
+					"uvWest": [28, 14, 42, 19],
+					"uvUp": [14, 33, 0, 19],
+					"uvDown": [42, 0, 28, 14]
+				},
+				{
+					"coordinates": [6, 4.25, 8, -12, 4.75, 12],
+					"uvNorth": [15, 5.75, 27, 1],
+					"uvEast": [15, 5.75, 27, 1],
+					"uvSouth": [15, 5.75, 27, 1],
+					"uvWest": [15, 5.75, 27, 1],
+					"uvDown": [15, 13, 27, 1]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"lid.rx": "lid.rx/1.25",
+					"this.visible": "lid.rx != 0"
+				}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-1, 6.5, 21, 2, 4, 1], "textureOffset": [0, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"knob.rx": "knob.rx/1.25"
+				}
+			]
+		}
+	]
+}
