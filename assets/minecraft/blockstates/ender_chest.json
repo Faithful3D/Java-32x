@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/ender_chest"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/ender_chest/ender_chest_portal"
+      }
+    }
+  ]
+}
