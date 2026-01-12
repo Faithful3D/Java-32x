@@ -1,0 +1,106 @@
+{
+	"credit": "Made by Juknum using Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-8, 0, -8],
+			"rotate": [-180, 0, 0],
+			"submodels": [
+				{
+					"id": "base_full",
+					"invertAxis": "xy",
+					"translate": [-8, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [14, -10, 10, -14, 8, 12],
+							"uvNorth": [15, 1, 29, 9],
+							"uvSouth": [15, 1, 29, 9],
+							"uvWest": [15, 1, 29, 9],
+							"uvUp": [15, 1, 29, 13]
+						},
+						{
+							"coordinates": [0, -10, 9, 15, 10, 14],
+							"uvNorth": [14, 33, 29, 43],
+							"uvEast": [0, 33, 14, 43],
+							"uvSouth": [43, 33, 58, 43],
+							"uvUp": [29, 33, 14, 19],
+							"uvDown": [59, 19, 44, 33]
+						}
+					]
+				},
+				{
+					"id": "chest_lod",
+					"invertAxis": "xy",
+					"translate": [8, 0, 8],
+					"boxes": [
+						{
+							"coordinates": [-16, -14, 1, 15, 14, 14],
+							"uvNorth": [14, 33, 29, 47],
+							"uvEast": [0, 33, 14, 47],
+							"uvSouth": [43, 33, 58, 47],
+							"uvUp": [29, 33, 14, 19],
+							"uvDown": [44, 0, 29, 14]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"base_full.visible": "lid.rx != 0",
+					"chest_lod.visible": "lid.rx == 0"
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-8, 4, 7, 15, 5, 14],
+					"uvNorth": [14, 14, 29, 19],
+					"uvEast": [0, 14, 14, 19],
+					"uvSouth": [43, 14, 58, 19],
+					"uvUp": [59, 14, 44, 0],
+					"uvDown": [44, 0, 29, 14]
+				},
+				{
+					"coordinates": [6, 5, 8, -14, 4, 12],
+					"uvNorth": [15, 1, 29, 5],
+					"uvSouth": [15, 1, 29, 5],
+					"uvWest": [15, 1, 27, 5],
+					"uvDown": [15, 1, 29, 13]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"lid.rx": "lid.rx/1.25",
+					"this.visible": "lid.rx != 0"
+				}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, 6.5, 21, 1, 4, 1], "textureOffset": [0, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"knob.rx": "knob.rx/1.25"
+				}
+			]
+		}
+	]
+}
