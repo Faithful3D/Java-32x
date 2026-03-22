@@ -3,13 +3,13 @@
         "facing=north,half=bottom,open=false": {
             "model": "custom/trapdoors/iron"
         },
-        "facing=south,half=bottom,open=false": {
-            "model": "custom/trapdoors/iron",
-            "y": 180
-        },
         "facing=east,half=bottom,open=false": {
             "model": "custom/trapdoors/iron",
             "y": 90
+        },
+        "facing=south,half=bottom,open=false": {
+            "model": "custom/trapdoors/iron",
+            "y": 180
         },
         "facing=west,half=bottom,open=false": {
             "model": "custom/trapdoors/iron",
@@ -20,14 +20,14 @@
             "x": 180,
             "y": 180
         },
-        "facing=south,half=top,open=false": {
-            "model": "custom/trapdoors/iron",
-            "x": 180
-        },
         "facing=east,half=top,open=false": {
             "model": "custom/trapdoors/iron",
             "x": 180,
             "y": 270
+        },
+        "facing=south,half=top,open=false": {
+            "model": "custom/trapdoors/iron",
+            "x": 180
         },
         "facing=west,half=top,open=false": {
             "model": "custom/trapdoors/iron",
@@ -39,15 +39,15 @@
             "x": 270,
             "y": 180
         },
-        "facing=south,half=bottom,open=true": {
-            "model": "custom/trapdoors/iron",
-            "x": 270,
-            "y": 0
-        },
         "facing=east,half=bottom,open=true": {
             "model": "custom/trapdoors/iron",
             "x": 270,
             "y": 270
+        },
+        "facing=south,half=bottom,open=true": {
+            "model": "custom/trapdoors/iron",
+            "x": 270,
+            "y": 0
         },
         "facing=west,half=bottom,open=true": {
             "model": "custom/trapdoors/iron",
@@ -56,24 +56,20 @@
         },
         "facing=north,half=top,open=true": {
             "model": "custom/trapdoors/iron",
-            "z": 180,
             "x": 90
         },
         "facing=south,half=top,open=true": {
             "model": "custom/trapdoors/iron",
-            "z": 180,
             "x": 90,
             "y": 180
         },
         "facing=east,half=top,open=true": {
             "model": "custom/trapdoors/iron",
-            "z": 180,
             "x": 90,
             "y": 90
         },
         "facing=west,half=top,open=true": {
             "model": "custom/trapdoors/iron",
-            "z": 180,
             "x": 90,
             "y": 270
         }
