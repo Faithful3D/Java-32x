@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:custom/flowers/golden_dandelion",
+        "y": 0
+      },
+      {
+        "model": "minecraft:custom/flowers/golden_dandelion",
+        "y": 90
+      },
+      {
+        "model": "minecraft:custom/flowers/golden_dandelion",
+        "y": 180
+      },
+      {
+        "model": "minecraft:custom/flowers/golden_dandelion",
+        "y": 270
+      }
+    ]
+  }
+}

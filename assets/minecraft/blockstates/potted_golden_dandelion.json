@@ -1,0 +1,14 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:custom/pots/flower_pot"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:custom/pots/plants/potted_golden_dandelion"
+      }
+    }
+  ]
+}
