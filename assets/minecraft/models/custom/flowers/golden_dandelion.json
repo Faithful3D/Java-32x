@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by Juknum",
+	"ambientocclusion": false,
+	"parent": "custom/flowers/dandelion",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/flowers/golden_dandelion/golden_dandelion",
+		"particle": "custom/flowers/golden_dandelion/golden_dandelion_break"
+	}
+}

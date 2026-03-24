@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Juknum",
+	"parent": "minecraft:custom/pots/plants/potted_dandelion",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "minecraft:custom/flowers/golden_dandelion/golden_dandelion",
+		"particle": "minecraft:custom/flowers/golden_dandelion/golden_dandelion_break"
+	}
+}
