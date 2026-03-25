@@ -1,0 +1,52 @@
+{
+  "multipart": [
+    {
+      "when":  { "facing": "down" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper_vertical", "x": 180 }
+    },
+    {
+      "when":  { "facing": "down" },
+      "apply": {  "model": "minecraft:custom/dispenser/dispenser_vertical_base", "x": 180 }
+    },
+    {
+      "when":  { "facing": "up" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper_vertical" }
+    },
+    {
+      "when":  { "facing": "up" },
+      "apply": {  "model": "minecraft:custom/dispenser/dispenser_vertical_base" }
+    },
+    {
+      "when":  { "facing": "north" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper" }
+    },
+    {
+      "when":  { "facing": "north" },
+      "apply": {  "model": "minecraft:custom/furnace/furnace_base" }
+    },
+    {
+      "when":  { "facing": "east" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper", "y": 90 }
+    },
+    {
+      "when":  { "facing": "east" },
+      "apply": {  "model": "minecraft:custom/furnace/furnace_base", "y": 90 }
+    },
+    {
+      "when":  { "facing": "south" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper", "y": 180 }
+    },
+    {
+      "when":  { "facing": "south" },
+      "apply": {  "model": "minecraft:custom/furnace/furnace_base", "y": 180 }
+    },
+    {
+      "when":  { "facing": "west" },
+      "apply": {  "model": "minecraft:custom/dropper/dropper", "y": 270 }
+    },
+    {
+      "when":  { "facing": "west" },
+      "apply": {  "model": "minecraft:custom/furnace/furnace_base", "y": 270 }
+    }
+  ]
+}
