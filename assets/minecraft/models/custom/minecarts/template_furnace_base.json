@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:custom/furnace/furnace",
+    "parent": "minecraft:custom/furnace/furnace_base",
     "display": {
         "gui": {
             "rotation": [ 30, 135, 0 ],

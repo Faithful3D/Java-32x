@@ -9,6 +9,10 @@
 			{
 				"type": "minecraft:model",
 				"model": "minecraft:custom/minecarts/template_furnace"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/minecarts/template_furnace_base"
 			}
 		]
 	}
