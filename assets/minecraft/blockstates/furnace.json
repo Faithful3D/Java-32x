@@ -1,0 +1,120 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north",
+        "lit": false
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "lit": false
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "lit": false
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "lit": false
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "lit": true
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_on",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "lit": true
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_on",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "lit": true
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_on",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "lit": true
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_on",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_base",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_base",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_base",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "minecraft:custom/furnace/furnace_base",
+        "y": 270
+      }
+    }
+  ]
+}
