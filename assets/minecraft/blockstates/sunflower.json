@@ -1,10 +1,18 @@
 {
   "variants": {
-    "half=lower": {
-      "model": "minecraft:custom/double_flowers/sunflower_bottom"
-    },
+    "half=lower": [
+      {
+        "model": "minecraft:custom/double_flowers/sunflower/sunflower_bottom"
+      },
+      {
+        "model": "minecraft:custom/double_flowers/sunflower/sunflower_bottom2"
+      },
+      {
+        "model": "minecraft:custom/double_flowers/sunflower/sunflower_bottom3"
+      }
+    ],
     "half=upper": {
-      "model": "minecraft:custom/double_flowers/sunflower_top"
+      "model": "minecraft:custom/double_flowers/sunflower/sunflower_top"
     }
   }
 }
