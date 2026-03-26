@@ -14,7 +14,7 @@
 		"scale": 1,
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:custom/double_flowers/sunflower_bottom"
+			"model": "minecraft:custom/double_flowers/sunflower/sunflower_bottom"
 		}
 	}
 }
