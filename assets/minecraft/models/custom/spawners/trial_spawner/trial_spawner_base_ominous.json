@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Designed by Juknum",
+	"parent": "custom/spawners/trial_spawner/trial_spawner_base",
+	"textures": {
+		"0": "custom/trial_spawner/trial_spawner_bottom",
+		"1": "custom/trial_spawner/trial_spawner_side_ominous",
+		"2": "custom/trial_spawner/trial_spawner_skull_ominous",
+		"particle": "custom/trial_spawner/trial_spawner_bottom"
+	}
+}

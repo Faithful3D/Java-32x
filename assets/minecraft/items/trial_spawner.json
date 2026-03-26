@@ -1,0 +1,15 @@
+{
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/spawners/trial_spawner/trial_spawner_base"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/spawners/trial_spawner/trial_spawner_top"
+			}
+		]
+	}
+}

@@ -1,0 +1,160 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "cooldown"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "cooldown"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous"
+      }
+    },
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "inactive"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "inactive"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous"
+      }
+    },
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "active"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "active"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "ejecting_reward"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "ejecting_reward"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "waiting_for_players"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "waiting_for_players"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": false,
+        "trial_spawner_state": "waiting_for_reward_ejection"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_active"
+      }
+    },
+    {
+      "when": {
+        "ominous": true,
+        "trial_spawner_state": "waiting_for_reward_ejection"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_base_ominous_active"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "active"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "cooldown"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "ejecting_reward"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top_open"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "inactive"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "waiting_for_players"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top"
+      }
+    },
+    {
+      "when": {
+        "trial_spawner_state": "waiting_for_reward_ejection"
+      },
+      "apply": {
+        "model": "custom/spawners/trial_spawner/trial_spawner_top"
+      }
+    }
+  ]
+}
