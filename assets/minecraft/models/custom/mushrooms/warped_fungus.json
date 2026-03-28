@@ -1,16 +1,17 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench by Juknum",
 	"textures": {
-		"0": "minecraft:block/warped_fungus",
-		"1": "minecraft:custom/mushrooms/warped_fungus_top",
-		"2": "minecraft:custom/mushrooms/warped_fungus_bottom",
-		"particle": "minecraft:block/warped_fungus"
+		"0": "block/warped_fungus",
+		"1": "custom/mushrooms/warped_fungus_top",
+		"2": "custom/mushrooms/warped_fungus_bottom",
+		"particle": "block/warped_fungus"
 	},
 	"elements": [
 		{
-			"from": [7, 0, 7],
-			"to": [9, 5, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"from": [7, -0.075, 7],
+			"to": [9, 4.925, 9],
+			"rotation": {"angle": -2.5, "axis": "x", "origin": [8, 5.5, 8]},
 			"faces": {
 				"north": {"uv": [7, 11, 9, 16], "texture": "#0"},
 				"east": {"uv": [7, 11, 9, 16], "texture": "#0"},
@@ -20,9 +21,22 @@
 			}
 		},
 		{
-			"from": [3.5, 5, 3.5],
-			"to": [12.5, 8.5, 12.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [11.5, 13, 11.5]},
+			"from": [3, 5.325, 3],
+			"to": [13, 7.825, 13],
+			"rotation": {"angle": -2.5, "axis": "x", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
+				"east": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
+				"south": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
+				"west": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#1"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#2"}
+			}
+		},
+		{
+			"from": [3.5, 4.825, 3.5],
+			"to": [12.5, 8.325, 12.5],
+			"rotation": {"angle": -2.5, "axis": "x", "origin": [8, 5.5, 8]},
 			"faces": {
 				"north": {"uv": [3.5, 7.5, 12.5, 11], "texture": "#0"},
 				"east": {"uv": [12.5, 7.5, 3.5, 11], "texture": "#0"},
@@ -33,9 +47,9 @@
 			}
 		},
 		{
-			"from": [4.5, 8.5, 4.5],
-			"to": [11.5, 9, 11.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [12.5, 16.5, 12.75]},
+			"from": [4.5, 8.325, 4.5],
+			"to": [11.5, 8.825, 11.5],
+			"rotation": {"angle": -2.5, "axis": "x", "origin": [8, 5.5, 8]},
 			"faces": {
 				"north": {"uv": [4.5, 7, 11.5, 7.5], "texture": "#0"},
 				"east": {"uv": [11.5, 7, 4.5, 7.5], "texture": "#0"},
@@ -43,19 +57,15 @@
 				"west": {"uv": [11.5, 7, 4.5, 7.5], "texture": "#0"},
 				"up": {"uv": [4.5, 4.5, 11.5, 11.5], "texture": "#1"}
 			}
-		},
+		}
+	],
+	"groups": [
 		{
-			"from": [3, 5.5, 3],
-			"to": [13, 8, 13],
-			"rotation": {"angle": 0, "axis": "y", "origin": [11, 13.5, 11.25]},
-			"faces": {
-				"north": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
-				"east": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
-				"south": {"uv": [3, 8, 13, 10.5], "texture": "#0"},
-				"west": {"uv": [13, 8, 3, 10.5], "texture": "#0"},
-				"up": {"uv": [3, 3, 13, 13], "texture": "#1"},
-				"down": {"uv": [3, 3, 13, 13], "texture": "#2"}
-			}
+			"name": "group",
+			"origin": [11, 13.5, 11.25],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3]
 		}
 	]
 }

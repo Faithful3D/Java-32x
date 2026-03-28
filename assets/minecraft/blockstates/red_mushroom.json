@@ -3,6 +3,18 @@
         "": [
             {
                 "model": "minecraft:custom/mushrooms/red_mushroom"
+            },
+            {
+                "model": "minecraft:custom/mushrooms/red_mushroom",
+                "y": 90
+            },
+            {
+                "model": "minecraft:custom/mushrooms/red_mushroom",
+                "y": 180
+            },
+            {
+                "model": "minecraft:custom/mushrooms/red_mushroom",
+                "y": 270
             }
         ]
     }

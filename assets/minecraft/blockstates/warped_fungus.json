@@ -3,6 +3,18 @@
         "": [
             {
                 "model": "minecraft:custom/mushrooms/warped_fungus"
+            },
+            {
+                "model": "minecraft:custom/mushrooms/warped_fungus",
+                "y": 90
+            },
+            {
+                "model": "minecraft:custom/mushrooms/warped_fungus",
+                "y": 180
+            },
+            {
+                "model": "minecraft:custom/mushrooms/warped_fungus",
+                "y": 270
             }
         ]
     }
