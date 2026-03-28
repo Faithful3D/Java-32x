@@ -1,96 +1,247 @@
 {
-  "variants": {
-    "facing=down,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head",
-      "x": 90
+  "multipart": [
+    {
+      "when": {
+        "short": false,
+        "facing": "north"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension"
+      }
     },
-    "facing=down,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky",
-      "x": 90
+    {
+      "when": {
+        "short": false,
+        "facing": "south"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension",
+        "y": 180
+      }
     },
-    "facing=down,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short",
-      "x": 90
+    {
+      "when": {
+        "short": false,
+        "facing": "east"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension",
+        "y": 90
+      }
     },
-    "facing=down,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky",
-      "x": 90
+    {
+      "when": {
+        "short": false,
+        "facing": "west"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension",
+        "y": 270
+      }
     },
-    "facing=east,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head",
-      "y": 90
+    {
+      "when": {
+        "short": false,
+        "facing": "up"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension",
+        "x": 270
+      }
     },
-    "facing=east,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky",
-      "y": 90
+    {
+      "when": {
+        "short": false,
+        "facing": "down"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_extension",
+        "x": 90
+      }
     },
-    "facing=east,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short",
-      "y": 90
+
+
+
+    {
+      "when": {
+        "type": "normal",
+        "facing": "north"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head"
+      }
     },
-    "facing=east,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky",
-      "y": 90
+    {
+      "when": {
+        "type": "normal",
+        "facing": "south"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 180
+      }
     },
-    "facing=north,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head"
+    {
+      "when": {
+        "type": "normal",
+        "facing": "east"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 90
+      }
     },
-    "facing=north,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky"
+    {
+      "when": {
+        "type": "normal",
+        "facing": "west"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 270
+      }
     },
-    "facing=north,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short"
+    {
+      "when": {
+        "type": "normal",
+        "facing": "up"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "x": 270
+      }
     },
-    "facing=north,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky"
+    {
+      "when": {
+        "type": "normal",
+        "facing": "down"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "x": 90
+      }
     },
-    "facing=south,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head",
-      "y": 180
+    
+
+    {
+      "when": {
+        "type": "normal",
+        "facing": "north"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head"
+      }
     },
-    "facing=south,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky",
-      "y": 180
+    {
+      "when": {
+        "type": "normal",
+        "facing": "south"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 180
+      }
     },
-    "facing=south,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short",
-      "y": 180
+    {
+      "when": {
+        "type": "normal",
+        "facing": "east"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 90
+      }
     },
-    "facing=south,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky",
-      "y": 180
+    {
+      "when": {
+        "type": "normal",
+        "facing": "west"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "y": 270
+      }
     },
-    "facing=up,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head",
-      "x": 270
+    {
+      "when": {
+        "type": "normal",
+        "facing": "up"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "x": 270
+      }
     },
-    "facing=up,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky",
-      "x": 270
+    {
+      "when": {
+        "type": "normal",
+        "facing": "down"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head",
+        "x": 90
+      }
     },
-    "facing=up,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short",
-      "x": 270
+
+
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "north"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky"
+      }
     },
-    "facing=up,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky",
-      "x": 270
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "south"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky",
+        "y": 180
+      }
     },
-    "facing=west,short=false,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head",
-      "y": 270
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "east"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky",
+        "y": 90
+      }
     },
-    "facing=west,short=false,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_sticky",
-      "y": 270
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "west"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky",
+        "y": 270
+      }
     },
-    "facing=west,short=true,type=normal": {
-      "model": "minecraft:custom/pistons/piston_head_short",
-      "y": 270
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "up"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky",
+        "x": 270
+      }
     },
-    "facing=west,short=true,type=sticky": {
-      "model": "minecraft:custom/pistons/piston_head_short_sticky",
-      "y": 270
+    {
+      "when": {
+        "type": "sticky",
+        "facing": "down"
+      },
+      "apply": {
+        "model": "custom/pistons/piston_head_sticky",
+        "x": 90
+      }
     }
-  }
+  ]
 }

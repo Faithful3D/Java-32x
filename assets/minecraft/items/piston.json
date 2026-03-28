@@ -1,6 +1,15 @@
 {
 	"model": {
-		"type": "minecraft:model",
-		"model": "minecraft:custom/pistons/piston"
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/pistons/piston_base"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:custom/pistons/piston_head"
+			}
+		]
 	}
 }

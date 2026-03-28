@@ -1,11 +1,10 @@
 {
-	"credit": "Made with Blockbench by Juknum",
 	"ambientocclusion": false,
-	"parent": "minecraft:custom/pistons/piston_head",
+	"parent": "custom/pistons/piston_head",
 	"textures": {
-		"platform": "block/piston_top_sticky",
-		"side": "block/piston_side",
-		"unsticky": "block/piston_top",
-		"particle": "block/piston_top"
+		"2": "block/piston_top",
+		"3": "block/piston_top_sticky",
+		"particle": "block/piston_top",
+		"side": "block/piston_side"
 	}
 }

@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Designed by Juknum",
+	"ambientocclusion": false,
+	"textures": {
+		"side": "block/piston_side",
+		"particle": "block/piston_top"
+	},
+	"elements": [
+		{
+			"from": [5.75, 5.75, 18],
+			"to": [10.25, 10.25, 20],
+			"faces": {
+				"north": {"uv": [6, 7.5, 10.5, 12], "texture": "#side"},
+				"east": {"uv": [14, 0, 16, 4], "texture": "#side"},
+				"west": {"uv": [14, 0, 16, 4], "texture": "#side"},
+				"up": {"uv": [14, 0, 16, 4], "rotation": 90, "texture": "#side"},
+				"down": {"uv": [14, 0, 16, 4], "rotation": 90, "texture": "#side"}
+			}
+		},
+		{
+			"from": [6, 6, 15.5],
+			"to": [10, 10, 18],
+			"faces": {
+				"east": {"uv": [2, 0, 4.5, 4], "texture": "#side"},
+				"west": {"uv": [9, 0, 11.5, 4], "texture": "#side"},
+				"up": {"uv": [2, 0, 4.5, 4], "rotation": 270, "texture": "#side"},
+				"down": {"uv": [2, 0, 4.5, 4], "rotation": 90, "texture": "#side"}
+			}
+		}
+	]
+}
