@@ -1,0 +1,8 @@
+{
+	"credit": "Designed by Juknum",
+	"parent": "minecraft:custom/boats/template_boat",
+	"textures": {
+		"texture": "minecraft:custom/boats/poplar",
+		"particle": "minecraft:custom/boats/poplar"
+	}
+}
