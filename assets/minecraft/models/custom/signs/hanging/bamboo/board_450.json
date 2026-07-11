@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:custom/signs/hanging/board_450",
   "textures": {
-    "sign": "minecraft:custom/signs/hanging/bamboo",
+    "sign": "minecraft:block/bamboo_hanging_sign",
     "particle": "minecraft:block/stripped_bamboo_block"
   }
 }

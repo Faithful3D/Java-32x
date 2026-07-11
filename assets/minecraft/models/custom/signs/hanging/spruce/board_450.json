@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:custom/signs/hanging/board_450",
   "textures": {
-    "sign": "minecraft:custom/signs/hanging/spruce",
+    "sign": "minecraft:block/spruce_hanging_sign",
     "particle": "minecraft:block/stripped_spruce_log"
   }
 }

@@ -6,11 +6,6 @@
 			"prefix": "custom/"
 		},
 		{
-			"type": "minecraft:directory",
-			"source": "entity/signs/hanging",
-			"prefix": "custom/signs/hanging/"
-		},
-		{
 			"type": "minecraft:single",
 			"resource": "entity/armorstand/armorstand",
 			"sprite": "atlas/armor_stand"
