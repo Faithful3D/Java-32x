@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/_template_inverted",
+  "textures": {
+    "all": "minecraft:block/orange_poplar_leaves"
+  }
+}
