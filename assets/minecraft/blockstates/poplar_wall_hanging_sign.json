@@ -1,0 +1,112 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/plank"
+      }
+    },
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/board"
+      }
+    },
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_wall"
+      }
+    },
+
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/plank",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/board",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_wall",
+        "y": 90
+      }
+    },
+
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/plank",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/board",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_wall",
+        "y": 180
+      }
+    },
+
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/plank",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/poplar/board",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "minecraft:custom/signs/hanging/chains_wall",
+        "y": 270
+      }
+    }
+  ]
+}
