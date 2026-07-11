@@ -19,6 +19,7 @@ Added:
 - Furnace (only for Minecraft 26.1+)
 - Dispenser (only for Minecraft 26.1+)
 - Dropper (only for Minecraft 26.1+)
+- Sulfur Spike (only for Minecraft 26.2+)
 - Trial Spawner
 
 Fixed:
