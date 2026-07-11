@@ -1,0 +1,77 @@
+{
+    "variants": {
+        "facing=north,half=bottom,open=false": {
+            "model": "custom/trapdoors/poplar"
+        },
+        "facing=east,half=bottom,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "y": 90
+        },
+        "facing=south,half=bottom,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "y": 180
+        },
+        "facing=west,half=bottom,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "y": 270
+        },
+        "facing=north,half=top,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "x": 180,
+            "y": 180
+        },
+        "facing=east,half=top,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "x": 180,
+            "y": 270
+        },
+        "facing=south,half=top,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "x": 180
+        },
+        "facing=west,half=top,open=false": {
+            "model": "custom/trapdoors/poplar",
+            "x": 180,
+            "y": 90
+        },
+        "facing=north,half=bottom,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 270,
+            "y": 180
+        },
+        "facing=east,half=bottom,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 270,
+            "y": 270
+        },
+        "facing=south,half=bottom,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 270,
+            "y": 0
+        },
+        "facing=west,half=bottom,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 270,
+            "y": 90
+        },
+        "facing=north,half=top,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 90
+        },
+        "facing=south,half=top,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 90,
+            "y": 180
+        },
+        "facing=east,half=top,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 90,
+            "y": 90
+        },
+        "facing=west,half=top,open=true": {
+            "model": "custom/trapdoors/poplar",
+            "x": 90,
+            "y": 270
+        }
+    }
+}
