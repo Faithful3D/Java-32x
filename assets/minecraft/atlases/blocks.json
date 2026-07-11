@@ -12,7 +12,7 @@
 		},
 		{
 			"type": "minecraft:single",
-			"resource": "entity/armorstand/wood",
+			"resource": "entity/armorstand/armorstand",
 			"sprite": "atlas/armor_stand"
 		},
 		{
@@ -22,7 +22,7 @@
 		},
 		{
 			"type": "minecraft:single",
-			"resource": "entity/minecart",
+			"resource": "entity/minecart/minecart",
 			"sprite": "atlas/minecart"
 		},
 		{
