@@ -1,0 +1,19 @@
+{
+	"comment": "Designed by Juknum",
+	"variants": {
+		"thickness=base,vertical_direction=down":      { "model": "minecraft:custom/sulfur_spike/sulfur_spike_base",      "x": 180 },
+		"thickness=base,vertical_direction=up":        { "model": "minecraft:custom/sulfur_spike/sulfur_spike_base"                },
+
+		"thickness=frustum,vertical_direction=down":   { "model": "minecraft:custom/sulfur_spike/sulfur_spike_frustum",   "x": 180 },
+		"thickness=frustum,vertical_direction=up":     { "model": "minecraft:custom/sulfur_spike/sulfur_spike_frustum"             },
+
+		"thickness=middle,vertical_direction=down":    { "model": "minecraft:custom/sulfur_spike/sulfur_spike_middle",    "x": 180 },
+		"thickness=middle,vertical_direction=up":      { "model": "minecraft:custom/sulfur_spike/sulfur_spike_middle"              },
+
+		"thickness=tip,vertical_direction=down":       { "model": "minecraft:custom/sulfur_spike/sulfur_spike_tip",       "x": 180 },
+		"thickness=tip,vertical_direction=up":         { "model": "minecraft:custom/sulfur_spike/sulfur_spike_tip"                 },
+		
+		"thickness=tip_merge,vertical_direction=down": { "model": "minecraft:custom/sulfur_spike/sulfur_spike_tip_merge", "x": 180 },
+		"thickness=tip_merge,vertical_direction=up":   { "model": "minecraft:custom/sulfur_spike/sulfur_spike_tip_merge"           }
+	}
+}
