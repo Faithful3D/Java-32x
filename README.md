@@ -2,6 +2,45 @@
 
 ## Changelog
 
+### JUL26
+
+Added:
+- Hanging signs
+- Copper block
+- End Crystal in-hand model
+- Fishing Rod
+- Carrot on a Stick
+- Warped Fungus on a Stick
+- Lectern & Enchanting Table books (optifine)
+- Normal and Trapped Chests (optifine)
+- Ender Chest (optifine)
+- Spawner
+- Golden Dandelion (only for Minecraft 26.1+)
+- Furnace (only for Minecraft 26.1+)
+- Dispenser (only for Minecraft 26.1+)
+- Dropper (only for Minecraft 26.1+)
+- Trial Spawner
+
+Fixed:
+- Numerous warnings on pack loading
+- Updated the Stick model to match latest texture
+- Tools rotation in shelves
+- Trapdoors orientation #48
+- Now compatible with sodium (only for Minecraft 26.1+)
+- Redstone wire being white
+- Missing pixels on axes, hoes and pickaxes
+- Potted Fern being gray
+- Recipe book GUI icon (only for Minecraft 1.20.2+)
+
+Changed:
+- Armor Stand item model
+- Add slight rotation to the Torchflower
+- Reworked Berry Bushes
+- Tweaked flowers rotation (only for Minecraft 1.21.11+)
+- Lowered the Lily Pad to make it touch the water surface
+- Reworked the Red and Brown Mushroom models to be faithful to their textures
+- Reworked pistons to match the dispenser/dropper model
+
 ### OCT25
 
 Ported to 1.21.9 / 1.21.10
