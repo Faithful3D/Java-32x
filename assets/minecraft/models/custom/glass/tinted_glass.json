@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:custom/glass/glass_block",
   "textures": {
+    "particle": "minecraft:block/tinted_glass",
     "all": "minecraft:block/tinted_glass"
   }
 }
