@@ -2,6 +2,21 @@
 
 ## Changelog
 
+### Unpublished
+
+Added:
+- Poplar Hanging Sign
+- Poplar Boats
+- Poplar Leaves
+- Poplar Trapdoor
+- Poplar Door
+
+Changed:
+- Simplified hanging sign models (no more atlases)
+
+Fixed:
+- Tinted Glass not using the correct particles
+
 ### JUL26
 
 Added:
@@ -15,7 +30,7 @@ Added:
 - Normal and Trapped Chests (optifine)
 - Ender Chest (optifine)
 - Spawner
-- Golden Dandelion
+- Golden Dandelion (only for Minecraft 26.1+)
 - Furnace (only for Minecraft 26.1+)
 - Dispenser (only for Minecraft 26.1+)
 - Dropper (only for Minecraft 26.1+)
